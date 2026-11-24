@@ -1,0 +1,3335 @@
+ActivitySiteID,ActivityDescription,BookingEndDateTime (Month / Day / Year),BookingStartTime,MaxBookees,Number Booked
+BRP,20.20.20  10-11am,04-Apr-17,10:00:00,35,21
+BRP,20.20.20  10-11am,11-Apr-17,10:00:00,35,25
+BRP,20.20.20  10-11am,18-Apr-17,10:00:00,35,24
+BRP,20.20.20  10-11am,25-Apr-17,10:00:00,35,20
+BRP,20.20.20  10-11am,02-May-17,10:00:00,35,24
+BRP,20.20.20  10-11am,09-May-17,10:00:00,35,22
+BRP,20.20.20  10-11am,16-May-17,10:00:00,35,26
+BRP,20.20.20  10-11am,23-May-17,10:00:00,35,21
+BRP,20.20.20  10-11am,30-May-17,10:00:00,35,23
+BRP,20.20.20  10-11am,06-Jun-17,10:00:00,35,19
+BRP,20.20.20  10-11am,13-Jun-17,10:00:00,35,27
+BRP,20.20.20  10-11am,20-Jun-17,10:00:00,35,24
+BRP,20.20.20  10-11am,27-Jun-17,10:00:00,35,20
+BRP,20:20:20  9.30-10.30am,07-Apr-17,09:30:00,35,24
+BRP,20:20:20  9.30-10.30am,14-Apr-17,09:30:00,35,30
+BRP,20:20:20  9.30-10.30am,21-Apr-17,09:30:00,35,16
+BRP,20:20:20  9.30-10.30am,28-Apr-17,09:30:00,35,23
+BRP,20:20:20  9.30-10.30am,05-May-17,09:30:00,35,21
+BRP,20:20:20  9.30-10.30am,12-May-17,09:30:00,35,25
+BRP,20:20:20  9.30-10.30am,19-May-17,09:30:00,35,24
+BRP,20:20:20  9.30-10.30am,26-May-17,09:30:00,35,19
+BRP,20:20:20  9.30-10.30am,02-Jun-17,09:30:00,35,15
+BRP,20:20:20  9.30-10.30am,09-Jun-17,09:30:00,35,24
+BRP,20:20:20  9.30-10.30am,16-Jun-17,09:30:00,35,25
+BRP,20:20:20  9.30-10.30am,23-Jun-17,09:30:00,35,28
+BRP,20:20:20  10.00-11.00am,06-Apr-17,10:00:00,35,32
+BRP,20:20:20  10.00-11.00am,13-Apr-17,10:00:00,35,28
+BRP,20:20:20  10.00-11.00am,20-Apr-17,10:00:00,35,15
+BRP,20:20:20  10.00-11.00am,27-Apr-17,10:00:00,35,20
+BRP,20:20:20  10.00-11.00am,04-May-17,10:00:00,35,26
+BRP,20:20:20  10.00-11.00am,11-May-17,10:00:00,35,25
+BRP,20:20:20  10.00-11.00am,18-May-17,10:00:00,35,35
+BRP,20:20:20  10.00-11.00am,25-May-17,10:00:00,35,29
+BRP,20:20:20  10.00-11.00am,01-Jun-17,10:00:00,35,25
+BRP,20:20:20  10.00-11.00am,08-Jun-17,10:00:00,35,27
+BRP,20:20:20  10.00-11.00am,15-Jun-17,10:00:00,35,30
+BRP,20:20:20  10.00-11.00am,22-Jun-17,10:00:00,35,27
+BRP,20:20:20  10.00-11.00am,29-Jun-17,10:00:00,35,30
+BRP,202020 9-10am,21-May-17,09:00:00,30,18
+BRP,Aerobics 6.00-7.00pm,03-Apr-17,18:00:00,35,29
+BRP,Aerobics 6.00-7.00pm,10-Apr-17,18:00:00,35,28
+BRP,Aerobics 6.00-7.00pm,24-Apr-17,18:00:00,35,22
+BRP,Aerobics 6.00-7.00pm,08-May-17,18:00:00,35,33
+BRP,Aerobics 6.00-7.00pm,15-May-17,18:00:00,35,29
+BRP,Aerobics 6.00-7.00pm,22-May-17,18:00:00,35,30
+BRP,Aerobics 6.00-7.00pm,05-Jun-17,18:00:00,35,27
+BRP,Aerobics 6.00-7.00pm,12-Jun-17,18:00:00,35,30
+BRP,Aerobics 6.00-7.00pm,19-Jun-17,18:00:00,35,25
+BRP,Aerobics 6.00-7.00pm,26-Jun-17,18:00:00,35,26
+BRP,Aerobics 7.30-8.30pm,04-Apr-17,19:30:00,35,27
+BRP,Aerobics 7.30-8.30pm,11-Apr-17,19:30:00,35,18
+BRP,Aerobics 7.30-8.30pm,18-Apr-17,19:30:00,35,23
+BRP,Aerobics 7.30-8.30pm,25-Apr-17,19:30:00,35,25
+BRP,Aerobics 7.30-8.30pm,02-May-17,19:30:00,35,26
+BRP,Aerobics 7.30-8.30pm,09-May-17,19:30:00,35,20
+BRP,Aerobics 7.30-8.30pm,16-May-17,19:30:00,35,20
+BRP,Aerobics 7.30-8.30pm,23-May-17,19:30:00,35,20
+BRP,Aerobics 7.30-8.30pm,30-May-17,19:30:00,35,22
+BRP,Aerobics 7.30-8.30pm,06-Jun-17,19:30:00,35,21
+BRP,Aerobics 7.30-8.30pm,13-Jun-17,19:30:00,35,22
+BRP,Aerobics 7.30-8.30pm,20-Jun-17,19:30:00,35,15
+BRP,Aerobics 7.30-8.30pm,27-Jun-17,19:30:00,35,17
+BRP,Aqua Fit 2.45 -3.45pm,05-Apr-17,14:45:00,35,21
+BRP,Aqua Fit 2.45 -3.45pm,12-Apr-17,14:45:00,35,23
+BRP,Aqua Fit 2.45 -3.45pm,19-Apr-17,14:45:00,35,20
+BRP,Aqua Fit 2.45 -3.45pm,26-Apr-17,14:45:00,35,26
+BRP,Aqua Fit 2.45 -3.45pm,03-May-17,14:45:00,35,27
+BRP,Aqua Fit 2.45 -3.45pm,10-May-17,14:45:00,35,23
+BRP,Aqua Fit 2.45 -3.45pm,17-May-17,14:45:00,35,30
+BRP,Aqua Fit 2.45 -3.45pm,24-May-17,14:45:00,35,27
+BRP,Aqua Fit 2.45 -3.45pm,31-May-17,14:45:00,35,22
+BRP,Aqua Fit 2.45 -3.45pm,07-Jun-17,14:45:00,35,28
+BRP,Aqua Fit 2.45 -3.45pm,14-Jun-17,14:45:00,35,21
+BRP,Aqua Fit 2.45 -3.45pm,21-Jun-17,14:45:00,35,19
+BRP,Aqua Fit 2.45 -3.45pm,28-Jun-17,14:45:00,35,24
+BRP,Aqua Tots 11.00-11.30am,05-Apr-17,11:00:00,10,3
+BRP,Aqua Tots 11.00-11.30am,12-Apr-17,11:00:00,10,2
+BRP,Aqua Tots 11.00-11.30am,26-Apr-17,11:00:00,10,5
+BRP,Aqua Tots 11.00-11.30am,03-May-17,11:00:00,10,1
+BRP,Aqua Tots 11.00-11.30am,10-May-17,11:00:00,10,3
+BRP,Aqua Tots 11.00-11.30am,17-May-17,11:00:00,10,3
+BRP,Aqua Tots 11.00-11.30am,24-May-17,11:00:00,10,4
+BRP,Aqua Tots 11.00-11.30am,31-May-17,11:00:00,10,2
+BRP,Aqua Tots 11.00-11.30am,07-Jun-17,11:00:00,10,1
+BRP,Aqua Tots 11.00-11.30am,14-Jun-17,11:00:00,10,3
+BRP,Aqua Tots 11.00-11.30am,21-Jun-17,11:00:00,10,3
+BRP,Aqua Tots 11.00-11.30am,28-Jun-17,11:00:00,10,7
+BRP,Aquababies 10.00 -10.30am,03-Apr-17,10:00:00,10,4
+BRP,Aquababies 10.00 -10.30am,10-Apr-17,10:00:00,10,3
+BRP,Aquababies 10.00 -10.30am,24-Apr-17,10:00:00,10,5
+BRP,Aquababies 10.00 -10.30am,08-May-17,10:00:00,10,6
+BRP,Aquababies 10.00 -10.30am,15-May-17,10:00:00,10,8
+BRP,Aquababies 10.00 -10.30am,22-May-17,10:00:00,10,9
+BRP,Aquababies 10.00 -10.30am,05-Jun-17,10:00:00,10,5
+BRP,Aquababies 10.00 -10.30am,12-Jun-17,10:00:00,10,6
+BRP,Aquababies 10.00 -10.30am,19-Jun-17,10:00:00,10,7
+BRP,Aquababies 10.00 -10.30am,26-Jun-17,10:00:00,10,4
+BRP,Aquababies 10.30-11.00am,05-Apr-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,12-Apr-17,10:30:00,10,7
+BRP,Aquababies 10.30-11.00am,19-Apr-17,10:30:00,10,2
+BRP,Aquababies 10.30-11.00am,26-Apr-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,03-May-17,10:30:00,10,6
+BRP,Aquababies 10.30-11.00am,10-May-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,17-May-17,10:30:00,10,9
+BRP,Aquababies 10.30-11.00am,24-May-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,31-May-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,07-Jun-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,14-Jun-17,10:30:00,10,10
+BRP,Aquababies 10.30-11.00am,21-Jun-17,10:30:00,10,9
+BRP,Aquababies 10.30-11.00am,28-Jun-17,10:30:00,10,7
+BRP,Aquafit  6.00-7.00pm,06-Apr-17,18:00:00,35,35
+BRP,Aquafit  6.00-7.00pm,13-Apr-17,18:00:00,35,28
+BRP,Aquafit  6.00-7.00pm,20-Apr-17,18:00:00,35,31
+BRP,Aquafit  6.00-7.00pm,27-Apr-17,18:00:00,35,33
+BRP,Aquafit  6.00-7.00pm,04-May-17,18:00:00,35,31
+BRP,Aquafit  6.00-7.00pm,11-May-17,18:00:00,35,35
+BRP,Aquafit  6.00-7.00pm,18-May-17,18:00:00,35,34
+BRP,Aquafit  6.00-7.00pm,25-May-17,18:00:00,35,33
+BRP,Aquafit  6.00-7.00pm,01-Jun-17,18:00:00,35,33
+BRP,Aquafit  6.00-7.00pm,08-Jun-17,18:00:00,35,35
+BRP,Aquafit  6.00-7.00pm,15-Jun-17,18:00:00,35,33
+BRP,Aquafit  6.00-7.00pm,22-Jun-17,18:00:00,35,31
+BRP,Aquafit  6.00-7.00pm,29-Jun-17,18:00:00,35,36
+BRP,Aquafit 7.00-8.00pm,04-Apr-17,19:00:00,35,34
+BRP,Aquafit 7.00-8.00pm,11-Apr-17,19:00:00,35,35
+BRP,Aquafit 7.00-8.00pm,18-Apr-17,19:00:00,35,28
+BRP,Aquafit 7.00-8.00pm,25-Apr-17,19:00:00,35,31
+BRP,Aquafit 7.00-8.00pm,02-May-17,19:00:00,35,35
+BRP,Aquafit 7.00-8.00pm,09-May-17,19:00:00,35,35
+BRP,Aquafit 7.00-8.00pm,16-May-17,19:00:00,35,32
+BRP,Aquafit 7.00-8.00pm,23-May-17,19:00:00,35,26
+BRP,Aquafit 7.00-8.00pm,30-May-17,19:00:00,35,26
+BRP,Aquafit 7.00-8.00pm,06-Jun-17,19:00:00,35,32
+BRP,Aquafit 7.00-8.00pm,13-Jun-17,19:00:00,35,30
+BRP,Aquafit 7.00-8.00pm,20-Jun-17,19:00:00,35,32
+BRP,Aquafit 7.00-8.00pm,27-Jun-17,19:00:00,35,33
+BRP,Aquafit 11.00-12.00 Noon,03-Apr-17,11:00:00,35,54
+BRP,Aquafit 11.00-12.00 Noon,07-Apr-17,11:00:00,35,35
+BRP,Aquafit 11.00-12.00 Noon,14-Apr-17,11:00:00,35,30
+BRP,Aquafit 11.00-12.00 Noon,21-Apr-17,11:00:00,35,33
+BRP,Aquafit 11.00-12.00 Noon,28-Apr-17,11:00:00,35,31
+BRP,Aquafit 11.00-12.00 Noon,05-May-17,11:00:00,35,34
+BRP,Aquafit 11.00-12.00 Noon,12-May-17,11:00:00,35,35
+BRP,Aquafit 11.00-12.00 Noon,19-May-17,11:00:00,35,32
+BRP,Aquafit 11.00-12.00 Noon,26-May-17,11:00:00,35,35
+BRP,Aquafit 11.00-12.00 Noon,02-Jun-17,11:00:00,35,24
+BRP,Aquafit 11.00-12.00 Noon,09-Jun-17,11:00:00,35,35
+BRP,Aquafit 11.00-12.00 Noon,16-Jun-17,11:00:00,35,40
+BRP,Aquafit 11.00-12.00 Noon,23-Jun-17,11:00:00,35,35
+BRP,Aquafit 11.00-12.00 Noon,30-Jun-17,11:00:00,35,34
+BRP,Aquafit 11am - 12,10-Apr-17,11:00:00,35,34
+BRP,Aquafit 11am - 12,17-Apr-17,11:00:00,35,29
+BRP,Aquafit 11am - 12,24-Apr-17,11:00:00,35,36
+BRP,Aquafit 11am - 12,01-May-17,11:00:00,35,29
+BRP,Aquafit 11am - 12,08-May-17,11:00:00,35,36
+BRP,Aquafit 11am - 12,15-May-17,11:00:00,35,32
+BRP,Aquafit 11am - 12,22-May-17,11:00:00,35,35
+BRP,Aquafit 11am - 12,29-May-17,11:00:00,35,34
+BRP,Aquafit 11am - 12,05-Jun-17,11:00:00,35,31
+BRP,Aquafit 11am - 12,12-Jun-17,11:00:00,35,31
+BRP,Aquafit 11am - 12,19-Jun-17,11:00:00,35,36
+BRP,Aquafit 11am - 12,26-Jun-17,11:00:00,35,35
+BRP,Aquatots 10-10.30am  Jo,01-Apr-17,10:00:00,10,10
+BRP,Aquatots 10-10.30am  Jo,08-Apr-17,10:00:00,10,5
+BRP,Aquatots 10-10.30am  Jo,15-Apr-17,10:00:00,10,5
+BRP,Aquatots 10-10.30am  Jo,22-Apr-17,10:00:00,10,8
+BRP,Aquatots 10-10.30am  Jo,29-Apr-17,10:00:00,10,8
+BRP,Aquatots 10-10.30am  Jo,06-May-17,10:00:00,10,8
+BRP,Aquatots 10-10.30am  Jo,13-May-17,10:00:00,10,8
+BRP,Aquatots 10-10.30am  Jo,20-May-17,10:00:00,10,6
+BRP,Aquatots 10-10.30am  Jo,27-May-17,10:00:00,10,7
+BRP,Aquatots 10-10.30am  Jo,03-Jun-17,10:00:00,10,7
+BRP,Aquatots 10-10.30am  Jo,10-Jun-17,10:00:00,10,5
+BRP,Aquatots 10-10.30am  Jo,17-Jun-17,10:00:00,10,10
+BRP,Aquatots 10-10.30am  Jo,24-Jun-17,10:00:00,10,10
+BRP,Aquatots 10.30-11am,03-Apr-17,10:30:00,10,4
+BRP,Aquatots 10.30-11am,10-Apr-17,10:30:00,10,4
+BRP,Aquatots 10.30-11am,24-Apr-17,10:30:00,10,2
+BRP,Aquatots 10.30-11am,08-May-17,10:30:00,10,4
+BRP,Aquatots 10.30-11am,15-May-17,10:30:00,10,4
+BRP,Aquatots 10.30-11am,22-May-17,10:30:00,10,4
+BRP,Aquatots 10.30-11am,05-Jun-17,10:30:00,10,2
+BRP,Aquatots 10.30-11am,12-Jun-17,10:30:00,10,1
+BRP,Aquatots 10.30-11am,26-Jun-17,10:30:00,10,2
+BRP,Aquatots/baby 11.30-12.00,05-Apr-17,11:30:00,10,5
+BRP,Aquatots/baby 11.30-12.00,12-Apr-17,11:30:00,10,3
+BRP,Aquatots/baby 11.30-12.00,19-Apr-17,11:30:00,10,2
+BRP,Aquatots/baby 11.30-12.00,03-May-17,11:30:00,10,1
+BRP,Aquatots/baby 11.30-12.00,10-May-17,11:30:00,10,3
+BRP,Aquatots/baby 11.30-12.00,17-May-17,11:30:00,10,3
+BRP,Aquatots/baby 11.30-12.00,24-May-17,11:30:00,10,2
+BRP,Aquatots/baby 11.30-12.00,07-Jun-17,11:30:00,10,4
+BRP,Aquatots/baby 11.30-12.00,14-Jun-17,11:30:00,10,1
+BRP,Aquatots/baby 11.30-12.00,21-Jun-17,11:30:00,10,4
+BRP,Aquatots/baby 11.30-12.00,28-Jun-17,11:30:00,10,10
+BRP,Blt Weigh Management,06-Apr-17,13:00:00,40,1
+BRP,Bodsculp Aero 10.30-11.30,05-Apr-17,10:30:00,35,13
+BRP,Bodsculp Aero 10.30-11.30,12-Apr-17,10:30:00,35,7
+BRP,Bodsculp Aero 10.30-11.30,19-Apr-17,10:30:00,35,9
+BRP,Bodsculp Aero 10.30-11.30,26-Apr-17,10:30:00,35,14
+BRP,Bodsculp Aero 10.30-11.30,03-May-17,10:30:00,35,6
+BRP,Bodsculp Aero 10.30-11.30,10-May-17,10:30:00,35,12
+BRP,Bodsculp Aero 10.30-11.30,17-May-17,10:30:00,35,7
+BRP,Bodsculp Aero 10.30-11.30,24-May-17,10:30:00,35,11
+BRP,Bodsculp Aero 10.30-11.30,31-May-17,10:30:00,35,8
+BRP,Bodsculp Aero 10.30-11.30,07-Jun-17,10:30:00,35,9
+BRP,Bodsculp Aero 10.30-11.30,14-Jun-17,10:30:00,35,12
+BRP,Bodsculp Aero 10.30-11.30,21-Jun-17,10:30:00,35,9
+BRP,Bodsculp Aero 10.30-11.30,28-Jun-17,10:30:00,35,16
+BRP,Body Attack 5.00-6.00pm,03-Apr-17,17:00:00,35,34
+BRP,Body Attack 5.00-6.00pm,10-Apr-17,17:00:00,35,28
+BRP,Body Attack 5.00-6.00pm,24-Apr-17,17:00:00,35,26
+BRP,Body Attack 5.00-6.00pm,08-May-17,17:00:00,35,35
+BRP,Body Attack 5.00-6.00pm,15-May-17,17:00:00,35,29
+BRP,Body Attack 5.00-6.00pm,22-May-17,17:00:00,35,30
+BRP,Body Attack 5.00-6.00pm,05-Jun-17,17:00:00,35,28
+BRP,Body Attack 5.00-6.00pm,12-Jun-17,17:00:00,35,28
+BRP,Body Attack 5.00-6.00pm,19-Jun-17,17:00:00,35,29
+BRP,Body Attack 5.00-6.00pm,26-Jun-17,17:00:00,35,30
+BRP,Body Attack 5.30 -6.30pm,05-Apr-17,17:30:00,35,32
+BRP,Body Attack 5.30 -6.30pm,12-Apr-17,17:30:00,35,30
+BRP,Body Attack 5.30 -6.30pm,19-Apr-17,17:30:00,35,27
+BRP,Body Attack 5.30 -6.30pm,26-Apr-17,17:30:00,35,32
+BRP,Body Attack 5.30 -6.30pm,03-May-17,17:30:00,35,30
+BRP,Body Attack 5.30 -6.30pm,10-May-17,17:30:00,35,29
+BRP,Body Attack 5.30 -6.30pm,17-May-17,17:30:00,35,35
+BRP,Body Attack 5.30 -6.30pm,24-May-17,17:30:00,35,30
+BRP,Body Attack 5.30 -6.30pm,31-May-17,17:30:00,35,26
+BRP,Body Attack 5.30 -6.30pm,07-Jun-17,17:30:00,35,29
+BRP,Body Attack 5.30 -6.30pm,14-Jun-17,17:30:00,35,26
+BRP,Body Attack 5.30 -6.30pm,21-Jun-17,17:30:00,35,26
+BRP,Body Attack 5.30 -6.30pm,28-Jun-17,17:30:00,35,24
+BRP,Body Attack 8.00-9.00pm,06-Apr-17,20:00:00,35,30
+BRP,Body Attack 8.00-9.00pm,13-Apr-17,20:00:00,35,34
+BRP,Body Attack 8.00-9.00pm,20-Apr-17,20:00:00,35,34
+BRP,Body Attack 8.00-9.00pm,27-Apr-17,20:00:00,35,32
+BRP,Body Attack 8.00-9.00pm,04-May-17,20:00:00,35,31
+BRP,Body Attack 8.00-9.00pm,11-May-17,20:00:00,35,30
+BRP,Body Attack 8.00-9.00pm,18-May-17,20:00:00,35,29
+BRP,Body Attack 8.00-9.00pm,25-May-17,20:00:00,35,27
+BRP,Body Attack 8.00-9.00pm,01-Jun-17,20:00:00,35,30
+BRP,Body Attack 8.00-9.00pm,08-Jun-17,20:00:00,35,27
+BRP,Body Attack 8.00-9.00pm,15-Jun-17,20:00:00,35,27
+BRP,Body Attack 8.00-9.00pm,22-Jun-17,20:00:00,35,29
+BRP,Body Attack 8.00-9.00pm,29-Jun-17,20:00:00,35,22
+BRP,Body Attack 9.00-10.00am,01-Apr-17,09:00:00,35,32
+BRP,Body Attack 9.00-10.00am,15-Apr-17,09:00:00,35,33
+BRP,Body Attack 9.00-10.00am,22-Apr-17,09:00:00,35,28
+BRP,Body Attack 9.00-10.00am,29-Apr-17,09:00:00,35,33
+BRP,Body Attack 9.00-10.00am,06-May-17,09:00:00,35,31
+BRP,Body Attack 9.00-10.00am,13-May-17,09:00:00,35,29
+BRP,Body Attack 9.00-10.00am,27-May-17,09:00:00,35,19
+BRP,Body Attack 9.00-10.00am,03-Jun-17,09:00:00,35,23
+BRP,Body Attack 9.00-10.00am,10-Jun-17,09:00:00,35,27
+BRP,Body Attack 9.00-10.00am,17-Jun-17,09:00:00,35,24
+BRP,Body Attack 9.00-10.00am,24-Jun-17,09:00:00,35,28
+BRP,Body Attack 10.00-11.00am,03-Apr-17,10:00:00,35,24
+BRP,Body Attack 10.00-11.00am,10-Apr-17,10:00:00,35,23
+BRP,Body Attack 10.00-11.00am,17-Apr-17,10:00:00,35,20
+BRP,Body Attack 10.00-11.00am,24-Apr-17,10:00:00,35,19
+BRP,Body Attack 10.00-11.00am,08-May-17,10:00:00,35,24
+BRP,Body Attack 10.00-11.00am,15-May-17,10:00:00,35,27
+BRP,Body Attack 10.00-11.00am,22-May-17,10:00:00,35,23
+BRP,Body Attack 10.00-11.00am,29-May-17,10:00:00,35,24
+BRP,Body Attack 10.00-11.00am,05-Jun-17,10:00:00,35,25
+BRP,Body Attack 10.00-11.00am,12-Jun-17,10:00:00,35,19
+BRP,Body Attack 10.00-11.00am,19-Jun-17,10:00:00,35,18
+BRP,Body Attack 10.00-11.00am,26-Jun-17,10:00:00,35,18
+BRP,Body Combat 6.00-7.00pm,06-Apr-17,18:00:00,35,33
+BRP,Body Combat 6.00-7.00pm,13-Apr-17,18:00:00,35,34
+BRP,Body Combat 6.00-7.00pm,20-Apr-17,18:00:00,35,32
+BRP,Body Combat 6.00-7.00pm,27-Apr-17,18:00:00,35,31
+BRP,Body Combat 6.00-7.00pm,04-May-17,18:00:00,35,31
+BRP,Body Combat 6.00-7.00pm,11-May-17,18:00:00,35,32
+BRP,Body Combat 6.00-7.00pm,18-May-17,18:00:00,35,29
+BRP,Body Combat 6.00-7.00pm,25-May-17,18:00:00,35,22
+BRP,Body Combat 6.00-7.00pm,01-Jun-17,18:00:00,35,19
+BRP,Body Combat 6.00-7.00pm,08-Jun-17,18:00:00,35,26
+BRP,Body Combat 6.00-7.00pm,15-Jun-17,18:00:00,35,29
+BRP,Body Combat 6.00-7.00pm,22-Jun-17,18:00:00,35,17
+BRP,Body Combat 6.00-7.00pm,29-Jun-17,18:00:00,35,29
+BRP,Body Combat 7.00-8.00am,03-Apr-17,07:00:00,35,14
+BRP,Body Combat 7.00-8.00am,10-Apr-17,07:00:00,35,10
+BRP,Body Combat 7.00-8.00am,17-Apr-17,07:00:00,35,16
+BRP,Body Combat 7.00-8.00am,24-Apr-17,07:00:00,35,11
+BRP,Body Combat 7.00-8.00am,01-May-17,07:00:00,35,15
+BRP,Body Combat 7.00-8.00am,08-May-17,07:00:00,35,9
+BRP,Body Combat 7.00-8.00am,15-May-17,07:00:00,35,11
+BRP,Body Combat 7.00-8.00am,22-May-17,07:00:00,35,11
+BRP,Body Combat 7.00-8.00am,29-May-17,07:00:00,35,10
+BRP,Body Combat 7.00-8.00am,05-Jun-17,07:00:00,35,9
+BRP,Body Combat 7.00-8.00am,12-Jun-17,07:00:00,35,10
+BRP,Body Combat 7.00-8.00am,19-Jun-17,07:00:00,35,10
+BRP,Body Combat 7.00-8.00am,26-Jun-17,07:00:00,35,12
+BRP,Body Combat 7.00-8.00pm,03-Apr-17,19:00:00,35,34
+BRP,Body Combat 7.00-8.00pm,07-Apr-17,19:00:00,35,18
+BRP,Body Combat 7.00-8.00pm,10-Apr-17,19:00:00,35,27
+BRP,Body Combat 7.00-8.00pm,21-Apr-17,19:00:00,35,16
+BRP,Body Combat 7.00-8.00pm,24-Apr-17,19:00:00,35,28
+BRP,Body Combat 7.00-8.00pm,28-Apr-17,19:00:00,35,18
+BRP,Body Combat 7.00-8.00pm,05-May-17,19:00:00,35,18
+BRP,Body Combat 7.00-8.00pm,08-May-17,19:00:00,35,32
+BRP,Body Combat 7.00-8.00pm,12-May-17,19:00:00,35,22
+BRP,Body Combat 7.00-8.00pm,15-May-17,19:00:00,35,33
+BRP,Body Combat 7.00-8.00pm,22-May-17,19:00:00,35,28
+BRP,Body Combat 7.00-8.00pm,26-May-17,19:00:00,35,24
+BRP,Body Combat 7.00-8.00pm,02-Jun-17,19:00:00,35,15
+BRP,Body Combat 7.00-8.00pm,05-Jun-17,19:00:00,35,27
+BRP,Body Combat 7.00-8.00pm,09-Jun-17,19:00:00,35,19
+BRP,Body Combat 7.00-8.00pm,12-Jun-17,19:00:00,35,24
+BRP,Body Combat 7.00-8.00pm,16-Jun-17,19:00:00,35,17
+BRP,Body Combat 7.00-8.00pm,19-Jun-17,19:00:00,35,21
+BRP,Body Combat 7.00-8.00pm,23-Jun-17,19:00:00,35,18
+BRP,Body Combat 7.00-8.00pm,26-Jun-17,19:00:00,35,26
+BRP,Body Combat 7.00-8.00pm,30-Jun-17,19:00:00,35,19
+BRP,Body Combat 9-10am,02-Apr-17,09:00:00,35,35
+BRP,Body Combat 9-10am,09-Apr-17,09:00:00,35,27
+BRP,Body Combat 9-10am,16-Apr-17,09:00:00,35,28
+BRP,Body Combat 9-10am,23-Apr-17,09:00:00,35,28
+BRP,Body Combat 9-10am,30-Apr-17,09:00:00,35,29
+BRP,Body Combat 9-10am,07-May-17,09:00:00,35,33
+BRP,Body Combat 9-10am,14-May-17,09:00:00,35,28
+BRP,Body Combat 9-10am,28-May-17,09:00:00,35,26
+BRP,Body Combat 9-10am,04-Jun-17,09:00:00,35,24
+BRP,Body Combat 9-10am,11-Jun-17,09:00:00,35,20
+BRP,Body Combat 9-10am,18-Jun-17,09:00:00,35,21
+BRP,Body Combat 9-10am,25-Jun-17,09:00:00,35,24
+BRP,Body Combat 10-11am,01-Apr-17,10:00:00,35,33
+BRP,Body Combat 10-11am,15-Apr-17,10:00:00,35,29
+BRP,Body Combat 10-11am,22-Apr-17,10:00:00,35,29
+BRP,Body Combat 10-11am,29-Apr-17,10:00:00,35,32
+BRP,Body Combat 10-11am,06-May-17,10:00:00,35,35
+BRP,Body Combat 10-11am,13-May-17,10:00:00,35,31
+BRP,Body Combat 10-11am,20-May-17,10:00:00,35,32
+BRP,Body Combat 10-11am,27-May-17,10:00:00,35,29
+BRP,Body Combat 10-11am,03-Jun-17,10:00:00,35,24
+BRP,Body Combat 10-11am,10-Jun-17,10:00:00,35,30
+BRP,Body Combat 10-11am,17-Jun-17,10:00:00,35,28
+BRP,Body Combat 10-11am,24-Jun-17,10:00:00,35,26
+BRP,Body Con 7.00-8.00pm,06-Apr-17,19:00:00,35,31
+BRP,Body Con 7.00-8.00pm,13-Apr-17,19:00:00,35,27
+BRP,Body Con 7.00-8.00pm,20-Apr-17,19:00:00,35,25
+BRP,Body Con 7.00-8.00pm,27-Apr-17,19:00:00,35,35
+BRP,Body Con 7.00-8.00pm,04-May-17,19:00:00,35,33
+BRP,Body Con 7.00-8.00pm,11-May-17,19:00:00,35,33
+BRP,Body Con 7.00-8.00pm,18-May-17,19:00:00,35,31
+BRP,Body Con 7.00-8.00pm,25-May-17,19:00:00,35,26
+BRP,Body Con 7.00-8.00pm,01-Jun-17,19:00:00,35,32
+BRP,Body Con 7.00-8.00pm,08-Jun-17,19:00:00,35,27
+BRP,Body Con 7.00-8.00pm,15-Jun-17,19:00:00,35,27
+BRP,Body Con 7.00-8.00pm,22-Jun-17,19:00:00,35,22
+BRP,Body Con 7.00-8.00pm,29-Jun-17,19:00:00,35,20
+BRP,Body Cond  4.30- 5.30pm,05-Apr-17,16:30:00,35,26
+BRP,Body Cond  4.30- 5.30pm,12-Apr-17,16:30:00,35,21
+BRP,Body Cond  4.30- 5.30pm,19-Apr-17,16:30:00,35,13
+BRP,Body Cond  4.30- 5.30pm,26-Apr-17,16:30:00,35,16
+BRP,Body Cond  4.30- 5.30pm,03-May-17,16:30:00,35,21
+BRP,Body Cond  4.30- 5.30pm,10-May-17,16:30:00,35,21
+BRP,Body Cond  4.30- 5.30pm,17-May-17,16:30:00,35,23
+BRP,Body Cond  4.30- 5.30pm,24-May-17,16:30:00,35,22
+BRP,Body Cond  4.30- 5.30pm,31-May-17,16:30:00,35,18
+BRP,Body Cond  4.30- 5.30pm,07-Jun-17,16:30:00,35,24
+BRP,Body Cond  4.30- 5.30pm,14-Jun-17,16:30:00,35,28
+BRP,Body Cond  4.30- 5.30pm,21-Jun-17,16:30:00,35,23
+BRP,Body Cond  4.30- 5.30pm,28-Jun-17,16:30:00,35,23
+BRP,Body Cond 6.30-7.30pm,04-Apr-17,18:30:00,35,33
+BRP,Body Cond 6.30-7.30pm,11-Apr-17,18:30:00,35,34
+BRP,Body Cond 6.30-7.30pm,18-Apr-17,18:30:00,35,29
+BRP,Body Cond 6.30-7.30pm,25-Apr-17,18:30:00,35,32
+BRP,Body Cond 6.30-7.30pm,02-May-17,18:30:00,35,34
+BRP,Body Cond 6.30-7.30pm,09-May-17,18:30:00,35,31
+BRP,Body Cond 6.30-7.30pm,16-May-17,18:30:00,35,35
+BRP,Body Cond 6.30-7.30pm,23-May-17,18:30:00,35,35
+BRP,Body Cond 6.30-7.30pm,30-May-17,18:30:00,35,28
+BRP,Body Cond 6.30-7.30pm,06-Jun-17,18:30:00,35,28
+BRP,Body Cond 6.30-7.30pm,13-Jun-17,18:30:00,35,29
+BRP,Body Cond 6.30-7.30pm,27-Jun-17,18:30:00,35,23
+BRP,Body Cond 7.00-8.00am,07-Apr-17,07:00:00,35,8
+BRP,Body Cond 7.00-8.00am,14-Apr-17,07:00:00,35,5
+BRP,Body Cond 7.00-8.00am,21-Apr-17,07:00:00,35,6
+BRP,Body Cond 7.00-8.00am,28-Apr-17,07:00:00,35,6
+BRP,Body Cond 7.00-8.00am,05-May-17,07:00:00,35,6
+BRP,Body Cond 8.00-9.00pm,03-Apr-17,20:00:00,35,31
+BRP,Body Cond 8.00-9.00pm,10-Apr-17,20:00:00,35,24
+BRP,Body Cond 8.00-9.00pm,24-Apr-17,20:00:00,35,21
+BRP,Body Cond 8.00-9.00pm,08-May-17,20:00:00,35,25
+BRP,Body Cond 8.00-9.00pm,15-May-17,20:00:00,35,24
+BRP,Body Cond 8.00-9.00pm,22-May-17,20:00:00,35,29
+BRP,Body Cond 8.00-9.00pm,05-Jun-17,20:00:00,35,20
+BRP,Body Cond 8.00-9.00pm,12-Jun-17,20:00:00,35,29
+BRP,Body Cond 8.00-9.00pm,19-Jun-17,20:00:00,35,17
+BRP,Body Cond 8.00-9.00pm,26-Jun-17,20:00:00,35,22
+BRP,Body Cond 11-12,01-Apr-17,11:00:00,35,30
+BRP,Body Cond 11-12,15-Apr-17,11:00:00,35,23
+BRP,Body Cond 11-12,22-Apr-17,11:00:00,35,32
+BRP,Body Cond 11-12,29-Apr-17,11:00:00,35,21
+BRP,Body Cond 11-12,06-May-17,11:00:00,35,27
+BRP,Body Cond 11-12,13-May-17,11:00:00,35,23
+BRP,Body Cond 11-12,20-May-17,11:00:00,35,22
+BRP,Body Cond 11-12,27-May-17,11:00:00,35,25
+BRP,Body Cond 11-12,03-Jun-17,11:00:00,35,17
+BRP,Body Cond 11-12,10-Jun-17,11:00:00,35,27
+BRP,Body Cond 11-12,17-Jun-17,11:00:00,35,23
+BRP,Body Cond 11-12,24-Jun-17,11:00:00,35,21
+BRP,Body Cond  11-12noon,03-Apr-17,11:00:00,35,19
+BRP,Body Cond  11-12noon,10-Apr-17,11:00:00,35,21
+BRP,Body Cond  11-12noon,17-Apr-17,11:00:00,35,18
+BRP,Body Cond  11-12noon,24-Apr-17,11:00:00,35,17
+BRP,Body Cond  11-12noon,08-May-17,11:00:00,35,19
+BRP,Body Cond  11-12noon,15-May-17,11:00:00,35,16
+BRP,Body Cond  11-12noon,22-May-17,11:00:00,35,20
+BRP,Body Cond  11-12noon,29-May-17,11:00:00,35,25
+BRP,Body Cond  11-12noon,05-Jun-17,11:00:00,35,22
+BRP,Body Cond  11-12noon,12-Jun-17,11:00:00,35,16
+BRP,Body Cond  11-12noon,19-Jun-17,11:00:00,35,12
+BRP,Body Cond  11-12noon,26-Jun-17,11:00:00,35,15
+BRP,Body Cond 11.00-12.00pm,02-Apr-17,11:00:00,35,23
+BRP,Body Cond 11.00-12.00pm,09-Apr-17,11:00:00,35,14
+BRP,Body Cond 11.00-12.00pm,16-Apr-17,11:00:00,35,9
+BRP,Body Cond 11.00-12.00pm,23-Apr-17,11:00:00,35,16
+BRP,Body Cond 11.00-12.00pm,30-Apr-17,11:00:00,35,15
+BRP,Body Cond 11.00-12.00pm,07-May-17,11:00:00,35,16
+BRP,Body Cond 11.00-12.00pm,14-May-17,11:00:00,35,16
+BRP,Body Cond 11.00-12.00pm,21-May-17,11:00:00,35,9
+BRP,Body Cond 11.00-12.00pm,28-May-17,11:00:00,35,11
+BRP,Body Cond 11.00-12.00pm,04-Jun-17,11:00:00,35,15
+BRP,Body Cond 11.00-12.00pm,11-Jun-17,11:00:00,35,17
+BRP,Body Cond 11.00-12.00pm,18-Jun-17,11:00:00,35,7
+BRP,Body Cond 11.00-12.00pm,25-Jun-17,11:00:00,35,12
+BRP,Body Cond 12.00-12.45pm,05-Apr-17,12:00:00,35,17
+BRP,Body Cond 12.00-12.45pm,12-Apr-17,12:00:00,35,14
+BRP,Body Cond 12.00-12.45pm,19-Apr-17,12:00:00,35,9
+BRP,Body Cond 12.00-12.45pm,26-Apr-17,12:00:00,35,14
+BRP,Body Cond 12.00-12.45pm,03-May-17,12:00:00,35,9
+BRP,Body Cond 12.00-12.45pm,10-May-17,12:00:00,35,15
+BRP,Body Cond 12.00-12.45pm,17-May-17,12:00:00,35,22
+BRP,Body Cond 12.00-12.45pm,24-May-17,12:00:00,35,11
+BRP,Body Cond 12.00-12.45pm,31-May-17,12:00:00,35,15
+BRP,Body Cond 12.00-12.45pm,07-Jun-17,12:00:00,35,14
+BRP,Body Cond 12.00-12.45pm,14-Jun-17,12:00:00,35,13
+BRP,Body Cond 12.00-12.45pm,21-Jun-17,12:00:00,35,13
+BRP,Body Cond 12.00-12.45pm,28-Jun-17,12:00:00,35,18
+BRP,Body Condition 7am- 8am,12-May-17,07:00:00,30,5
+BRP,Body Condition 7am- 8am,19-May-17,07:00:00,30,7
+BRP,Body Condition 7am- 8am,26-May-17,07:00:00,30,5
+BRP,Body Condition 7am- 8am,02-Jun-17,07:00:00,30,7
+BRP,Body Conditioning 7-8am,16-Jun-17,07:00:00,35,2
+BRP,Body Conditioning 7-8am,23-Jun-17,07:00:00,35,3
+BRP,Fusion 5pm -6pm,06-Apr-17,17:00:00,35,21
+BRP,Fusion 5pm -6pm,13-Apr-17,17:00:00,35,16
+BRP,Fusion 5pm -6pm,20-Apr-17,17:00:00,35,20
+BRP,Fusion 5pm -6pm,27-Apr-17,17:00:00,35,15
+BRP,Fusion 5pm -6pm,04-May-17,17:00:00,35,17
+BRP,Fusion 5pm -6pm,11-May-17,17:00:00,35,19
+BRP,Fusion 5pm -6pm,18-May-17,17:00:00,35,15
+BRP,Fusion 5pm -6pm,25-May-17,17:00:00,35,17
+BRP,Fusion 5pm -6pm,01-Jun-17,17:00:00,35,15
+BRP,Fusion 5pm -6pm,08-Jun-17,17:00:00,35,21
+BRP,Fusion 5pm -6pm,15-Jun-17,17:00:00,35,30
+BRP,Fusion 5pm -6pm,22-Jun-17,17:00:00,35,22
+BRP,Fusion 5pm -6pm,29-Jun-17,17:00:00,35,20
+BRP,H I I T 7.00-8.00am,05-Apr-17,07:00:00,35,11
+BRP,H I I T 7.00-8.00am,12-Apr-17,07:00:00,35,11
+BRP,H I I T 7.00-8.00am,19-Apr-17,07:00:00,35,6
+BRP,H I I T 7.00-8.00am,26-Apr-17,07:00:00,35,7
+BRP,H I I T 7.00-8.00am,03-May-17,07:00:00,35,10
+BRP,H I I T 7.00-8.00am,10-May-17,07:00:00,35,9
+BRP,H I I T 7.00-8.00am,17-May-17,07:00:00,35,7
+BRP,H I I T 7.00-8.00am,24-May-17,07:00:00,35,7
+BRP,H I I T 7.00-8.00am,31-May-17,07:00:00,35,6
+BRP,H I I T 7.00-8.00am,07-Jun-17,07:00:00,35,9
+BRP,H I I T 7.00-8.00am,14-Jun-17,07:00:00,35,9
+BRP,H I I T 7.00-8.00am,21-Jun-17,07:00:00,35,10
+BRP,H I I T 7.00-8.00am,28-Jun-17,07:00:00,35,6
+BRP,H.I.T.T 6pm - 6.45pm,07-Apr-17,18:00:00,35,21
+BRP,H.I.T.T 6pm - 6.45pm,21-Apr-17,18:00:00,35,22
+BRP,H.I.T.T 6pm - 6.45pm,05-May-17,18:00:00,35,9
+BRP,H.I.T.T 6pm - 6.45pm,12-May-17,18:00:00,35,15
+BRP,H.I.T.T 6pm - 6.45pm,19-May-17,18:00:00,35,18
+BRP,H.I.T.T 6pm - 6.45pm,26-May-17,18:00:00,35,16
+BRP,H.I.T.T 6pm - 6.45pm,02-Jun-17,18:00:00,35,13
+BRP,H.I.T.T 6pm - 6.45pm,23-Jun-17,18:00:00,35,16
+BRP,H.I.T.T 6pm - 6.45pm,30-Jun-17,18:00:00,35,21
+BRP,Hatton Abc Box  10-11am,02-Apr-17,10:00:00,20,15
+BRP,Hatton Abc Box  10-11am,09-Apr-17,10:00:00,20,11
+BRP,Hatton Abc Box  10-11am,16-Apr-17,10:00:00,20,8
+BRP,Hatton Abc Box  10-11am,23-Apr-17,10:00:00,20,9
+BRP,Hatton Abc Box  10-11am,30-Apr-17,10:00:00,20,13
+BRP,Hatton Abc Box  10-11am,07-May-17,10:00:00,20,11
+BRP,Hatton Abc Box  10-11am,14-May-17,10:00:00,20,15
+BRP,Hatton Abc Box  10-11am,28-May-17,10:00:00,20,9
+BRP,Hatton Abc Box  10-11am,04-Jun-17,10:00:00,20,15
+BRP,Hatton Abc Box  10-11am,11-Jun-17,10:00:00,20,13
+BRP,Hatton Abc Box  10-11am,18-Jun-17,10:00:00,20,10
+BRP,Hatton Abc Box  10-11am,25-Jun-17,10:00:00,20,10
+BRP,Hiit 9am -10am,20-May-17,09:00:00,30,11
+BRP,Hiit 10-11am,21-May-17,10:00:00,30,8
+BRP,Jnr Gym Ind 3.30-4.00pm,04-Apr-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,13-Apr-17,15:30:00,2,2
+BRP,Jnr Gym Ind 3.30-4.00pm,20-Apr-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,21-Apr-17,15:30:00,2,2
+BRP,Jnr Gym Ind 3.30-4.00pm,28-Apr-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,15-May-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,22-May-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,31-May-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,07-Jun-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,08-Jun-17,15:30:00,2,1
+BRP,Jnr Gym Ind 3.30-4.00pm,14-Jun-17,15:30:00,2,2
+BRP,Jnr Gym Ind 3.30-4.00pm,28-Jun-17,15:30:00,2,1
+BRP,Jnr Gym Ind 10.30-11.00am,21-May-17,10:30:00,2,2
+BRP,Jnr Gym Ind 10.30-11.00am,11-Jun-17,10:30:00,2,1
+BRP,Jnr Gym Ind 10.30-11.00am,18-Jun-17,10:30:00,2,2
+BRP,Jun Swimfit 7.15-8.15pm,21-Apr-17,19:15:00,10,1
+BRP,Jun Swimfit 7.15-8.15pm,05-May-17,19:15:00,10,1
+BRP,Jun Swimfit 7.15-8.15pm,19-May-17,19:15:00,10,2
+BRP,Jun Swimfit 7.15-8.15pm,02-Jun-17,19:15:00,10,1
+BRP,Jun Swimfit 7.15-8.15pm,09-Jun-17,19:15:00,10,2
+BRP,Jun Swimfit 7.15-8.15pm,16-Jun-17,19:15:00,10,1
+BRP,Jun Swimfit 7.15-8.15pm,23-Jun-17,19:15:00,10,1
+BRP,Junior Gym 4.00-5.00pm,04-Apr-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,05-Apr-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,28-Apr-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,15-May-17,16:00:00,10,2
+BRP,Junior Gym 4.00-5.00pm,16-May-17,16:00:00,10,2
+BRP,Junior Gym 4.00-5.00pm,31-May-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,02-Jun-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,05-Jun-17,16:00:00,10,2
+BRP,Junior Gym 4.00-5.00pm,07-Jun-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,08-Jun-17,16:00:00,10,2
+BRP,Junior Gym 4.00-5.00pm,09-Jun-17,16:00:00,10,1
+BRP,Junior Gym 4.00-5.00pm,15-Jun-17,16:00:00,10,3
+BRP,Junior Gym 4.00-5.00pm,16-Jun-17,16:00:00,10,5
+BRP,Legs Bums Tums 12.30-1.30,07-Apr-17,12:30:00,35,12
+BRP,Legs Bums Tums 12.30-1.30,14-Apr-17,12:30:00,35,17
+BRP,Legs Bums Tums 12.30-1.30,21-Apr-17,12:30:00,35,13
+BRP,Legs Bums Tums 12.30-1.30,28-Apr-17,12:30:00,35,21
+BRP,Legs Bums Tums 12.30-1.30,05-May-17,12:30:00,35,16
+BRP,Legs Bums Tums 12.30-1.30,12-May-17,12:30:00,35,24
+BRP,Legs Bums Tums 12.30-1.30,19-May-17,12:30:00,35,16
+BRP,Legs Bums Tums 12.30-1.30,26-May-17,12:30:00,35,8
+BRP,Legs Bums Tums 12.30-1.30,02-Jun-17,12:30:00,35,12
+BRP,Legs Bums Tums 12.30-1.30,09-Jun-17,12:30:00,35,16
+BRP,Legs Bums Tums 12.30-1.30,16-Jun-17,12:30:00,35,11
+BRP,Legs Bums Tums 12.30-1.30,23-Jun-17,12:30:00,35,11
+BRP,Nice N Easy 9.30-10.30am,05-Apr-17,09:30:00,35,31
+BRP,Nice N Easy 9.30-10.30am,12-Apr-17,09:30:00,35,24
+BRP,Nice N Easy 9.30-10.30am,19-Apr-17,09:30:00,35,17
+BRP,Nice N Easy 9.30-10.30am,26-Apr-17,09:30:00,35,25
+BRP,Nice N Easy 9.30-10.30am,03-May-17,09:30:00,35,10
+BRP,Nice N Easy 9.30-10.30am,10-May-17,09:30:00,35,26
+BRP,Nice N Easy 9.30-10.30am,17-May-17,09:30:00,35,25
+BRP,Nice N Easy 9.30-10.30am,24-May-17,09:30:00,35,25
+BRP,Nice N Easy 9.30-10.30am,31-May-17,09:30:00,35,10
+BRP,Nice N Easy 9.30-10.30am,07-Jun-17,09:30:00,35,17
+BRP,Nice N Easy 9.30-10.30am,14-Jun-17,09:30:00,35,24
+BRP,Nice N Easy 9.30-10.30am,21-Jun-17,09:30:00,35,25
+BRP,Nice N Easy 9.30-10.30am,28-Jun-17,09:30:00,35,22
+BRP,Pilates 1.45-2.45pm,05-Apr-17,13:45:00,35,26
+BRP,Pilates 1.45-2.45pm,12-Apr-17,13:45:00,35,31
+BRP,Pilates 1.45-2.45pm,19-Apr-17,13:45:00,35,24
+BRP,Pilates 1.45-2.45pm,26-Apr-17,13:45:00,35,25
+BRP,Pilates 1.45-2.45pm,03-May-17,13:45:00,35,12
+BRP,Pilates 1.45-2.45pm,10-May-17,13:45:00,35,18
+BRP,Pilates 1.45-2.45pm,17-May-17,13:45:00,35,16
+BRP,Pilates 1.45-2.45pm,24-May-17,13:45:00,35,16
+BRP,Pilates 1.45-2.45pm,31-May-17,13:45:00,35,20
+BRP,Pilates 1.45-2.45pm,07-Jun-17,13:45:00,35,27
+BRP,Pilates 1.45-2.45pm,14-Jun-17,13:45:00,35,16
+BRP,Pilates 1.45-2.45pm,21-Jun-17,13:45:00,35,18
+BRP,Pilates 1.45-2.45pm,28-Jun-17,13:45:00,35,15
+BRP,Pilates 7.30-8.30pm,05-Apr-17,19:30:00,35,24
+BRP,Pilates 7.30-8.30pm,12-Apr-17,19:30:00,35,23
+BRP,Pilates 7.30-8.30pm,19-Apr-17,19:30:00,35,13
+BRP,Pilates 7.30-8.30pm,26-Apr-17,19:30:00,35,34
+BRP,Pilates 7.30-8.30pm,03-May-17,19:30:00,35,28
+BRP,Pilates 7.30-8.30pm,10-May-17,19:30:00,35,19
+BRP,Pilates 7.30-8.30pm,17-May-17,19:30:00,35,21
+BRP,Pilates 7.30-8.30pm,24-May-17,19:30:00,35,25
+BRP,Pilates 7.30-8.30pm,31-May-17,19:30:00,35,13
+BRP,Pilates 7.30-8.30pm,07-Jun-17,19:30:00,35,24
+BRP,Pilates 7.30-8.30pm,21-Jun-17,19:30:00,35,21
+BRP,Pilates 7.30-8.30pm,28-Jun-17,19:30:00,35,24
+BRP,Pilates 11.00-12.00 Noon,04-Apr-17,11:00:00,35,35
+BRP,Pilates 11.00-12.00 Noon,11-Apr-17,11:00:00,35,28
+BRP,Pilates 11.00-12.00 Noon,18-Apr-17,11:00:00,35,25
+BRP,Pilates 11.00-12.00 Noon,25-Apr-17,11:00:00,35,30
+BRP,Pilates 11.00-12.00 Noon,02-May-17,11:00:00,35,32
+BRP,Pilates 11.00-12.00 Noon,09-May-17,11:00:00,35,35
+BRP,Pilates 11.00-12.00 Noon,16-May-17,11:00:00,35,30
+BRP,Pilates 11.00-12.00 Noon,23-May-17,11:00:00,35,30
+BRP,Pilates 11.00-12.00 Noon,30-May-17,11:00:00,35,19
+BRP,Pilates 11.00-12.00 Noon,06-Jun-17,11:00:00,35,28
+BRP,Pilates 11.00-12.00 Noon,13-Jun-17,11:00:00,35,29
+BRP,Pilates 11.00-12.00 Noon,20-Jun-17,11:00:00,35,24
+BRP,Pilates 11.00-12.00 Noon,27-Jun-17,11:00:00,35,25
+BRP,Pilates 12.15-1.15pm,03-Apr-17,12:15:00,35,30
+BRP,Pilates 12.15-1.15pm,10-Apr-17,12:15:00,35,23
+BRP,Pilates 12.15-1.15pm,17-Apr-17,12:15:00,35,16
+BRP,Pilates 12.15-1.15pm,24-Apr-17,12:15:00,35,24
+BRP,Pilates 12.15-1.15pm,01-May-17,12:15:00,35,10
+BRP,Pilates 12.15-1.15pm,08-May-17,12:15:00,35,16
+BRP,Pilates 12.15-1.15pm,15-May-17,12:15:00,35,17
+BRP,Pilates 12.15-1.15pm,22-May-17,12:15:00,35,24
+BRP,Pilates 12.15-1.15pm,29-May-17,12:15:00,35,16
+BRP,Pilates 12.15-1.15pm,05-Jun-17,12:15:00,35,23
+BRP,Pilates 12.15-1.15pm,12-Jun-17,12:15:00,35,20
+BRP,Pilates 12.15-1.15pm,19-Jun-17,12:15:00,35,14
+BRP,Stretch & Tone 12-1pm,04-Apr-17,12:00:00,35,15
+BRP,Stretch & Tone 12-1pm,11-Apr-17,12:00:00,35,7
+BRP,Stretch & Tone 12-1pm,18-Apr-17,12:00:00,35,7
+BRP,Stretch & Tone 12-1pm,25-Apr-17,12:00:00,35,10
+BRP,Stretch & Tone 12-1pm,02-May-17,12:00:00,35,8
+BRP,Stretch & Tone 12-1pm,09-May-17,12:00:00,35,9
+BRP,Stretch & Tone 12-1pm,16-May-17,12:00:00,35,5
+BRP,Stretch & Tone 12-1pm,23-May-17,12:00:00,35,8
+BRP,Stretch & Tone 12-1pm,30-May-17,12:00:00,35,8
+BRP,Stretch & Tone 12-1pm,06-Jun-17,12:00:00,35,7
+BRP,Stretch & Tone 12-1pm,13-Jun-17,12:00:00,35,6
+BRP,Stretch & Tone 12-1pm,20-Jun-17,12:00:00,35,7
+BRP,Stretch & Tone 12-1pm,27-Jun-17,12:00:00,35,10
+BRP,Strokeskills 7.15-8.15pm,07-Apr-17,19:15:00,10,9
+BRP,Strokeskills 7.15-8.15pm,21-Apr-17,19:15:00,10,7
+BRP,Strokeskills 7.15-8.15pm,28-Apr-17,19:15:00,10,10
+BRP,Strokeskills 7.15-8.15pm,05-May-17,19:15:00,10,9
+BRP,Strokeskills 7.15-8.15pm,12-May-17,19:15:00,10,8
+BRP,Strokeskills 7.15-8.15pm,19-May-17,19:15:00,10,10
+BRP,Strokeskills 7.15-8.15pm,26-May-17,19:15:00,10,7
+BRP,Strokeskills 7.15-8.15pm,02-Jun-17,19:15:00,10,5
+BRP,Strokeskills 7.15-8.15pm,09-Jun-17,19:15:00,10,6
+BRP,Strokeskills 7.15-8.15pm,16-Jun-17,19:15:00,10,7
+BRP,Strokeskills 7.15-8.15pm,23-Jun-17,19:15:00,10,8
+BRP,Strokeskills 7.15-8.15pm,30-Jun-17,19:15:00,10,4
+BRP,Strokeskills 7pm -8pm,05-Apr-17,19:00:00,10,8
+BRP,Strokeskills 7pm -8pm,12-Apr-17,19:00:00,10,10
+BRP,Strokeskills 7pm -8pm,19-Apr-17,19:00:00,10,7
+BRP,Strokeskills 7pm -8pm,26-Apr-17,19:00:00,10,10
+BRP,Strokeskills 7pm -8pm,03-May-17,19:00:00,10,10
+BRP,Strokeskills 7pm -8pm,10-May-17,19:00:00,10,7
+BRP,Strokeskills 7pm -8pm,17-May-17,19:00:00,10,8
+BRP,Strokeskills 7pm -8pm,24-May-17,19:00:00,10,8
+BRP,Strokeskills 7pm -8pm,31-May-17,19:00:00,10,10
+BRP,Strokeskills 7pm -8pm,07-Jun-17,19:00:00,10,7
+BRP,Strokeskills 7pm -8pm,14-Jun-17,19:00:00,10,9
+BRP,Strokeskills 7pm -8pm,21-Jun-17,19:00:00,10,8
+BRP,Strokeskills 7pm -8pm,28-Jun-17,19:00:00,10,8
+BRP,Swimfit 7am-8am,04-Apr-17,07:00:00,15,6
+BRP,Swimfit 7am-8am,11-Apr-17,07:00:00,15,7
+BRP,Swimfit 7am-8am,18-Apr-17,07:00:00,15,6
+BRP,Swimfit 7am-8am,25-Apr-17,07:00:00,15,6
+BRP,Swimfit 7am-8am,02-May-17,07:00:00,15,5
+BRP,Swimfit 7am-8am,09-May-17,07:00:00,15,4
+BRP,Swimfit 7am-8am,16-May-17,07:00:00,15,4
+BRP,Swimfit 7am-8am,23-May-17,07:00:00,15,7
+BRP,Swimfit 7am-8am,30-May-17,07:00:00,15,5
+BRP,Swimfit 7am-8am,06-Jun-17,07:00:00,15,7
+BRP,Swimfit 7am-8am,13-Jun-17,07:00:00,15,6
+BRP,Swimfit 7am-8am,20-Jun-17,07:00:00,15,7
+BRP,Swimfit 7am-8am,27-Jun-17,07:00:00,15,5
+BRP,Swimfit  8pm - 9pm,05-Apr-17,20:00:00,10,9
+BRP,Swimfit  8pm - 9pm,12-Apr-17,20:00:00,10,9
+BRP,Swimfit  8pm - 9pm,19-Apr-17,20:00:00,10,7
+BRP,Swimfit  8pm - 9pm,26-Apr-17,20:00:00,10,10
+BRP,Swimfit  8pm - 9pm,03-May-17,20:00:00,10,9
+BRP,Swimfit  8pm - 9pm,10-May-17,20:00:00,10,9
+BRP,Swimfit  8pm - 9pm,17-May-17,20:00:00,10,6
+BRP,Swimfit  8pm - 9pm,24-May-17,20:00:00,10,10
+BRP,Swimfit  8pm - 9pm,31-May-17,20:00:00,10,9
+BRP,Swimfit  8pm - 9pm,07-Jun-17,20:00:00,10,10
+BRP,Swimfit  8pm - 9pm,14-Jun-17,20:00:00,10,10
+BRP,Swimfit  8pm - 9pm,21-Jun-17,20:00:00,10,10
+BRP,Swimfit  8pm - 9pm,28-Jun-17,20:00:00,10,10
+BRP,Yogalates  6.30-7.30pm,05-Apr-17,18:30:00,35,34
+BRP,Yogalates  6.30-7.30pm,12-Apr-17,18:30:00,35,31
+BRP,Yogalates  6.30-7.30pm,19-Apr-17,18:30:00,35,23
+BRP,Yogalates  6.30-7.30pm,26-Apr-17,18:30:00,35,33
+BRP,Yogalates  6.30-7.30pm,03-May-17,18:30:00,35,31
+BRP,Yogalates  6.30-7.30pm,10-May-17,18:30:00,35,32
+BRP,Yogalates  6.30-7.30pm,17-May-17,18:30:00,35,33
+BRP,Yogalates  6.30-7.30pm,24-May-17,18:30:00,35,30
+BRP,Yogalates  6.30-7.30pm,31-May-17,18:30:00,35,22
+BRP,Yogalates  6.30-7.30pm,07-Jun-17,18:30:00,35,28
+BRP,Yogalates  6.30-7.30pm,14-Jun-17,18:30:00,35,25
+BRP,Yogalates  6.30-7.30pm,21-Jun-17,18:30:00,35,28
+BRP,Yogalates  6.30-7.30pm,28-Jun-17,18:30:00,35,26
+BRP,Yogalates 11.00-12.00,06-Apr-17,11:00:00,35,23
+BRP,Yogalates 11.00-12.00,13-Apr-17,11:00:00,35,16
+BRP,Yogalates 11.00-12.00,20-Apr-17,11:00:00,35,10
+BRP,Yogalates 11.00-12.00,27-Apr-17,11:00:00,35,25
+BRP,Yogalates 11.00-12.00,04-May-17,11:00:00,35,21
+BRP,Yogalates 11.00-12.00,11-May-17,11:00:00,35,23
+BRP,Yogalates 11.00-12.00,18-May-17,11:00:00,35,26
+BRP,Yogalates 11.00-12.00,25-May-17,11:00:00,35,16
+BRP,Yogalates 11.00-12.00,01-Jun-17,11:00:00,35,14
+BRP,Yogalates 11.00-12.00,08-Jun-17,11:00:00,35,18
+BRP,Yogalates 11.00-12.00,15-Jun-17,11:00:00,35,18
+BRP,Yogalates 11.00-12.00,22-Jun-17,11:00:00,35,17
+BRP,Yogalates 11.00-12.00,29-Jun-17,11:00:00,35,21
+BRP,Yogalates10.30-11.30am,07-Apr-17,10:30:00,35,26
+BRP,Yogalates10.30-11.30am,14-Apr-17,10:30:00,35,24
+BRP,Yogalates10.30-11.30am,21-Apr-17,10:30:00,35,30
+BRP,Yogalates10.30-11.30am,28-Apr-17,10:30:00,35,23
+BRP,Yogalates10.30-11.30am,05-May-17,10:30:00,35,25
+BRP,Yogalates10.30-11.30am,12-May-17,10:30:00,35,21
+BRP,Yogalates10.30-11.30am,19-May-17,10:30:00,35,23
+BRP,Yogalates10.30-11.30am,26-May-17,10:30:00,35,16
+BRP,Yogalates10.30-11.30am,02-Jun-17,10:30:00,35,22
+BRP,Yogalates10.30-11.30am,09-Jun-17,10:30:00,35,24
+BRP,Yogalates10.30-11.30am,16-Jun-17,10:30:00,35,24
+BRP,Yogalates10.30-11.30am,23-Jun-17,10:30:00,35,18
+BRP,Zumba 5.30-6.30pm,04-Apr-17,17:30:00,35,27
+BRP,Zumba 5.30-6.30pm,11-Apr-17,17:30:00,35,30
+BRP,Zumba 5.30-6.30pm,18-Apr-17,17:30:00,35,28
+BRP,Zumba 5.30-6.30pm,25-Apr-17,17:30:00,35,28
+BRP,Zumba 5.30-6.30pm,02-May-17,17:30:00,35,20
+BRP,Zumba 5.30-6.30pm,09-May-17,17:30:00,35,32
+BRP,Zumba 5.30-6.30pm,16-May-17,17:30:00,35,27
+BRP,Zumba 5.30-6.30pm,23-May-17,17:30:00,35,24
+BRP,Zumba 5.30-6.30pm,30-May-17,17:30:00,35,20
+BRP,Zumba 5.30-6.30pm,06-Jun-17,17:30:00,35,28
+BRP,Zumba 5.30-6.30pm,13-Jun-17,17:30:00,35,24
+BRP,Zumba 5.30-6.30pm,20-Jun-17,17:30:00,35,15
+BRP,Zumba 5.30-6.30pm,27-Jun-17,17:30:00,35,23
+BRP,Zumba 12.45-1.45pm,05-Apr-17,12:45:00,35,18
+BRP,Zumba 12.45-1.45pm,12-Apr-17,12:45:00,35,9
+BRP,Zumba 12.45-1.45pm,19-Apr-17,12:45:00,35,12
+BRP,Zumba 12.45-1.45pm,26-Apr-17,12:45:00,35,11
+BRP,Zumba 12.45-1.45pm,03-May-17,12:45:00,35,2
+BRP,Zumba 12.45-1.45pm,10-May-17,12:45:00,35,11
+BRP,Zumba 12.45-1.45pm,17-May-17,12:45:00,35,10
+BRP,Zumba 12.45-1.45pm,24-May-17,12:45:00,35,16
+BRP,Zumba 12.45-1.45pm,31-May-17,12:45:00,35,12
+BRP,Zumba 12.45-1.45pm,07-Jun-17,12:45:00,35,14
+BRP,Zumba 12.45-1.45pm,14-Jun-17,12:45:00,35,17
+BRP,Zumba 12.45-1.45pm,21-Jun-17,12:45:00,35,10
+BRP,Zumba 12.45-1.45pm,28-Jun-17,12:45:00,35,15
+HXP,20-20-20  2.45pm-3.45pm,02-Apr-17,14:45:00,25,25
+HXP,20-20-20  2.45pm-3.45pm,09-Apr-17,14:45:00,25,14
+HXP,20-20-20  2.45pm-3.45pm,16-Apr-17,14:45:00,25,6
+HXP,20-20-20  2.45pm-3.45pm,23-Apr-17,14:45:00,25,20
+HXP,20-20-20  2.45pm-3.45pm,30-Apr-17,14:45:00,25,14
+HXP,20-20-20  2.45pm-3.45pm,07-May-17,14:45:00,25,14
+HXP,20-20-20  2.45pm-3.45pm,14-May-17,14:45:00,25,20
+HXP,20-20-20  2.45pm-3.45pm,21-May-17,14:45:00,25,20
+HXP,20-20-20  2.45pm-3.45pm,28-May-17,14:45:00,25,5
+HXP,20-20-20  2.45pm-3.45pm,04-Jun-17,14:45:00,25,13
+HXP,20-20-20  2.45pm-3.45pm,11-Jun-17,14:45:00,25,15
+HXP,20-20-20  2.45pm-3.45pm,18-Jun-17,14:45:00,25,9
+HXP,20-20-20  2.45pm-3.45pm,25-Jun-17,14:45:00,25,12
+HXP,20:20:20  11am -12noon,01-Apr-17,11:00:00,25,18
+HXP,20:20:20  11am -12noon,08-Apr-17,11:00:00,25,17
+HXP,20:20:20  11am -12noon,15-Apr-17,11:00:00,25,20
+HXP,20:20:20  11am -12noon,22-Apr-17,11:00:00,25,15
+HXP,20:20:20  11am -12noon,29-Apr-17,11:00:00,25,19
+HXP,20:20:20  11am -12noon,06-May-17,11:00:00,25,11
+HXP,20:20:20  11am -12noon,13-May-17,11:00:00,25,19
+HXP,20:20:20  11am -12noon,20-May-17,11:00:00,25,14
+HXP,20:20:20  11am -12noon,27-May-17,11:00:00,25,15
+HXP,20:20:20  11am -12noon,03-Jun-17,11:00:00,25,18
+HXP,20:20:20  11am -12noon,10-Jun-17,11:00:00,25,17
+HXP,20:20:20  11am -12noon,17-Jun-17,11:00:00,25,10
+HXP,20:20:20  11am -12noon,24-Jun-17,11:00:00,25,9
+HXP,Aqua Fit 3pm - 3.45pm,04-Apr-17,15:00:00,25,6
+HXP,Aqua Fit 3pm - 3.45pm,11-Apr-17,15:00:00,25,9
+HXP,Aqua Fit 3pm - 3.45pm,18-Apr-17,15:00:00,25,8
+HXP,Aqua Fit 3pm - 3.45pm,25-Apr-17,15:00:00,25,6
+HXP,Aqua Fit 3pm - 3.45pm,02-May-17,15:00:00,25,7
+HXP,Aqua Fit 3pm - 3.45pm,09-May-17,15:00:00,25,5
+HXP,Aqua Fit 3pm - 3.45pm,16-May-17,15:00:00,25,8
+HXP,Aqua Fit 3pm - 3.45pm,30-May-17,15:00:00,25,5
+HXP,Aqua Fit 3pm - 3.45pm,06-Jun-17,15:00:00,25,2
+HXP,Aqua Fit 3pm - 3.45pm,13-Jun-17,15:00:00,25,4
+HXP,Aqua Fit 3pm - 3.45pm,20-Jun-17,15:00:00,25,4
+HXP,Aqua Fit 3pm - 3.45pm,27-Jun-17,15:00:00,25,3
+HXP,Aqua Fit 12.15 -13.15,06-Apr-17,12:15:00,25,16
+HXP,Aqua Fit 12.15 -13.15,07-Apr-17,12:15:00,25,15
+HXP,Aqua Fit 12.15 -13.15,13-Apr-17,12:15:00,25,22
+HXP,Aqua Fit 12.15 -13.15,14-Apr-17,12:15:00,25,14
+HXP,Aqua Fit 12.15 -13.15,20-Apr-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,21-Apr-17,12:15:00,25,15
+HXP,Aqua Fit 12.15 -13.15,27-Apr-17,12:15:00,25,18
+HXP,Aqua Fit 12.15 -13.15,28-Apr-17,12:15:00,25,17
+HXP,Aqua Fit 12.15 -13.15,04-May-17,12:15:00,25,23
+HXP,Aqua Fit 12.15 -13.15,05-May-17,12:15:00,25,22
+HXP,Aqua Fit 12.15 -13.15,11-May-17,12:15:00,25,16
+HXP,Aqua Fit 12.15 -13.15,12-May-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,18-May-17,12:15:00,25,22
+HXP,Aqua Fit 12.15 -13.15,19-May-17,12:15:00,25,18
+HXP,Aqua Fit 12.15 -13.15,25-May-17,12:15:00,25,20
+HXP,Aqua Fit 12.15 -13.15,26-May-17,12:15:00,25,12
+HXP,Aqua Fit 12.15 -13.15,01-Jun-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,02-Jun-17,12:15:00,25,12
+HXP,Aqua Fit 12.15 -13.15,08-Jun-17,12:15:00,25,15
+HXP,Aqua Fit 12.15 -13.15,09-Jun-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,15-Jun-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,16-Jun-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,22-Jun-17,12:15:00,25,20
+HXP,Aqua Fit 12.15 -13.15,23-Jun-17,12:15:00,25,13
+HXP,Aqua Fit 12.15 -13.15,29-Jun-17,12:15:00,25,19
+HXP,Aqua Fit 12.15 -13.15,30-Jun-17,12:15:00,25,12
+HXP,Aqua Fit 12.15-13.00,03-Apr-17,12:15:00,25,19
+HXP,Aqua Fit 12.15-13.00,10-Apr-17,12:15:00,25,24
+HXP,Aqua Fit 12.15-13.00,17-Apr-17,12:15:00,25,15
+HXP,Aqua Fit 12.15-13.00,24-Apr-17,12:15:00,25,25
+HXP,Aqua Fit 12.15-13.00,01-May-17,12:15:00,25,18
+HXP,Aqua Fit 12.15-13.00,08-May-17,12:15:00,25,25
+HXP,Aqua Fit 12.15-13.00,15-May-17,12:15:00,25,22
+HXP,Aqua Fit 12.15-13.00,22-May-17,12:15:00,25,21
+HXP,Aqua Fit 12.15-13.00,29-May-17,12:15:00,25,14
+HXP,Aqua Fit 12.15-13.00,05-Jun-17,12:15:00,25,18
+HXP,Aqua Fit 12.15-13.00,12-Jun-17,12:15:00,25,18
+HXP,Aqua Fit 12.15-13.00,19-Jun-17,12:15:00,25,15
+HXP,Aqua Fit 12.15-13.00,26-Jun-17,12:15:00,25,22
+HXP,Aquafit 7.00-8.00pm,04-Apr-17,19:00:00,20,12
+HXP,Aquafit 7.00-8.00pm,11-Apr-17,19:00:00,20,8
+HXP,Aquafit 7.00-8.00pm,18-Apr-17,19:00:00,20,13
+HXP,Aquafit 7.00-8.00pm,25-Apr-17,19:00:00,20,11
+HXP,Aquafit 7.00-8.00pm,02-May-17,19:00:00,20,12
+HXP,Aquafit 7.00-8.00pm,09-May-17,19:00:00,20,12
+HXP,Aquafit 7.00-8.00pm,16-May-17,19:00:00,20,13
+HXP,Aquafit 7.00-8.00pm,30-May-17,19:00:00,20,15
+HXP,Aquafit 7.00-8.00pm,06-Jun-17,19:00:00,20,20
+HXP,Aquafit 7.00-8.00pm,13-Jun-17,19:00:00,20,17
+HXP,Aquafit 7.00-8.00pm,20-Jun-17,19:00:00,20,15
+HXP,Aquafit 7.00-8.00pm,27-Jun-17,19:00:00,20,18
+HXP,Aquafit 8.00-8.45pm,04-Apr-17,20:00:00,25,6
+HXP,Aquafit 8.00-8.45pm,11-Apr-17,20:00:00,25,3
+HXP,Aquafit 8.00-8.45pm,18-Apr-17,20:00:00,25,2
+HXP,Aquafit 8.00-8.45pm,25-Apr-17,20:00:00,25,4
+HXP,Aquafit 8.00-8.45pm,02-May-17,20:00:00,25,6
+HXP,Aquafit 8.00-8.45pm,09-May-17,20:00:00,25,4
+HXP,Aquafit 8.00-8.45pm,16-May-17,20:00:00,25,6
+HXP,Aquafit 8.00-8.45pm,30-May-17,20:00:00,25,7
+HXP,Aquafit 8.00-8.45pm,06-Jun-17,20:00:00,25,9
+HXP,Aquafit 8.00-8.45pm,13-Jun-17,20:00:00,25,9
+HXP,Aquafit 8.00-8.45pm,20-Jun-17,20:00:00,25,9
+HXP,Aquafit 8.00-8.45pm,27-Jun-17,20:00:00,25,9
+HXP,Aquafit Ladiesonly,02-Apr-17,16:30:00,25,23
+HXP,Aquafit Ladiesonly,09-Apr-17,16:30:00,25,22
+HXP,Aquafit Ladiesonly,23-Apr-17,16:30:00,25,22
+HXP,Aquafit Ladiesonly,30-Apr-17,16:30:00,25,25
+HXP,Aquafit Ladiesonly,07-May-17,16:30:00,25,25
+HXP,Aquafit Ladiesonly,14-May-17,16:30:00,25,19
+HXP,Aquafit Ladiesonly,21-May-17,16:30:00,25,17
+HXP,Aquafit Ladiesonly,28-May-17,16:30:00,25,12
+HXP,Aquafit Ladiesonly,04-Jun-17,16:30:00,25,21
+HXP,Aquafit Ladiesonly,11-Jun-17,16:30:00,25,14
+HXP,Aquafit Ladiesonly,18-Jun-17,16:30:00,25,13
+HXP,Aquafit Ladiesonly,25-Jun-17,16:30:00,25,15
+HXP,Ballroom Dancing 3 - 4pm,05-Apr-17,15:00:00,24,5
+HXP,Ballroom Dancing 3 - 4pm,12-Apr-17,15:00:00,24,5
+HXP,Ballroom Dancing 3 - 4pm,19-Apr-17,15:00:00,24,2
+HXP,Ballroom Dancing 3 - 4pm,26-Apr-17,15:00:00,24,4
+HXP,Ballroom Dancing 3 - 4pm,10-May-17,15:00:00,24,6
+HXP,Ballroom Dancing 3 - 4pm,17-May-17,15:00:00,24,4
+HXP,Ballroom Dancing 3 - 4pm,14-Jun-17,15:00:00,24,1
+HXP,Body Cond 3.50pm - 4.50pm,02-Apr-17,15:50:00,25,19
+HXP,Body Cond 3.50pm - 4.50pm,09-Apr-17,15:50:00,25,11
+HXP,Body Cond 3.50pm - 4.50pm,16-Apr-17,15:50:00,25,5
+HXP,Body Cond 3.50pm - 4.50pm,23-Apr-17,15:50:00,25,16
+HXP,Body Cond 3.50pm - 4.50pm,30-Apr-17,15:50:00,25,8
+HXP,Body Cond 3.50pm - 4.50pm,07-May-17,15:50:00,25,13
+HXP,Body Cond 3.50pm - 4.50pm,14-May-17,15:50:00,25,14
+HXP,Body Cond 3.50pm - 4.50pm,21-May-17,15:50:00,25,13
+HXP,Body Cond 3.50pm - 4.50pm,28-May-17,15:50:00,25,6
+HXP,Body Cond 3.50pm - 4.50pm,04-Jun-17,15:50:00,25,14
+HXP,Body Cond 3.50pm - 4.50pm,11-Jun-17,15:50:00,25,10
+HXP,Body Cond 3.50pm - 4.50pm,18-Jun-17,15:50:00,25,6
+HXP,Body Cond 3.50pm - 4.50pm,25-Jun-17,15:50:00,25,6
+HXP,Body Cond 7.30-8.30pm,03-Apr-17,19:30:00,25,19
+HXP,Body Cond 7.30-8.30pm,05-Apr-17,19:30:00,25,11
+HXP,Body Cond 7.30-8.30pm,10-Apr-17,19:30:00,25,11
+HXP,Body Cond 7.30-8.30pm,12-Apr-17,19:30:00,25,14
+HXP,Body Cond 7.30-8.30pm,19-Apr-17,19:30:00,25,14
+HXP,Body Cond 7.30-8.30pm,24-Apr-17,19:30:00,25,21
+HXP,Body Cond 7.30-8.30pm,26-Apr-17,19:30:00,25,19
+HXP,Body Cond 7.30-8.30pm,03-May-17,19:30:00,25,25
+HXP,Body Cond 7.30-8.30pm,08-May-17,19:30:00,25,20
+HXP,Body Cond 7.30-8.30pm,10-May-17,19:30:00,25,21
+HXP,Body Cond 7.30-8.30pm,15-May-17,19:30:00,25,22
+HXP,Body Cond 7.30-8.30pm,17-May-17,19:30:00,25,24
+HXP,Body Cond 7.30-8.30pm,22-May-17,19:30:00,25,18
+HXP,Body Cond 7.30-8.30pm,24-May-17,19:30:00,25,18
+HXP,Body Cond 7.30-8.30pm,31-May-17,19:30:00,25,17
+HXP,Body Cond 7.30-8.30pm,05-Jun-17,19:30:00,25,19
+HXP,Body Cond 7.30-8.30pm,07-Jun-17,19:30:00,25,17
+HXP,Body Cond 7.30-8.30pm,12-Jun-17,19:30:00,25,21
+HXP,Body Cond 7.30-8.30pm,14-Jun-17,19:30:00,25,21
+HXP,Body Cond 7.30-8.30pm,19-Jun-17,19:30:00,25,18
+HXP,Body Cond 7.30-8.30pm,21-Jun-17,19:30:00,25,19
+HXP,Body Cond 7.30-8.30pm,26-Jun-17,19:30:00,25,16
+HXP,Body Cond 7.30-8.30pm,28-Jun-17,19:30:00,25,19
+HXP,Body Cond 10.00-11.00am,04-Apr-17,10:00:00,25,18
+HXP,Body Cond 10.00-11.00am,11-Apr-17,10:00:00,25,16
+HXP,Body Cond 10.00-11.00am,18-Apr-17,10:00:00,25,13
+HXP,Body Cond 10.00-11.00am,25-Apr-17,10:00:00,25,23
+HXP,Body Cond 10.00-11.00am,02-May-17,10:00:00,25,25
+HXP,Body Cond 12.00-1.00pm,07-Apr-17,12:00:00,25,21
+HXP,Body Cond 12.00-1.00pm,14-Apr-17,12:00:00,25,25
+HXP,Body Cond 12.00-1.00pm,21-Apr-17,12:00:00,25,25
+HXP,Body Cond 12.00-1.00pm,28-Apr-17,12:00:00,25,20
+HXP,Body Cond 12.00-1.00pm,05-May-17,12:00:00,25,23
+HXP,Body Cond 12.00-1.00pm,12-May-17,12:00:00,25,18
+HXP,Body Cond 12.00-1.00pm,19-May-17,12:00:00,25,13
+HXP,Body Cond 12.00-1.00pm,26-May-17,12:00:00,25,11
+HXP,Body Cond 12.00-1.00pm,02-Jun-17,12:00:00,25,21
+HXP,Body Cond 12.00-1.00pm,09-Jun-17,12:00:00,25,19
+HXP,Body Cond 12.00-1.00pm,16-Jun-17,12:00:00,25,12
+HXP,Body Cond 12.00-1.00pm,23-Jun-17,12:00:00,25,15
+HXP,Body Cond 12.00-1.00pm,30-Jun-17,12:00:00,25,15
+HXP,Body Condition 10 -11am,09-May-17,10:00:00,35,20
+HXP,Body Condition 10 -11am,16-May-17,10:00:00,35,18
+HXP,Body Condition 10 -11am,23-May-17,10:00:00,35,22
+HXP,Body Condition 10 -11am,30-May-17,10:00:00,35,17
+HXP,Body Condition 10 -11am,06-Jun-17,10:00:00,35,20
+HXP,Body Condition 10 -11am,13-Jun-17,10:00:00,35,23
+HXP,Body Condition 10 -11am,20-Jun-17,10:00:00,35,20
+HXP,Body Condition 10 -11am,27-Jun-17,10:00:00,35,23
+HXP,Gentle Keep Fit,04-Apr-17,14:00:00,25,8
+HXP,Gentle Keep Fit,11-Apr-17,14:00:00,25,8
+HXP,Gentle Keep Fit,18-Apr-17,14:00:00,25,8
+HXP,Gentle Keep Fit,25-Apr-17,14:00:00,25,8
+HXP,Gentle Keep Fit,02-May-17,14:00:00,25,8
+HXP,Gentle Keep Fit,09-May-17,14:00:00,25,8
+HXP,Gentle Keep Fit,16-May-17,14:00:00,25,7
+HXP,Gentle Keep Fit,23-May-17,14:00:00,25,4
+HXP,Gentle Keep Fit,30-May-17,14:00:00,25,7
+HXP,Gentle Keep Fit,06-Jun-17,14:00:00,25,4
+HXP,Gentle Keep Fit,13-Jun-17,14:00:00,25,6
+HXP,Gentle Keep Fit,20-Jun-17,14:00:00,25,7
+HXP,Gentle Keep Fit,27-Jun-17,14:00:00,25,9
+HXP,Gentle Keep Fit 10-11.00,03-Apr-17,10:00:00,27,7
+HXP,Gentle Keep Fit 10-11.00,10-Apr-17,10:00:00,27,4
+HXP,Gentle Keep Fit 10-11.00,17-Apr-17,10:00:00,27,7
+HXP,Gentle Keep Fit 10-11.00,24-Apr-17,10:00:00,27,13
+HXP,Gentle Keep Fit 10-11.00,01-May-17,10:00:00,27,9
+HXP,Gentle Keep Fit 10-11.00,08-May-17,10:00:00,27,5
+HXP,Gentle Keep Fit 10-11.00,15-May-17,10:00:00,27,6
+HXP,Gentle Keep Fit 10-11.00,22-May-17,10:00:00,27,11
+HXP,Gentle Keep Fit 10-11.00,29-May-17,10:00:00,27,8
+HXP,Gentle Keep Fit 10-11.00,05-Jun-17,10:00:00,27,8
+HXP,Gentle Keep Fit 10-11.00,12-Jun-17,10:00:00,27,8
+HXP,Gentle Keep Fit 10-11.00,19-Jun-17,10:00:00,27,8
+HXP,Gentle Keep Fit 10-11.00,26-Jun-17,10:00:00,27,6
+HXP,Gentle Keep Fit 11.10-12,13-Apr-17,11:10:00,27,13
+HXP,Gentle Keep Fit 11.10-12,20-Apr-17,11:10:00,27,15
+HXP,Gentle Keep Fit 11.10-12,27-Apr-17,11:10:00,27,12
+HXP,Gentle Keep Fit 11.10-12,04-May-17,11:10:00,27,11
+HXP,Gentle Keep Fit 11.10-12,11-May-17,11:10:00,27,13
+HXP,Gentle Keep Fit 11.10-12,18-May-17,11:10:00,27,18
+HXP,Gentle Keep Fit 11.10-12,25-May-17,11:10:00,27,12
+HXP,Gentle Keep Fit 11.10-12,01-Jun-17,11:10:00,27,14
+HXP,Gentle Keep Fit 11.10-12,08-Jun-17,11:10:00,27,12
+HXP,Gentle Keep Fit 11.10-12,15-Jun-17,11:10:00,27,11
+HXP,Gentle Keep Fit 11.10-12,22-Jun-17,11:10:00,27,12
+HXP,Gentle Keep Fit 11.10-12,29-Jun-17,11:10:00,27,13
+HXP,H.I.I.T. 6.25-7.25pm,05-Apr-17,18:25:00,25,16
+HXP,H.I.I.T. 6.25-7.25pm,12-Apr-17,18:25:00,25,15
+HXP,H.I.I.T. 6.25-7.25pm,19-Apr-17,18:25:00,25,15
+HXP,H.I.I.T. 6.25-7.25pm,26-Apr-17,18:25:00,25,10
+HXP,H.I.I.T. 6.25-7.25pm,03-May-17,18:25:00,25,21
+HXP,H.I.I.T. 6.25-7.25pm,10-May-17,18:25:00,25,18
+HXP,H.I.I.T. 6.25-7.25pm,17-May-17,18:25:00,25,16
+HXP,H.I.I.T. 6.25-7.25pm,24-May-17,18:25:00,25,16
+HXP,H.I.I.T. 6.25-7.25pm,31-May-17,18:25:00,25,15
+HXP,H.I.I.T. 6.25-7.25pm,07-Jun-17,18:25:00,25,15
+HXP,H.I.I.T. 6.25-7.25pm,14-Jun-17,18:25:00,25,13
+HXP,H.I.I.T. 6.25-7.25pm,21-Jun-17,18:25:00,25,17
+HXP,H.I.I.T. 6.25-7.25pm,28-Jun-17,18:25:00,25,15
+HXP,Jnr Gym Appoint 4-5pm,03-Apr-17,16:00:00,10,4
+HXP,Jnr Gym Appoint 4-5pm,05-Apr-17,16:00:00,10,5
+HXP,Jnr Gym Appoint 4-5pm,10-Apr-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,12-Apr-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,24-Apr-17,16:00:00,10,5
+HXP,Jnr Gym Appoint 4-5pm,25-Apr-17,16:00:00,10,5
+HXP,Jnr Gym Appoint 4-5pm,26-Apr-17,16:00:00,10,5
+HXP,Jnr Gym Appoint 4-5pm,03-May-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,09-May-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,11-May-17,16:00:00,10,2
+HXP,Jnr Gym Appoint 4-5pm,12-May-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,15-May-17,16:00:00,10,3
+HXP,Jnr Gym Appoint 4-5pm,17-May-17,16:00:00,10,5
+HXP,Jnr Gym Appoint 4-5pm,19-May-17,16:00:00,10,2
+HXP,Jnr Gym Appoint 4-5pm,23-May-17,16:00:00,10,2
+HXP,Jnr Gym Appoint 4-5pm,24-May-17,16:00:00,10,5
+HXP,Jnr Gym Appoint 4-5pm,08-Jun-17,16:00:00,10,3
+HXP,Jnr Gym Appoint 4-5pm,14-Jun-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,19-Jun-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,20-Jun-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 4-5pm,22-Jun-17,16:00:00,10,2
+HXP,Jnr Gym Appoint 4-5pm,23-Jun-17,16:00:00,10,2
+HXP,Jnr Gym Appoint 4-5pm,27-Jun-17,16:00:00,10,2
+HXP,Jnr Gym Appoint 4-5pm,28-Jun-17,16:00:00,10,1
+HXP,Jnr Gym Appoint 11-12,01-Apr-17,11:00:00,10,2
+HXP,Jnr Gym Appoint 11-12,22-Apr-17,11:00:00,10,3
+HXP,Jnr Gym Appoint 11-12,29-Apr-17,11:00:00,10,3
+HXP,Jnr Gym Appoint 11-12,06-May-17,11:00:00,10,2
+HXP,Jnr Gym Appoint 11-12,20-May-17,11:00:00,10,3
+HXP,Jnr Gym Appoint 11-12,10-Jun-17,11:00:00,10,1
+HXP,Jnr Gym Appoint 11-12,24-Jun-17,11:00:00,10,4
+HXP,Junior Swimfit 7pm-8pm,07-Apr-17,19:00:00,4,2
+HXP,Junior Swimfit 7pm-8pm,21-Apr-17,19:00:00,4,1
+HXP,Junior Swimfit 7pm-8pm,28-Apr-17,19:00:00,4,2
+HXP,Junior Swimfit 7pm-8pm,05-May-17,19:00:00,4,2
+HXP,Junior Swimfit 7pm-8pm,19-May-17,19:00:00,4,1
+HXP,Junior Swimfit 7pm-8pm,26-May-17,19:00:00,4,2
+HXP,Junior Swimfit 7pm-8pm,02-Jun-17,19:00:00,4,1
+HXP,Junior Swimfit 7pm-8pm,09-Jun-17,19:00:00,4,2
+HXP,Junior Swimfit 7pm-8pm,23-Jun-17,19:00:00,4,2
+HXP,Junior Swimfit 7pm-8pm,30-Jun-17,19:00:00,4,1
+HXP,Line Dancing 1.15-2.00pm,05-Apr-17,13:15:00,21,12
+HXP,Line Dancing 1.15-2.00pm,12-Apr-17,13:15:00,21,6
+HXP,Line Dancing 1.15-2.00pm,19-Apr-17,13:15:00,21,9
+HXP,Line Dancing 1.15-2.00pm,26-Apr-17,13:15:00,21,12
+HXP,Line Dancing 1.15-2.00pm,03-May-17,13:15:00,21,7
+HXP,Line Dancing 1.15-2.00pm,10-May-17,13:15:00,21,4
+HXP,Line Dancing 1.15-2.00pm,17-May-17,13:15:00,21,7
+HXP,Line Dancing 1.15-2.00pm,31-May-17,13:15:00,21,5
+HXP,Line Dancing 1.15-2.00pm,07-Jun-17,13:15:00,21,10
+HXP,Line Dancing 1.15-2.00pm,14-Jun-17,13:15:00,21,10
+HXP,Line Dancing 1.15-2.00pm,21-Jun-17,13:15:00,21,8
+HXP,Line Dancing 1.15-2.00pm,28-Jun-17,13:15:00,21,11
+HXP,Line Dancing 2pm -3pm,05-Apr-17,14:00:00,21,9
+HXP,Line Dancing 2pm -3pm,12-Apr-17,14:00:00,21,8
+HXP,Line Dancing 2pm -3pm,19-Apr-17,14:00:00,21,9
+HXP,Line Dancing 2pm -3pm,26-Apr-17,14:00:00,21,8
+HXP,Line Dancing 2pm -3pm,03-May-17,14:00:00,21,6
+HXP,Line Dancing 2pm -3pm,10-May-17,14:00:00,21,7
+HXP,Line Dancing 2pm -3pm,17-May-17,14:00:00,21,7
+HXP,Line Dancing 2pm -3pm,31-May-17,14:00:00,21,5
+HXP,Line Dancing 2pm -3pm,07-Jun-17,14:00:00,21,6
+HXP,Line Dancing 2pm -3pm,14-Jun-17,14:00:00,21,8
+HXP,Line Dancing 2pm -3pm,21-Jun-17,14:00:00,21,4
+HXP,Line Dancing 2pm -3pm,28-Jun-17,14:00:00,21,8
+HXP,Pilates 9.00-9.50am,06-Apr-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,13-Apr-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,20-Apr-17,09:00:00,25,23
+HXP,Pilates 9.00-9.50am,27-Apr-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,04-May-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,11-May-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,18-May-17,09:00:00,25,22
+HXP,Pilates 9.00-9.50am,25-May-17,09:00:00,25,22
+HXP,Pilates 9.00-9.50am,01-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,08-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,15-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-9.50am,22-Jun-17,09:00:00,25,24
+HXP,Pilates 9.00-9.50am,29-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,04-Apr-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,11-Apr-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,18-Apr-17,09:00:00,25,22
+HXP,Pilates 9.00-10.00am,25-Apr-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,02-May-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,09-May-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,16-May-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,23-May-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,30-May-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,06-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,13-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,20-Jun-17,09:00:00,25,25
+HXP,Pilates 9.00-10.00am,27-Jun-17,09:00:00,25,24
+HXP,Pilaties 13.45-14.45,08-May-17,13:45:00,25,12
+HXP,Pilaties 13.45-14.45,15-May-17,13:45:00,25,14
+HXP,Pilaties 13.45-14.45,22-May-17,13:45:00,25,21
+HXP,Pilaties 13.45-14.45,29-May-17,13:45:00,25,6
+HXP,Pilaties 13.45-14.45,05-Jun-17,13:45:00,25,11
+HXP,Pilaties 13.45-14.45,12-Jun-17,13:45:00,25,15
+HXP,Pilaties 13.45-14.45,19-Jun-17,13:45:00,25,13
+HXP,Pilaties 13.45-14.45,26-Jun-17,13:45:00,25,17
+HXP,Stretch  1.00pm -1.30pm,04-Apr-17,13:00:00,25,3
+HXP,Stretch  1.00pm -1.30pm,11-Apr-17,13:00:00,25,5
+HXP,Stretch  1.00pm -1.30pm,18-Apr-17,13:00:00,25,6
+HXP,Stretch  1.00pm -1.30pm,25-Apr-17,13:00:00,25,3
+HXP,Stretch  1.00pm -1.30pm,02-May-17,13:00:00,25,6
+HXP,Stretch  1.00pm -1.30pm,09-May-17,13:00:00,25,4
+HXP,Stretch  1.00pm -1.30pm,16-May-17,13:00:00,25,5
+HXP,Stretch  1.00pm -1.30pm,23-May-17,13:00:00,25,3
+HXP,Stretch  1.00pm -1.30pm,30-May-17,13:00:00,25,2
+HXP,Stretch  1.00pm -1.30pm,06-Jun-17,13:00:00,25,3
+HXP,Stretch  1.00pm -1.30pm,13-Jun-17,13:00:00,25,5
+HXP,Stretch  1.00pm -1.30pm,20-Jun-17,13:00:00,25,1
+HXP,Stretch  1.00pm -1.30pm,27-Jun-17,13:00:00,25,1
+HXP,Strokeskills 6 -7pm,05-Apr-17,18:00:00,15,4
+HXP,Strokeskills 6 -7pm,12-Apr-17,18:00:00,15,6
+HXP,Strokeskills 6 -7pm,19-Apr-17,18:00:00,15,4
+HXP,Strokeskills 6 -7pm,26-Apr-17,18:00:00,15,8
+HXP,Strokeskills 6 -7pm,03-May-17,18:00:00,15,5
+HXP,Strokeskills 6 -7pm,10-May-17,18:00:00,15,7
+HXP,Strokeskills 6 -7pm,17-May-17,18:00:00,15,7
+HXP,Strokeskills 6 -7pm,24-May-17,18:00:00,15,8
+HXP,Strokeskills 6 -7pm,31-May-17,18:00:00,15,6
+HXP,Strokeskills 6 -7pm,07-Jun-17,18:00:00,15,7
+HXP,Strokeskills 6 -7pm,14-Jun-17,18:00:00,15,6
+HXP,Strokeskills 6 -7pm,21-Jun-17,18:00:00,15,3
+HXP,Strokeskills 6 -7pm,28-Jun-17,18:00:00,15,4
+HXP,Strokeskills 6pm - 7pm,07-Apr-17,18:00:00,10,4
+HXP,Strokeskills 6pm - 7pm,21-Apr-17,18:00:00,10,3
+HXP,Strokeskills 6pm - 7pm,28-Apr-17,18:00:00,10,5
+HXP,Strokeskills 6pm - 7pm,05-May-17,18:00:00,10,3
+HXP,Strokeskills 6pm - 7pm,12-May-17,18:00:00,10,7
+HXP,Strokeskills 6pm - 7pm,19-May-17,18:00:00,10,5
+HXP,Strokeskills 6pm - 7pm,26-May-17,18:00:00,10,5
+HXP,Strokeskills 6pm - 7pm,02-Jun-17,18:00:00,10,5
+HXP,Strokeskills 6pm - 7pm,09-Jun-17,18:00:00,10,8
+HXP,Strokeskills 6pm - 7pm,16-Jun-17,18:00:00,10,9
+HXP,Strokeskills 6pm - 7pm,23-Jun-17,18:00:00,10,2
+HXP,Strokeskills 6pm - 7pm,30-Jun-17,18:00:00,10,4
+HXP,Studio Cyc 4.20-5.10pm,05-Apr-17,16:20:00,27,19
+HXP,Studio Cyc 4.20-5.10pm,12-Apr-17,16:20:00,27,20
+HXP,Studio Cyc 4.20-5.10pm,19-Apr-17,16:20:00,27,20
+HXP,Studio Cyc 4.20-5.10pm,26-Apr-17,16:20:00,27,12
+HXP,Studio Cyc 4.20-5.10pm,03-May-17,16:20:00,27,24
+HXP,Studio Cyc 4.20-5.10pm,10-May-17,16:20:00,27,23
+HXP,Studio Cyc 4.20-5.10pm,17-May-17,16:20:00,27,23
+HXP,Studio Cyc 4.20-5.10pm,24-May-17,16:20:00,27,20
+HXP,Studio Cyc 4.20-5.10pm,31-May-17,16:20:00,27,15
+HXP,Studio Cyc 4.20-5.10pm,07-Jun-17,16:20:00,27,18
+HXP,Studio Cyc 4.20-5.10pm,14-Jun-17,16:20:00,27,21
+HXP,Studio Cyc 4.20-5.10pm,21-Jun-17,16:20:00,27,14
+HXP,Studio Cyc 4.20-5.10pm,28-Jun-17,16:20:00,27,8
+HXP,Studio Cyc 5.00-5.50pm,04-Apr-17,17:00:00,27,25
+HXP,Studio Cyc 5.00-5.50pm,06-Apr-17,17:00:00,27,25
+HXP,Studio Cyc 5.00-5.50pm,11-Apr-17,17:00:00,27,26
+HXP,Studio Cyc 5.00-5.50pm,13-Apr-17,17:00:00,27,15
+HXP,Studio Cyc 5.00-5.50pm,18-Apr-17,17:00:00,27,25
+HXP,Studio Cyc 5.00-5.50pm,20-Apr-17,17:00:00,27,25
+HXP,Studio Cyc 5.00-5.50pm,25-Apr-17,17:00:00,27,26
+HXP,Studio Cyc 5.00-5.50pm,27-Apr-17,17:00:00,27,23
+HXP,Studio Cyc 5.00-5.50pm,02-May-17,17:00:00,27,26
+HXP,Studio Cyc 5.00-5.50pm,04-May-17,17:00:00,27,19
+HXP,Studio Cyc 5.00-5.50pm,09-May-17,17:00:00,27,27
+HXP,Studio Cyc 5.00-5.50pm,11-May-17,17:00:00,27,27
+HXP,Studio Cyc 5.00-5.50pm,16-May-17,17:00:00,27,25
+HXP,Studio Cyc 5.00-5.50pm,18-May-17,17:00:00,27,22
+HXP,Studio Cyc 5.00-5.50pm,23-May-17,17:00:00,27,22
+HXP,Studio Cyc 5.00-5.50pm,25-May-17,17:00:00,27,21
+HXP,Studio Cyc 5.00-5.50pm,30-May-17,17:00:00,27,23
+HXP,Studio Cyc 5.00-5.50pm,01-Jun-17,17:00:00,27,22
+HXP,Studio Cyc 5.00-5.50pm,06-Jun-17,17:00:00,27,24
+HXP,Studio Cyc 5.00-5.50pm,08-Jun-17,17:00:00,27,20
+HXP,Studio Cyc 5.00-5.50pm,13-Jun-17,17:00:00,27,25
+HXP,Studio Cyc 5.00-5.50pm,15-Jun-17,17:00:00,27,17
+HXP,Studio Cyc 5.00-5.50pm,20-Jun-17,17:00:00,27,23
+HXP,Studio Cyc 5.00-5.50pm,22-Jun-17,17:00:00,27,17
+HXP,Studio Cyc 5.00-5.50pm,27-Jun-17,17:00:00,27,23
+HXP,Studio Cyc 5.00-5.50pm,29-Jun-17,17:00:00,27,18
+HXP,Studio Cyc 5.10-6.00pm,07-Apr-17,17:10:00,27,18
+HXP,Studio Cyc 5.10-6.00pm,21-Apr-17,17:10:00,27,21
+HXP,Studio Cyc 5.10-6.00pm,28-Apr-17,17:10:00,27,23
+HXP,Studio Cyc 5.10-6.00pm,05-May-17,17:10:00,27,20
+HXP,Studio Cyc 5.10-6.00pm,12-May-17,17:10:00,27,20
+HXP,Studio Cyc 5.10-6.00pm,19-May-17,17:10:00,27,21
+HXP,Studio Cyc 5.10-6.00pm,26-May-17,17:10:00,27,23
+HXP,Studio Cyc 5.10-6.00pm,02-Jun-17,17:10:00,27,27
+HXP,Studio Cyc 5.10-6.00pm,09-Jun-17,17:10:00,27,19
+HXP,Studio Cyc 5.10-6.00pm,16-Jun-17,17:10:00,27,24
+HXP,Studio Cyc 5.10-6.00pm,23-Jun-17,17:10:00,27,26
+HXP,Studio Cyc 5.10-6.00pm,30-Jun-17,17:10:00,27,22
+HXP,Studio Cyc 5.20-6.10pm,03-Apr-17,17:20:00,27,23
+HXP,Studio Cyc 5.20-6.10pm,05-Apr-17,17:20:00,27,19
+HXP,Studio Cyc 5.20-6.10pm,10-Apr-17,17:20:00,27,25
+HXP,Studio Cyc 5.20-6.10pm,12-Apr-17,17:20:00,27,23
+HXP,Studio Cyc 5.20-6.10pm,19-Apr-17,17:20:00,27,17
+HXP,Studio Cyc 5.20-6.10pm,24-Apr-17,17:20:00,27,26
+HXP,Studio Cyc 5.20-6.10pm,26-Apr-17,17:20:00,27,14
+HXP,Studio Cyc 5.20-6.10pm,03-May-17,17:20:00,27,23
+HXP,Studio Cyc 5.20-6.10pm,08-May-17,17:20:00,27,27
+HXP,Studio Cyc 5.20-6.10pm,10-May-17,17:20:00,27,26
+HXP,Studio Cyc 5.20-6.10pm,15-May-17,17:20:00,27,27
+HXP,Studio Cyc 5.20-6.10pm,17-May-17,17:20:00,27,24
+HXP,Studio Cyc 5.20-6.10pm,22-May-17,17:20:00,27,27
+HXP,Studio Cyc 5.20-6.10pm,24-May-17,17:20:00,27,16
+HXP,Studio Cyc 5.20-6.10pm,31-May-17,17:20:00,27,25
+HXP,Studio Cyc 5.20-6.10pm,05-Jun-17,17:20:00,27,22
+HXP,Studio Cyc 5.20-6.10pm,07-Jun-17,17:20:00,27,18
+HXP,Studio Cyc 5.20-6.10pm,12-Jun-17,17:20:00,27,27
+HXP,Studio Cyc 5.20-6.10pm,14-Jun-17,17:20:00,27,21
+HXP,Studio Cyc 5.20-6.10pm,19-Jun-17,17:20:00,27,25
+HXP,Studio Cyc 5.20-6.10pm,21-Jun-17,17:20:00,27,15
+HXP,Studio Cyc 5.20-6.10pm,26-Jun-17,17:20:00,27,19
+HXP,Studio Cyc 5.20-6.10pm,28-Jun-17,17:20:00,27,6
+HXP,Studio Cyc 5.55-6.45pm,06-Apr-17,17:55:00,27,23
+HXP,Studio Cyc 5.55-6.45pm,13-Apr-17,17:55:00,27,14
+HXP,Studio Cyc 5.55-6.45pm,20-Apr-17,17:55:00,27,23
+HXP,Studio Cyc 5.55-6.45pm,27-Apr-17,17:55:00,27,26
+HXP,Studio Cyc 5.55-6.45pm,04-May-17,17:55:00,27,18
+HXP,Studio Cyc 5.55-6.45pm,11-May-17,17:55:00,27,20
+HXP,Studio Cyc 5.55-6.45pm,18-May-17,17:55:00,27,23
+HXP,Studio Cyc 5.55-6.45pm,25-May-17,17:55:00,27,20
+HXP,Studio Cyc 5.55-6.45pm,01-Jun-17,17:55:00,27,20
+HXP,Studio Cyc 5.55-6.45pm,08-Jun-17,17:55:00,27,24
+HXP,Studio Cyc 5.55-6.45pm,15-Jun-17,17:55:00,27,21
+HXP,Studio Cyc 5.55-6.45pm,22-Jun-17,17:55:00,27,20
+HXP,Studio Cyc 5.55-6.45pm,29-Jun-17,17:55:00,27,22
+HXP,Studio Cyc 6.10-7.00pm,07-Apr-17,18:10:00,27,23
+HXP,Studio Cyc 6.10-7.00pm,21-Apr-17,18:10:00,27,19
+HXP,Studio Cyc 6.10-7.00pm,28-Apr-17,18:10:00,27,16
+HXP,Studio Cyc 6.10-7.00pm,05-May-17,18:10:00,27,26
+HXP,Studio Cyc 6.10-7.00pm,12-May-17,18:10:00,27,26
+HXP,Studio Cyc 6.10-7.00pm,19-May-17,18:10:00,27,17
+HXP,Studio Cyc 6.10-7.00pm,26-May-17,18:10:00,27,18
+HXP,Studio Cyc 6.10-7.00pm,02-Jun-17,18:10:00,27,26
+HXP,Studio Cyc 6.10-7.00pm,09-Jun-17,18:10:00,27,20
+HXP,Studio Cyc 6.10-7.00pm,16-Jun-17,18:10:00,27,23
+HXP,Studio Cyc 6.10-7.00pm,23-Jun-17,18:10:00,27,20
+HXP,Studio Cyc 6.10-7.00pm,30-Jun-17,18:10:00,27,20
+HXP,Studio Cyc 6.15-7.05pm,03-Apr-17,18:15:00,27,27
+HXP,Studio Cyc 6.15-7.05pm,10-Apr-17,18:15:00,27,25
+HXP,Studio Cyc 6.15-7.05pm,24-Apr-17,18:15:00,27,27
+HXP,Studio Cyc 6.15-7.05pm,08-May-17,18:15:00,27,27
+HXP,Studio Cyc 6.15-7.05pm,15-May-17,18:15:00,27,24
+HXP,Studio Cyc 6.15-7.05pm,22-May-17,18:15:00,27,27
+HXP,Studio Cyc 6.15-7.05pm,05-Jun-17,18:15:00,27,27
+HXP,Studio Cyc 6.15-7.05pm,12-Jun-17,18:15:00,27,23
+HXP,Studio Cyc 6.15-7.05pm,19-Jun-17,18:15:00,27,23
+HXP,Studio Cyc 6.15-7.05pm,26-Jun-17,18:15:00,27,27
+HXP,Studio Cyc 7.00-7.50pm,06-Apr-17,19:00:00,27,27
+HXP,Studio Cyc 7.00-7.50pm,13-Apr-17,19:00:00,27,19
+HXP,Studio Cyc 7.00-7.50pm,20-Apr-17,19:00:00,27,23
+HXP,Studio Cyc 7.00-7.50pm,27-Apr-17,19:00:00,27,27
+HXP,Studio Cyc 7.00-7.50pm,04-May-17,19:00:00,27,26
+HXP,Studio Cyc 7.00-7.50pm,11-May-17,19:00:00,27,25
+HXP,Studio Cyc 7.00-7.50pm,18-May-17,19:00:00,27,27
+HXP,Studio Cyc 7.00-7.50pm,25-May-17,19:00:00,27,26
+HXP,Studio Cyc 7.00-7.50pm,01-Jun-17,19:00:00,27,21
+HXP,Studio Cyc 7.00-7.50pm,08-Jun-17,19:00:00,27,26
+HXP,Studio Cyc 7.00-7.50pm,15-Jun-17,19:00:00,27,22
+HXP,Studio Cyc 7.00-7.50pm,22-Jun-17,19:00:00,27,22
+HXP,Studio Cyc 7.00-7.50pm,29-Jun-17,19:00:00,27,25
+HXP,Studio Cyc 7.05-7.55am,03-Apr-17,07:05:00,27,11
+HXP,Studio Cyc 7.05-7.55am,05-Apr-17,07:05:00,27,14
+HXP,Studio Cyc 7.05-7.55am,10-Apr-17,07:05:00,27,15
+HXP,Studio Cyc 7.05-7.55am,12-Apr-17,07:05:00,27,20
+HXP,Studio Cyc 7.05-7.55am,17-Apr-17,07:05:00,27,12
+HXP,Studio Cyc 7.05-7.55am,19-Apr-17,07:05:00,27,16
+HXP,Studio Cyc 7.05-7.55am,24-Apr-17,07:05:00,27,16
+HXP,Studio Cyc 7.05-7.55am,26-Apr-17,07:05:00,27,15
+HXP,Studio Cyc 7.05-7.55am,01-May-17,07:05:00,27,11
+HXP,Studio Cyc 7.05-7.55am,03-May-17,07:05:00,27,20
+HXP,Studio Cyc 7.05-7.55am,08-May-17,07:05:00,27,13
+HXP,Studio Cyc 7.05-7.55am,10-May-17,07:05:00,27,17
+HXP,Studio Cyc 7.05-7.55am,15-May-17,07:05:00,27,16
+HXP,Studio Cyc 7.05-7.55am,17-May-17,07:05:00,27,17
+HXP,Studio Cyc 7.05-7.55am,22-May-17,07:05:00,27,14
+HXP,Studio Cyc 7.05-7.55am,24-May-17,07:05:00,27,16
+HXP,Studio Cyc 7.05-7.55am,29-May-17,07:05:00,27,14
+HXP,Studio Cyc 7.05-7.55am,31-May-17,07:05:00,27,19
+HXP,Studio Cyc 7.05-7.55am,05-Jun-17,07:05:00,27,16
+HXP,Studio Cyc 7.05-7.55am,07-Jun-17,07:05:00,27,18
+HXP,Studio Cyc 7.05-7.55am,12-Jun-17,07:05:00,27,18
+HXP,Studio Cyc 7.05-7.55am,14-Jun-17,07:05:00,27,19
+HXP,Studio Cyc 7.05-7.55am,19-Jun-17,07:05:00,27,20
+HXP,Studio Cyc 7.05-7.55am,21-Jun-17,07:05:00,27,20
+HXP,Studio Cyc 7.05-7.55am,26-Jun-17,07:05:00,27,14
+HXP,Studio Cyc 7.05-7.55am,28-Jun-17,07:05:00,27,18
+HXP,Studio Cyc 7.30-8.20pm,04-Apr-17,19:30:00,27,27
+HXP,Studio Cyc 7.30-8.20pm,11-Apr-17,19:30:00,27,25
+HXP,Studio Cyc 7.30-8.20pm,18-Apr-17,19:30:00,27,22
+HXP,Studio Cyc 7.30-8.20pm,25-Apr-17,19:30:00,27,26
+HXP,Studio Cyc 7.30-8.20pm,02-May-17,19:30:00,27,27
+HXP,Studio Cyc 7.30-8.20pm,09-May-17,19:30:00,27,26
+HXP,Studio Cyc 7.30-8.20pm,16-May-17,19:30:00,27,22
+HXP,Studio Cyc 7.30-8.20pm,23-May-17,19:30:00,27,22
+HXP,Studio Cyc 7.30-8.20pm,30-May-17,19:30:00,27,15
+HXP,Studio Cyc 7.30-8.20pm,06-Jun-17,19:30:00,27,23
+HXP,Studio Cyc 7.30-8.20pm,13-Jun-17,19:30:00,27,21
+HXP,Studio Cyc 7.30-8.20pm,20-Jun-17,19:30:00,27,21
+HXP,Studio Cyc 7.30-8.20pm,27-Jun-17,19:30:00,27,25
+HXP,Studio Cyc 8.00-8.50am,01-Apr-17,08:00:00,27,27
+HXP,Studio Cyc 8.00-8.50am,08-Apr-17,08:00:00,27,24
+HXP,Studio Cyc 8.00-8.50am,15-Apr-17,08:00:00,27,24
+HXP,Studio Cyc 8.00-8.50am,22-Apr-17,08:00:00,27,20
+HXP,Studio Cyc 8.00-8.50am,29-Apr-17,08:00:00,27,26
+HXP,Studio Cyc 8.00-8.50am,06-May-17,08:00:00,27,24
+HXP,Studio Cyc 8.00-8.50am,13-May-17,08:00:00,27,27
+HXP,Studio Cyc 8.00-8.50am,20-May-17,08:00:00,27,23
+HXP,Studio Cyc 8.00-8.50am,27-May-17,08:00:00,27,19
+HXP,Studio Cyc 8.00-8.50am,03-Jun-17,08:00:00,27,20
+HXP,Studio Cyc 8.00-8.50am,10-Jun-17,08:00:00,27,19
+HXP,Studio Cyc 8.00-8.50am,17-Jun-17,08:00:00,27,25
+HXP,Studio Cyc 8.00-8.50am,24-Jun-17,08:00:00,27,23
+HXP,Studio Cyc 8.00-8.50pm,06-Apr-17,20:00:00,27,21
+HXP,Studio Cyc 8.00-8.50pm,13-Apr-17,20:00:00,27,16
+HXP,Studio Cyc 8.00-8.50pm,20-Apr-17,20:00:00,27,15
+HXP,Studio Cyc 8.00-8.50pm,27-Apr-17,20:00:00,27,18
+HXP,Studio Cyc 8.00-8.50pm,04-May-17,20:00:00,27,19
+HXP,Studio Cyc 8.00-8.50pm,11-May-17,20:00:00,27,21
+HXP,Studio Cyc 8.00-8.50pm,18-May-17,20:00:00,27,23
+HXP,Studio Cyc 8.00-8.50pm,25-May-17,20:00:00,27,18
+HXP,Studio Cyc 8.00-8.50pm,01-Jun-17,20:00:00,27,16
+HXP,Studio Cyc 8.00-8.50pm,08-Jun-17,20:00:00,27,24
+HXP,Studio Cyc 8.00-8.50pm,15-Jun-17,20:00:00,27,23
+HXP,Studio Cyc 8.00-8.50pm,22-Jun-17,20:00:00,27,21
+HXP,Studio Cyc 8.00-8.50pm,29-Jun-17,20:00:00,27,13
+HXP,Studio Cyc 8.50-9.40am,01-Apr-17,08:50:00,27,24
+HXP,Studio Cyc 8.50-9.40am,08-Apr-17,08:50:00,27,19
+HXP,Studio Cyc 8.50-9.40am,15-Apr-17,08:50:00,27,21
+HXP,Studio Cyc 8.50-9.40am,22-Apr-17,08:50:00,27,24
+HXP,Studio Cyc 8.50-9.40am,29-Apr-17,08:50:00,27,24
+HXP,Studio Cyc 8.50-9.40am,06-May-17,08:50:00,27,19
+HXP,Studio Cyc 8.50-9.40am,13-May-17,08:50:00,27,20
+HXP,Studio Cyc 8.50-9.40am,20-May-17,08:50:00,27,24
+HXP,Studio Cyc 8.50-9.40am,27-May-17,08:50:00,27,20
+HXP,Studio Cyc 8.50-9.40am,03-Jun-17,08:50:00,27,15
+HXP,Studio Cyc 8.50-9.40am,10-Jun-17,08:50:00,27,20
+HXP,Studio Cyc 8.50-9.40am,17-Jun-17,08:50:00,27,21
+HXP,Studio Cyc 8.50-9.40am,24-Jun-17,08:50:00,27,21
+HXP,Studio Cyc 9.05-9.55am,02-Apr-17,09:05:00,27,25
+HXP,Studio Cyc 9.05-9.55am,09-Apr-17,09:05:00,27,22
+HXP,Studio Cyc 9.05-9.55am,16-Apr-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,23-Apr-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,30-Apr-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,07-May-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,14-May-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,21-May-17,09:05:00,27,26
+HXP,Studio Cyc 9.05-9.55am,28-May-17,09:05:00,27,20
+HXP,Studio Cyc 9.05-9.55am,04-Jun-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,11-Jun-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,18-Jun-17,09:05:00,27,27
+HXP,Studio Cyc 9.05-9.55am,25-Jun-17,09:05:00,27,23
+HXP,Studio Cyc 10.00 -10.50am,02-Apr-17,10:00:00,27,23
+HXP,Studio Cyc 10.00 -10.50am,09-Apr-17,10:00:00,27,16
+HXP,Studio Cyc 10.00 -10.50am,16-Apr-17,10:00:00,27,27
+HXP,Studio Cyc 10.00 -10.50am,23-Apr-17,10:00:00,27,22
+HXP,Studio Cyc 10.00 -10.50am,30-Apr-17,10:00:00,27,25
+HXP,Studio Cyc 10.00 -10.50am,07-May-17,10:00:00,27,27
+HXP,Studio Cyc 10.00 -10.50am,14-May-17,10:00:00,27,26
+HXP,Studio Cyc 10.00 -10.50am,21-May-17,10:00:00,27,27
+HXP,Studio Cyc 10.00 -10.50am,28-May-17,10:00:00,27,22
+HXP,Studio Cyc 10.00 -10.50am,04-Jun-17,10:00:00,27,27
+HXP,Studio Cyc 10.00 -10.50am,11-Jun-17,10:00:00,27,26
+HXP,Studio Cyc 10.00 -10.50am,18-Jun-17,10:00:00,27,24
+HXP,Studio Cyc 10.00 -10.50am,25-Jun-17,10:00:00,27,22
+HXP,Studio Cyc 10.00-10.50am,06-Apr-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,13-Apr-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,20-Apr-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,27-Apr-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,04-May-17,10:00:00,27,32
+HXP,Studio Cyc 10.00-10.50am,11-May-17,10:00:00,27,25
+HXP,Studio Cyc 10.00-10.50am,18-May-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,25-May-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,01-Jun-17,10:00:00,27,23
+HXP,Studio Cyc 10.00-10.50am,08-Jun-17,10:00:00,27,26
+HXP,Studio Cyc 10.00-10.50am,15-Jun-17,10:00:00,27,27
+HXP,Studio Cyc 10.00-10.50am,22-Jun-17,10:00:00,27,24
+HXP,Studio Cyc 10.00-10.50am,29-Jun-17,10:00:00,27,27
+HXP,Studio Cyc 12.10-1.00pm,05-Apr-17,12:10:00,27,23
+HXP,Studio Cyc 12.10-1.00pm,12-Apr-17,12:10:00,27,27
+HXP,Studio Cyc 12.10-1.00pm,19-Apr-17,12:10:00,27,24
+HXP,Studio Cyc 12.10-1.00pm,26-Apr-17,12:10:00,27,27
+HXP,Studio Cyc 12.10-1.00pm,03-May-17,12:10:00,27,23
+HXP,Studio Cyc 12.10-1.00pm,10-May-17,12:10:00,27,25
+HXP,Studio Cyc 12.10-1.00pm,17-May-17,12:10:00,27,22
+HXP,Studio Cyc 12.10-1.00pm,24-May-17,12:10:00,27,23
+HXP,Studio Cyc 12.10-1.00pm,31-May-17,12:10:00,27,21
+HXP,Studio Cyc 12.10-1.00pm,07-Jun-17,12:10:00,27,26
+HXP,Studio Cyc 12.10-1.00pm,14-Jun-17,12:10:00,27,21
+HXP,Studio Cyc 12.10-1.00pm,21-Jun-17,12:10:00,27,21
+HXP,Studio Cyc 12.10-1.00pm,28-Jun-17,12:10:00,27,20
+HXP,Studio Cyc 12.30-1.20pm,03-Apr-17,12:30:00,27,27
+HXP,Studio Cyc 12.30-1.20pm,10-Apr-17,12:30:00,27,27
+HXP,Studio Cyc 12.30-1.20pm,17-Apr-17,12:30:00,27,22
+HXP,Studio Cyc 12.30-1.20pm,24-Apr-17,12:30:00,27,24
+HXP,Studio Cyc 12.30-1.20pm,01-May-17,12:30:00,27,27
+HXP,Studio Cyc 12.30-1.20pm,08-May-17,12:30:00,27,18
+HXP,Studio Cyc 12.30-1.20pm,15-May-17,12:30:00,27,26
+HXP,Studio Cyc 12.30-1.20pm,22-May-17,12:30:00,27,25
+HXP,Studio Cyc 12.30-1.20pm,29-May-17,12:30:00,27,22
+HXP,Studio Cyc 12.30-1.20pm,05-Jun-17,12:30:00,27,24
+HXP,Studio Cyc 12.30-1.20pm,12-Jun-17,12:30:00,27,22
+HXP,Studio Cyc 12.30-1.20pm,19-Jun-17,12:30:00,27,21
+HXP,Studio Cyc 12.30-1.20pm,26-Jun-17,12:30:00,27,22
+HXP,Studio Cycling 1.10pm-2pm,07-Apr-17,13:10:00,27,24
+HXP,Studio Cycling 1.10pm-2pm,14-Apr-17,13:10:00,27,36
+HXP,Studio Cycling 1.10pm-2pm,21-Apr-17,13:10:00,27,25
+HXP,Studio Cycling 1.10pm-2pm,28-Apr-17,13:10:00,27,27
+HXP,Studio Cycling 1.10pm-2pm,05-May-17,13:10:00,27,27
+HXP,Studio Cycling 1.10pm-2pm,12-May-17,13:10:00,27,25
+HXP,Studio Cycling 1.10pm-2pm,19-May-17,13:10:00,27,26
+HXP,Studio Cycling 1.10pm-2pm,26-May-17,13:10:00,27,22
+HXP,Studio Cycling 1.10pm-2pm,02-Jun-17,13:10:00,27,25
+HXP,Studio Cycling 1.10pm-2pm,09-Jun-17,13:10:00,27,16
+HXP,Studio Cycling 1.10pm-2pm,16-Jun-17,13:10:00,27,25
+HXP,Studio Cycling 1.10pm-2pm,23-Jun-17,13:10:00,27,24
+HXP,Studio Cycling 1.10pm-2pm,30-Jun-17,13:10:00,27,22
+HXP,Studio Cycling 7.05 -7.55,04-Apr-17,07:05:00,27,13
+HXP,Studio Cycling 7.05 -7.55,11-Apr-17,07:05:00,27,15
+HXP,Studio Cycling 7.05 -7.55,18-Apr-17,07:05:00,27,16
+HXP,Studio Cycling 7.05 -7.55,25-Apr-17,07:05:00,27,11
+HXP,Studio Cycling 7.05 -7.55,02-May-17,07:05:00,27,11
+HXP,Studio Cycling 7.05 -7.55,09-May-17,07:05:00,27,16
+HXP,Studio Cycling 7.05 -7.55,16-May-17,07:05:00,27,11
+HXP,Studio Cycling 7.05 -7.55,23-May-17,07:05:00,27,20
+HXP,Studio Cycling 7.05 -7.55,30-May-17,07:05:00,27,15
+HXP,Studio Cycling 7.05 -7.55,06-Jun-17,07:05:00,27,13
+HXP,Studio Cycling 7.05 -7.55,13-Jun-17,07:05:00,27,15
+HXP,Studio Cycling 7.05 -7.55,20-Jun-17,07:05:00,27,14
+HXP,Studio Cycling 7.05 -7.55,27-Jun-17,07:05:00,27,11
+HXP,Swimfit 6.30 -7.30pm,03-Apr-17,18:30:00,15,9
+HXP,Swimfit 6.30 -7.30pm,10-Apr-17,18:30:00,15,15
+HXP,Swimfit 6.30 -7.30pm,24-Apr-17,18:30:00,15,14
+HXP,Swimfit 6.30 -7.30pm,08-May-17,18:30:00,15,12
+HXP,Swimfit 6.30 -7.30pm,15-May-17,18:30:00,15,12
+HXP,Swimfit 6.30 -7.30pm,22-May-17,18:30:00,15,14
+HXP,Swimfit 6.30 -7.30pm,05-Jun-17,18:30:00,15,8
+HXP,Swimfit 6.30 -7.30pm,12-Jun-17,18:30:00,15,11
+HXP,Swimfit 6.30 -7.30pm,19-Jun-17,18:30:00,15,11
+HXP,Swimfit 6.30 -7.30pm,26-Jun-17,18:30:00,15,9
+HXP,Swimfit 6.30-7.00am,03-Apr-17,06:30:00,6,3
+HXP,Swimfit 6.30-7.00am,24-Apr-17,06:30:00,6,3
+HXP,Swimfit 6.30-7.00am,08-May-17,06:30:00,6,1
+HXP,Swimfit 6.30-7.00am,15-May-17,06:30:00,6,2
+HXP,Swimfit 6.30-7.00am,22-May-17,06:30:00,6,3
+HXP,Swimfit 6.30-7.00am,05-Jun-17,06:30:00,6,4
+HXP,Swimfit 6.30-7.30am,03-Apr-17,06:30:00,15,15
+HXP,Swimfit 6.30-7.30am,10-Apr-17,06:30:00,15,15
+HXP,Swimfit 6.30-7.30am,24-Apr-17,06:30:00,15,8
+HXP,Swimfit 6.30-7.30am,08-May-17,06:30:00,15,9
+HXP,Swimfit 6.30-7.30am,15-May-17,06:30:00,15,9
+HXP,Swimfit 6.30-7.30am,22-May-17,06:30:00,15,11
+HXP,Swimfit 6.30-7.30am,05-Jun-17,06:30:00,15,7
+HXP,Swimfit 6.30-7.30am,12-Jun-17,06:30:00,15,12
+HXP,Swimfit 6.30-7.30am,19-Jun-17,06:30:00,15,13
+HXP,Swimfit 6.30-7.30am,26-Jun-17,06:30:00,15,12
+HXP,Swimfit 6.30am -7.30am,05-Apr-17,06:30:00,15,11
+HXP,Swimfit 6.30am -7.30am,12-Apr-17,06:30:00,15,12
+HXP,Swimfit 6.30am -7.30am,19-Apr-17,06:30:00,15,15
+HXP,Swimfit 6.30am -7.30am,26-Apr-17,06:30:00,15,15
+HXP,Swimfit 6.30am -7.30am,03-May-17,06:30:00,15,15
+HXP,Swimfit 6.30am -7.30am,10-May-17,06:30:00,15,14
+HXP,Swimfit 6.30am -7.30am,17-May-17,06:30:00,15,15
+HXP,Swimfit 6.30am -7.30am,24-May-17,06:30:00,15,12
+HXP,Swimfit 6.30am -7.30am,31-May-17,06:30:00,15,15
+HXP,Swimfit 6.30am -7.30am,07-Jun-17,06:30:00,15,13
+HXP,Swimfit 6.30am -7.30am,14-Jun-17,06:30:00,15,15
+HXP,Swimfit 6.30am -7.30am,21-Jun-17,06:30:00,15,14
+HXP,Swimfit 6.30am -7.30am,28-Jun-17,06:30:00,15,14
+HXP,Swimfit 7pm - 8pm,05-Apr-17,19:00:00,15,8
+HXP,Swimfit 7pm - 8pm,07-Apr-17,19:00:00,15,15
+HXP,Swimfit 7pm - 8pm,12-Apr-17,19:00:00,15,13
+HXP,Swimfit 7pm - 8pm,19-Apr-17,19:00:00,15,14
+HXP,Swimfit 7pm - 8pm,21-Apr-17,19:00:00,15,14
+HXP,Swimfit 7pm - 8pm,26-Apr-17,19:00:00,15,14
+HXP,Swimfit 7pm - 8pm,28-Apr-17,19:00:00,15,14
+HXP,Swimfit 7pm - 8pm,03-May-17,19:00:00,15,11
+HXP,Swimfit 7pm - 8pm,05-May-17,19:00:00,15,15
+HXP,Swimfit 7pm - 8pm,10-May-17,19:00:00,15,9
+HXP,Swimfit 7pm - 8pm,12-May-17,19:00:00,15,13
+HXP,Swimfit 7pm - 8pm,17-May-17,19:00:00,15,12
+HXP,Swimfit 7pm - 8pm,19-May-17,19:00:00,15,14
+HXP,Swimfit 7pm - 8pm,24-May-17,19:00:00,15,9
+HXP,Swimfit 7pm - 8pm,26-May-17,19:00:00,15,15
+HXP,Swimfit 7pm - 8pm,31-May-17,19:00:00,15,8
+HXP,Swimfit 7pm - 8pm,02-Jun-17,19:00:00,15,8
+HXP,Swimfit 7pm - 8pm,07-Jun-17,19:00:00,15,7
+HXP,Swimfit 7pm - 8pm,09-Jun-17,19:00:00,15,15
+HXP,Swimfit 7pm - 8pm,14-Jun-17,19:00:00,15,11
+HXP,Swimfit 7pm - 8pm,16-Jun-17,19:00:00,15,15
+HXP,Swimfit 7pm - 8pm,21-Jun-17,19:00:00,15,9
+HXP,Swimfit 7pm - 8pm,23-Jun-17,19:00:00,15,10
+HXP,Swimfit 7pm - 8pm,28-Jun-17,19:00:00,15,13
+HXP,Swimfit 7pm - 8pm,30-Jun-17,19:00:00,15,10
+HXP,Tai-Chi  12 -1pm,06-Apr-17,12:00:00,25,10
+HXP,Tai-Chi  12 -1pm,13-Apr-17,12:00:00,25,12
+HXP,Tai-Chi  12 -1pm,20-Apr-17,12:00:00,25,7
+HXP,Tai-Chi  12 -1pm,27-Apr-17,12:00:00,25,13
+HXP,Tai-Chi  12 -1pm,04-May-17,12:00:00,25,13
+HXP,Tai-Chi  12 -1pm,11-May-17,12:00:00,25,10
+HXP,Tai-Chi  12 -1pm,18-May-17,12:00:00,25,8
+HXP,Tai-Chi  12 -1pm,25-May-17,12:00:00,25,8
+HXP,Tai-Chi  12 -1pm,01-Jun-17,12:00:00,25,9
+HXP,Tai-Chi  12 -1pm,08-Jun-17,12:00:00,25,11
+HXP,Tai-Chi  12 -1pm,15-Jun-17,12:00:00,25,10
+HXP,Tai-Chi  12 -1pm,22-Jun-17,12:00:00,25,10
+HXP,Tai-Chi  12 -1pm,29-Jun-17,12:00:00,25,8
+HXP,X-Plosive 11.15-12.15pm,03-Apr-17,11:15:00,35,9
+HXP,X-Plosive 11.15-12.15pm,10-Apr-17,11:15:00,35,10
+HXP,X-Plosive 11.15-12.15pm,24-Apr-17,11:15:00,35,9
+HXP,X-Plosive 11.15-12.15pm,01-May-17,11:15:00,35,12
+HXP,X-Plosive 11.15-12.15pm,08-May-17,11:15:00,35,10
+HXP,X-Plosive 11.15-12.15pm,15-May-17,11:15:00,35,8
+HXP,X-Plosive 11.15-12.15pm,22-May-17,11:15:00,35,6
+HXP,X-Plosive 11.15-12.15pm,29-May-17,11:15:00,35,4
+HXP,X-Plosive 11.15-12.15pm,05-Jun-17,11:15:00,35,5
+HXP,X-Plosive 11.15-12.15pm,12-Jun-17,11:15:00,35,7
+HXP,X-Plosive 11.15-12.15pm,19-Jun-17,11:15:00,35,2
+HXP,X-Plosive 11.15-12.15pm,26-Jun-17,11:15:00,35,3
+HXP,X-Plosive 12.30pm -1.00pm,04-Apr-17,12:30:00,25,9
+HXP,X-Plosive 12.30pm -1.00pm,11-Apr-17,12:30:00,25,13
+HXP,X-Plosive 12.30pm -1.00pm,18-Apr-17,12:30:00,25,8
+HXP,X-Plosive 12.30pm -1.00pm,25-Apr-17,12:30:00,25,8
+HXP,X-Plosive 12.30pm -1.00pm,02-May-17,12:30:00,25,7
+HXP,X-Plosive 12.30pm -1.00pm,09-May-17,12:30:00,25,10
+HXP,X-Plosive 12.30pm -1.00pm,16-May-17,12:30:00,25,12
+HXP,X-Plosive 12.30pm -1.00pm,23-May-17,12:30:00,25,7
+HXP,X-Plosive 12.30pm -1.00pm,30-May-17,12:30:00,25,4
+HXP,X-Plosive 12.30pm -1.00pm,06-Jun-17,12:30:00,25,7
+HXP,X-Plosive 12.30pm -1.00pm,13-Jun-17,12:30:00,25,8
+HXP,X-Plosive 12.30pm -1.00pm,20-Jun-17,12:30:00,25,3
+HXP,X-Plosive 12.30pm -1.00pm,27-Jun-17,12:30:00,25,3
+HXP,Zumba 6.15-7.15pm,04-Apr-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,11-Apr-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,18-Apr-17,18:15:00,25,23
+HXP,Zumba 6.15-7.15pm,25-Apr-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,02-May-17,18:15:00,25,24
+HXP,Zumba 6.15-7.15pm,09-May-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,16-May-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,23-May-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,30-May-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,06-Jun-17,18:15:00,25,23
+HXP,Zumba 6.15-7.15pm,13-Jun-17,18:15:00,25,20
+HXP,Zumba 6.15-7.15pm,20-Jun-17,18:15:00,25,25
+HXP,Zumba 6.15-7.15pm,27-Jun-17,18:15:00,25,25
+HXP,Zumba  10.00-10.50am,01-Apr-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,08-Apr-17,10:00:00,25,22
+HXP,Zumba  10.00-10.50am,15-Apr-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,22-Apr-17,10:00:00,25,24
+HXP,Zumba  10.00-10.50am,29-Apr-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,06-May-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,13-May-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,20-May-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,27-May-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,03-Jun-17,10:00:00,25,25
+HXP,Zumba  10.00-10.50am,10-Jun-17,10:00:00,25,20
+HXP,Zumba  10.00-10.50am,17-Jun-17,10:00:00,25,21
+HXP,Zumba  10.00-10.50am,24-Jun-17,10:00:00,25,22
+NBL,20-20-20 9.30-10.30am,04-Apr-17,09:30:00,60,26
+NBL,20-20-20 9.30-10.30am,11-Apr-17,09:30:00,60,33
+NBL,20-20-20 9.30-10.30am,18-Apr-17,09:30:00,60,20
+NBL,20-20-20 9.30-10.30am,25-Apr-17,09:30:00,60,13
+NBL,20-20-20 9.30-10.30am,02-May-17,09:30:00,60,19
+NBL,20-20-20 9.30-10.30am,09-May-17,09:30:00,60,20
+NBL,20-20-20 9.30-10.30am,16-May-17,09:30:00,60,26
+NBL,20-20-20 9.30-10.30am,23-May-17,09:30:00,60,24
+NBL,20-20-20 9.30-10.30am,30-May-17,09:30:00,60,24
+NBL,20-20-20 9.30-10.30am,06-Jun-17,09:30:00,60,24
+NBL,20-20-20 9.30-10.30am,13-Jun-17,09:30:00,60,28
+NBL,20-20-20 9.30-10.30am,20-Jun-17,09:30:00,60,24
+NBL,20-20-20 9.30-10.30am,27-Jun-17,09:30:00,60,16
+NBL,20:20:20 9.30-10.30am,06-Apr-17,09:30:00,60,14
+NBL,20:20:20 9.30-10.30am,13-Apr-17,09:30:00,60,13
+NBL,20:20:20 9.30-10.30am,20-Apr-17,09:30:00,60,14
+NBL,20:20:20 9.30-10.30am,27-Apr-17,09:30:00,60,10
+NBL,20:20:20 9.30-10.30am,04-May-17,09:30:00,60,12
+NBL,20:20:20 9.30-10.30am,11-May-17,09:30:00,60,12
+NBL,20:20:20 9.30-10.30am,18-May-17,09:30:00,60,19
+NBL,20:20:20 9.30-10.30am,25-May-17,09:30:00,60,15
+NBL,20:20:20 9.30-10.30am,01-Jun-17,09:30:00,60,19
+NBL,20:20:20 9.30-10.30am,08-Jun-17,09:30:00,60,14
+NBL,20:20:20 9.30-10.30am,15-Jun-17,09:30:00,60,18
+NBL,20:20:20 9.30-10.30am,22-Jun-17,09:30:00,60,16
+NBL,20:20:20 9.30-10.30am,29-Jun-17,09:30:00,60,12
+NBL,B L T Chair Exercise,07-Apr-17,12:30:00,40,2
+NBL,B L T Chair Exercise,21-Apr-17,12:30:00,40,1
+NBL,B L T Chair Exercise,28-Apr-17,12:30:00,40,2
+NBL,B L T Chair Exercise,05-May-17,12:30:00,40,2
+NBL,B L T Chair Exercise,12-May-17,12:30:00,40,1
+NBL,B L T Chair Exercise,19-May-17,12:30:00,40,1
+NBL,B L T Chair Exercise,26-May-17,12:30:00,40,3
+NBL,B L T Chair Exercise,02-Jun-17,12:30:00,40,1
+NBL,B L T Chair Exercise,16-Jun-17,12:30:00,40,2
+NBL,B L T Chair Exercise,23-Jun-17,12:30:00,40,1
+NBL,B L T Chair Exercise,30-Jun-17,12:30:00,40,1
+NBL,B L T Exercise,03-Apr-17,11:00:00,40,1
+NBL,B L T Exercise,04-Apr-17,11:00:00,40,4
+NBL,B L T Exercise,11-Apr-17,11:00:00,40,2
+NBL,B L T Exercise,09-May-17,19:00:00,40,2
+NBL,B L T Exercise,02-Jun-17,11:00:00,40,2
+NBL,B L T Exercise,30-Jun-17,11:00:00,40,1
+NBL,B L T Weight Management,04-Apr-17,10:00:00,40,1
+NBL,B L T Weight Management,11-Apr-17,10:00:00,40,2
+NBL,B L T Weight Management,09-May-17,10:00:00,40,1
+NBL,B L T Weight Management,13-Jun-17,10:00:00,40,1
+NBL,B L T Weight Management,27-Jun-17,10:00:00,40,1
+NBL,Bdoy Cond 12.45-1.45pm,07-Apr-17,12:45:00,60,10
+NBL,Bdoy Cond 12.45-1.45pm,21-Apr-17,12:45:00,60,5
+NBL,Bdoy Cond 12.45-1.45pm,28-Apr-17,12:45:00,60,3
+NBL,Bdoy Cond 12.45-1.45pm,05-May-17,12:45:00,60,2
+NBL,Bdoy Cond 12.45-1.45pm,12-May-17,12:45:00,60,5
+NBL,Bdoy Cond 12.45-1.45pm,19-May-17,12:45:00,60,5
+NBL,Bdoy Cond 12.45-1.45pm,26-May-17,12:45:00,60,5
+NBL,Bdoy Cond 12.45-1.45pm,02-Jun-17,12:45:00,60,2
+NBL,Bdoy Cond 12.45-1.45pm,09-Jun-17,12:45:00,60,6
+NBL,Bdoy Cond 12.45-1.45pm,16-Jun-17,12:45:00,60,12
+NBL,Bdoy Cond 12.45-1.45pm,23-Jun-17,12:45:00,60,5
+NBL,Bdoy Cond 12.45-1.45pm,30-Jun-17,12:45:00,60,4
+NBL,Body Attack 11-12 Noon,08-Apr-17,11:00:00,60,27
+NBL,Body Balance 12-12.45pm,08-Apr-17,12:00:00,60,21
+NBL,Body Combat 6.45-7.45pm,03-Apr-17,18:45:00,60,18
+NBL,Body Combat 6.45-7.45pm,10-Apr-17,18:45:00,60,11
+NBL,Body Combat 6.45-7.45pm,17-Apr-17,18:45:00,60,11
+NBL,Body Combat 6.45-7.45pm,24-Apr-17,18:45:00,60,16
+NBL,Body Combat 6.45-7.45pm,01-May-17,18:45:00,60,17
+NBL,Body Combat 6.45-7.45pm,08-May-17,18:45:00,60,19
+NBL,Body Combat 6.45-7.45pm,15-May-17,18:45:00,60,14
+NBL,Body Combat 6.45-7.45pm,22-May-17,18:45:00,60,13
+NBL,Body Combat 6.45-7.45pm,29-May-17,18:45:00,60,13
+NBL,Body Combat 6.45-7.45pm,05-Jun-17,18:45:00,60,15
+NBL,Body Combat 6.45-7.45pm,12-Jun-17,18:45:00,60,22
+NBL,Body Combat 6.45-7.45pm,19-Jun-17,18:45:00,60,14
+NBL,Body Combat 6.45-7.45pm,26-Jun-17,18:45:00,60,12
+NBL,Body Combat 7.45-8.45pm,04-Apr-17,19:45:00,60,7
+NBL,Body Combat 7.45-8.45pm,11-Apr-17,19:45:00,60,11
+NBL,Body Combat 7.45-8.45pm,18-Apr-17,19:45:00,60,6
+NBL,Body Combat 7.45-8.45pm,25-Apr-17,19:45:00,60,11
+NBL,Body Combat 7.45-8.45pm,02-May-17,19:45:00,60,12
+NBL,Body Combat 7.45-8.45pm,09-May-17,19:45:00,60,20
+NBL,Body Combat 7.45-8.45pm,16-May-17,19:45:00,60,6
+NBL,Body Combat 7.45-8.45pm,23-May-17,19:45:00,60,7
+NBL,Body Combat 7.45-8.45pm,30-May-17,19:45:00,60,7
+NBL,Body Combat 7.45-8.45pm,06-Jun-17,19:45:00,60,7
+NBL,Body Combat 7.45-8.45pm,13-Jun-17,19:45:00,60,4
+NBL,Body Combat 7.45-8.45pm,20-Jun-17,19:45:00,60,5
+NBL,Body Combat 7.45-8.45pm,27-Jun-17,19:45:00,60,2
+NBL,Body Combat  8.00-9.00pm,31-May-17,20:00:00,60,3
+NBL,Body Combat  8.00-9.00pm,07-Jun-17,20:00:00,60,6
+NBL,Body Combat  8.00-9.00pm,14-Jun-17,20:00:00,60,3
+NBL,Body Combat  8.00-9.00pm,21-Jun-17,20:00:00,60,9
+NBL,Body Combat  8.00-9.00pm,28-Jun-17,20:00:00,60,14
+NBL,Body Combat  10-11am,08-Apr-17,10:00:00,60,56
+NBL,Body Combat 10.45-11.45am,02-Apr-17,10:45:00,60,15
+NBL,Body Combat 10.45-11.45am,09-Apr-17,10:45:00,60,11
+NBL,Body Combat 10.45-11.45am,16-Apr-17,10:45:00,60,4
+NBL,Body Combat 10.45-11.45am,23-Apr-17,10:45:00,60,15
+NBL,Body Combat 10.45-11.45am,30-Apr-17,10:45:00,60,9
+NBL,Body Combat 10.45-11.45am,07-May-17,10:45:00,60,19
+NBL,Body Combat 10.45-11.45am,14-May-17,10:45:00,60,11
+NBL,Body Combat 10.45-11.45am,21-May-17,10:45:00,60,8
+NBL,Body Combat 10.45-11.45am,28-May-17,10:45:00,60,10
+NBL,Body Combat 10.45-11.45am,04-Jun-17,10:45:00,60,6
+NBL,Body Combat 10.45-11.45am,11-Jun-17,10:45:00,60,13
+NBL,Body Combat 10.45-11.45am,18-Jun-17,10:45:00,60,7
+NBL,Body Combat 10.45-11.45am,25-Jun-17,10:45:00,60,9
+NBL,Body Cond 6.30-7.30pm,04-Apr-17,18:30:00,60,30
+NBL,Body Cond 6.30-7.30pm,11-Apr-17,18:30:00,60,27
+NBL,Body Cond 6.30-7.30pm,18-Apr-17,18:30:00,60,17
+NBL,Body Cond 6.30-7.30pm,25-Apr-17,18:30:00,60,32
+NBL,Body Cond 6.30-7.30pm,02-May-17,18:30:00,60,24
+NBL,Body Cond 6.30-7.30pm,09-May-17,18:30:00,60,32
+NBL,Body Cond 6.30-7.30pm,16-May-17,18:30:00,60,21
+NBL,Body Cond 6.30-7.30pm,23-May-17,18:30:00,60,21
+NBL,Body Cond 6.30-7.30pm,30-May-17,18:30:00,60,19
+NBL,Body Cond 6.30-7.30pm,06-Jun-17,18:30:00,60,21
+NBL,Body Cond 6.30-7.30pm,13-Jun-17,18:30:00,60,29
+NBL,Body Cond 6.30-7.30pm,20-Jun-17,18:30:00,60,12
+NBL,Body Cond 6.30-7.30pm,27-Jun-17,18:30:00,60,22
+NBL,Body Cond. 6.00-7.00pm,05-Apr-17,18:00:00,60,26
+NBL,Body Cond. 6.00-7.00pm,12-Apr-17,18:00:00,60,24
+NBL,Body Cond. 6.00-7.00pm,19-Apr-17,18:00:00,60,30
+NBL,Body Cond. 6.00-7.00pm,26-Apr-17,18:00:00,60,26
+NBL,Body Cond. 6.00-7.00pm,03-May-17,18:00:00,60,26
+NBL,Body Cond. 6.00-7.00pm,10-May-17,18:00:00,60,18
+NBL,Body Cond. 6.00-7.00pm,17-May-17,18:00:00,60,25
+NBL,Body Cond. 6.00-7.00pm,31-May-17,18:00:00,60,21
+NBL,Body Cond. 6.00-7.00pm,07-Jun-17,18:00:00,60,22
+NBL,Body Cond. 6.00-7.00pm,14-Jun-17,18:00:00,60,25
+NBL,Body Cond. 6.00-7.00pm,21-Jun-17,18:00:00,60,15
+NBL,Body Cond. 6.00-7.00pm,28-Jun-17,18:00:00,60,14
+NBL,Body Pump  5.45-6.45pm,03-Apr-17,17:45:00,60,59
+NBL,Body Pump  5.45-6.45pm,10-Apr-17,17:45:00,60,53
+NBL,Body Pump  5.45-6.45pm,17-Apr-17,17:45:00,60,38
+NBL,Body Pump  5.45-6.45pm,24-Apr-17,17:45:00,60,58
+NBL,Body Pump  5.45-6.45pm,01-May-17,17:45:00,60,34
+NBL,Body Pump  5.45-6.45pm,08-May-17,17:45:00,60,51
+NBL,Body Pump  5.45-6.45pm,15-May-17,17:45:00,60,49
+NBL,Body Pump  5.45-6.45pm,22-May-17,17:45:00,60,48
+NBL,Body Pump  5.45-6.45pm,29-May-17,17:45:00,60,35
+NBL,Body Pump  5.45-6.45pm,05-Jun-17,17:45:00,60,46
+NBL,Body Pump  5.45-6.45pm,12-Jun-17,17:45:00,60,42
+NBL,Body Pump  5.45-6.45pm,19-Jun-17,17:45:00,60,33
+NBL,Body Pump  5.45-6.45pm,26-Jun-17,17:45:00,60,43
+NBL,Body Pump 7.00-8.00pm,05-Apr-17,19:00:00,60,49
+NBL,Body Pump 7.00-8.00pm,12-Apr-17,19:00:00,60,40
+NBL,Body Pump 7.00-8.00pm,19-Apr-17,19:00:00,60,55
+NBL,Body Pump 7.00-8.00pm,26-Apr-17,19:00:00,60,42
+NBL,Body Pump 7.00-8.00pm,03-May-17,19:00:00,60,36
+NBL,Body Pump 7.00-8.00pm,10-May-17,19:00:00,60,35
+NBL,Body Pump 7.00-8.00pm,17-May-17,19:00:00,60,40
+NBL,Body Pump 7.00-8.00pm,24-May-17,19:00:00,60,24
+NBL,Body Pump 7.00-8.00pm,31-May-17,19:00:00,60,19
+NBL,Body Pump 7.00-8.00pm,07-Jun-17,19:00:00,60,35
+NBL,Body Pump 7.00-8.00pm,14-Jun-17,19:00:00,60,29
+NBL,Body Pump 7.00-8.00pm,21-Jun-17,19:00:00,60,21
+NBL,Body Pump 7.00-8.00pm,28-Jun-17,19:00:00,60,27
+NBL,Body Pump 8.00-9.00pm,06-Apr-17,20:00:00,60,15
+NBL,Body Pump 8.00-9.00pm,13-Apr-17,20:00:00,60,18
+NBL,Body Pump 8.00-9.00pm,20-Apr-17,20:00:00,60,23
+NBL,Body Pump 8.00-9.00pm,27-Apr-17,20:00:00,60,18
+NBL,Body Pump 8.00-9.00pm,04-May-17,20:00:00,60,18
+NBL,Body Pump 8.00-9.00pm,11-May-17,20:00:00,60,24
+NBL,Body Pump 8.00-9.00pm,18-May-17,20:00:00,60,15
+NBL,Body Pump 8.00-9.00pm,25-May-17,20:00:00,60,16
+NBL,Body Pump 8.00-9.00pm,01-Jun-17,20:00:00,60,21
+NBL,Body Pump 8.00-9.00pm,15-Jun-17,20:00:00,60,27
+NBL,Body Pump 8.00-9.00pm,22-Jun-17,20:00:00,60,18
+NBL,Body Pump 8.00-9.00pm,29-Jun-17,20:00:00,60,23
+NBL,Body Pump  9-9.45am,08-Apr-17,09:00:00,60,56
+NBL,Body Pump 9.00-10.00am,01-Apr-17,09:00:00,60,35
+NBL,Body Pump 9.00-10.00am,15-Apr-17,09:00:00,60,41
+NBL,Body Pump 9.00-10.00am,22-Apr-17,09:00:00,60,38
+NBL,Body Pump 9.00-10.00am,29-Apr-17,09:00:00,60,44
+NBL,Body Pump 9.00-10.00am,06-May-17,09:00:00,60,30
+NBL,Body Pump 9.00-10.00am,13-May-17,09:00:00,60,39
+NBL,Body Pump 9.00-10.00am,20-May-17,09:00:00,60,27
+NBL,Body Pump 9.00-10.00am,27-May-17,09:00:00,60,26
+NBL,Body Pump 9.00-10.00am,10-Jun-17,09:00:00,60,30
+NBL,Body Pump 9.00-10.00am,17-Jun-17,09:00:00,60,30
+NBL,Body Pump 9.00-10.00am,24-Jun-17,09:00:00,60,26
+NBL,Body Pump 12.30-1.30pm,06-Apr-17,12:30:00,60,12
+NBL,Body Pump 12.30-1.30pm,13-Apr-17,12:30:00,60,11
+NBL,Body Pump 12.30-1.30pm,20-Apr-17,12:30:00,60,10
+NBL,Body Pump 12.30-1.30pm,27-Apr-17,12:30:00,60,9
+NBL,Body Pump 12.30-1.30pm,04-May-17,12:30:00,60,6
+NBL,Body Pump 12.30-1.30pm,11-May-17,12:30:00,60,9
+NBL,Body Pump 12.30-1.30pm,18-May-17,12:30:00,60,8
+NBL,Body Pump 12.30-1.30pm,25-May-17,12:30:00,60,9
+NBL,Body Pump 12.30-1.30pm,01-Jun-17,12:30:00,60,9
+NBL,Body Pump 12.30-1.30pm,08-Jun-17,12:30:00,60,8
+NBL,Body Pump 12.30-1.30pm,15-Jun-17,12:30:00,60,7
+NBL,Body Pump 12.30-1.30pm,22-Jun-17,12:30:00,60,10
+NBL,Body Pump 12.30-1.30pm,29-Jun-17,12:30:00,60,6
+NBL,Circuits 8.00-9.00pm Edit,03-Apr-17,20:00:00,60,14
+NBL,Circuits 8.00-9.00pm Edit,10-Apr-17,20:00:00,60,10
+NBL,Circuits 8.00-9.00pm Edit,24-Apr-17,20:00:00,60,5
+NBL,Circuits 8.00-9.00pm Edit,08-May-17,20:00:00,60,9
+NBL,Circuits 8.00-9.00pm Edit,15-May-17,20:00:00,60,8
+NBL,Circuits 8.00-9.00pm Edit,22-May-17,20:00:00,60,6
+NBL,Circuits 8.00-9.00pm Edit,05-Jun-17,20:00:00,60,5
+NBL,Circuits 8.00-9.00pm Edit,12-Jun-17,20:00:00,60,12
+NBL,Circuits 8.00-9.00pm Edit,19-Jun-17,20:00:00,60,6
+NBL,Circuits 8.00-9.00pm Edit,26-Jun-17,20:00:00,60,6
+NBL,Fit Steps 11.30-12.30pm,06-Apr-17,11:30:00,60,11
+NBL,Fit Steps 11.30-12.30pm,13-Apr-17,11:30:00,60,4
+NBL,Fusion 5.30-6.40pm,06-Apr-17,17:30:00,60,12
+NBL,Fusion 5.30-6.40pm,13-Apr-17,17:30:00,60,10
+NBL,Fusion 5.30-6.40pm,20-Apr-17,17:30:00,60,11
+NBL,Fusion 5.30-6.40pm,27-Apr-17,17:30:00,60,13
+NBL,Fusion 5.30-6.40pm,04-May-17,17:30:00,60,8
+NBL,Fusion 5.30-6.40pm,11-May-17,17:30:00,60,5
+NBL,Fusion 5.30-6.40pm,18-May-17,17:30:00,60,7
+NBL,Fusion 5.30-6.40pm,25-May-17,17:30:00,60,10
+NBL,Fusion 5.30-6.40pm,01-Jun-17,17:30:00,60,10
+NBL,Fusion 5.30-6.40pm,08-Jun-17,17:30:00,60,9
+NBL,Fusion 5.30-6.40pm,15-Jun-17,17:30:00,60,10
+NBL,Fusion 5.30-6.40pm,22-Jun-17,17:30:00,60,8
+NBL,Fusion 5.30-6.40pm,29-Jun-17,17:30:00,60,8
+NBL,Gentle Keep Fit 11-12pm,03-Apr-17,11:00:00,60,32
+NBL,Gentle Keep Fit 11-12pm,10-Apr-17,11:00:00,60,19
+NBL,Gentle Keep Fit 11-12pm,24-Apr-17,11:00:00,60,21
+NBL,Gentle Keep Fit 11-12pm,08-May-17,11:00:00,60,19
+NBL,Gentle Keep Fit 11-12pm,15-May-17,11:00:00,60,26
+NBL,Gentle Keep Fit 11-12pm,22-May-17,11:00:00,60,23
+NBL,Gentle Keep Fit 11-12pm,05-Jun-17,11:00:00,60,18
+NBL,Gentle Keep Fit 11-12pm,12-Jun-17,11:00:00,60,26
+NBL,Gentle Keep Fit 11-12pm,19-Jun-17,11:00:00,60,23
+NBL,Gentle Keep Fit 11-12pm,26-Jun-17,11:00:00,60,25
+NBL,Gentlekeepfit 10.30-11.30,06-Apr-17,10:30:00,60,18
+NBL,Gentlekeepfit 10.30-11.30,13-Apr-17,10:30:00,60,14
+NBL,Gentlekeepfit 10.30-11.30,20-Apr-17,10:30:00,60,23
+NBL,Gentlekeepfit 10.30-11.30,27-Apr-17,10:30:00,60,15
+NBL,Gentlekeepfit 10.30-11.30,04-May-17,10:30:00,60,13
+NBL,Gentlekeepfit 10.30-11.30,11-May-17,10:30:00,60,16
+NBL,Gentlekeepfit 10.30-11.30,18-May-17,10:30:00,60,18
+NBL,Gentlekeepfit 10.30-11.30,25-May-17,10:30:00,60,15
+NBL,Gentlekeepfit 10.30-11.30,01-Jun-17,10:30:00,60,13
+NBL,Gentlekeepfit 10.30-11.30,08-Jun-17,10:30:00,60,11
+NBL,Gentlekeepfit 10.30-11.30,15-Jun-17,10:30:00,60,18
+NBL,Gentlekeepfit 10.30-11.30,22-Jun-17,10:30:00,60,15
+NBL,Gentlekeepfit 10.30-11.30,29-Jun-17,10:30:00,60,17
+NBL,Hatton Abc 8.00-9.00pm,05-Apr-17,20:00:00,30,8
+NBL,Hatton Abc 8.00-9.00pm,12-Apr-17,20:00:00,30,8
+NBL,Hatton Abc 8.00-9.00pm,19-Apr-17,20:00:00,30,8
+NBL,Hatton Abc 8.00-9.00pm,26-Apr-17,20:00:00,30,12
+NBL,Hatton Abc 8.00-9.00pm,03-May-17,20:00:00,30,11
+NBL,Hatton Abc 8.00-9.00pm,10-May-17,20:00:00,30,6
+NBL,Hatton Abc 8.00-9.00pm,17-May-17,20:00:00,30,10
+NBL,Hatton Abc 8.00-9.00pm,24-May-17,20:00:00,30,7
+NBL,Jnr Gym Ind 3.30-5.00pm,04-Apr-17,15:30:00,2,1
+NBL,Jnr Gym Ind 3.30-5.00pm,10-Apr-17,15:30:00,2,1
+NBL,Jnr Gym Ind 3.30-5.00pm,22-May-17,15:30:00,2,1
+NBL,Jnr Gym Ind 3.30-5.00pm,13-Jun-17,15:30:00,2,1
+NBL,Junior Gym 3.30-5.00pm,22-May-17,15:30:00,2,1
+NBL,Junior Gym 11-12 Noon,02-Apr-17,11:00:00,2,1
+NBL,Junior Gym 11-12 Noon,28-May-17,11:00:00,2,1
+NBL,Line Danc Prac 12-12.45pm,07-Apr-17,12:00:00,48,6
+NBL,Line Danc Prac 12-12.45pm,14-Apr-17,12:00:00,48,2
+NBL,Line Danc Prac 12-12.45pm,21-Apr-17,12:00:00,48,2
+NBL,Line Danc Prac 12-12.45pm,28-Apr-17,12:00:00,48,8
+NBL,Line Danc Prac 12-12.45pm,05-May-17,12:00:00,48,4
+NBL,Line Danc Prac 12-12.45pm,12-May-17,12:00:00,48,3
+NBL,Line Danc Prac 12-12.45pm,19-May-17,12:00:00,48,5
+NBL,Line Danc Prac 12-12.45pm,26-May-17,12:00:00,48,4
+NBL,Line Danc Prac 12-12.45pm,02-Jun-17,12:00:00,48,6
+NBL,Line Danc Prac 12-12.45pm,09-Jun-17,12:00:00,48,2
+NBL,Line Danc Prac 12-12.45pm,16-Jun-17,12:00:00,48,7
+NBL,Line Danc Prac 12-12.45pm,23-Jun-17,12:00:00,48,8
+NBL,Line Danc Prac 12-12.45pm,30-Jun-17,12:00:00,48,5
+NBL,Line Dance 10.45-11.45am,04-Apr-17,10:45:00,48,48
+NBL,Line Dance 10.45-11.45am,11-Apr-17,10:45:00,48,48
+NBL,Line Dance 10.45-11.45am,18-Apr-17,10:45:00,48,23
+NBL,Line Dance 10.45-11.45am,25-Apr-17,10:45:00,48,35
+NBL,Line Dance 10.45-11.45am,02-May-17,10:45:00,48,35
+NBL,Line Dance 10.45-11.45am,09-May-17,10:45:00,48,37
+NBL,Line Dance 10.45-11.45am,16-May-17,10:45:00,48,48
+NBL,Line Dance 10.45-11.45am,23-May-17,10:45:00,48,48
+NBL,Line Dance 10.45-11.45am,30-May-17,10:45:00,48,47
+NBL,Line Dance 10.45-11.45am,06-Jun-17,10:45:00,48,48
+NBL,Line Dance 10.45-11.45am,13-Jun-17,10:45:00,48,42
+NBL,Line Dance 10.45-11.45am,20-Jun-17,10:45:00,48,29
+NBL,Line Dance 10.45-11.45am,27-Jun-17,10:45:00,48,34
+NBL,Line Dance 11.45-12.45pm,04-Apr-17,11:45:00,48,36
+NBL,Line Dance 11.45-12.45pm,11-Apr-17,11:45:00,48,29
+NBL,Line Dance 11.45-12.45pm,18-Apr-17,11:45:00,48,18
+NBL,Line Dance 11.45-12.45pm,25-Apr-17,11:45:00,48,8
+NBL,Line Dance 11.45-12.45pm,02-May-17,11:45:00,48,7
+NBL,Line Dance 11.45-12.45pm,09-May-17,11:45:00,48,28
+NBL,Line Dance 11.45-12.45pm,16-May-17,11:45:00,48,26
+NBL,Line Dance 11.45-12.45pm,23-May-17,11:45:00,48,38
+NBL,Line Dance 11.45-12.45pm,30-May-17,11:45:00,48,34
+NBL,Line Dance 11.45-12.45pm,06-Jun-17,11:45:00,48,36
+NBL,Line Dance 11.45-12.45pm,13-Jun-17,11:45:00,48,37
+NBL,Line Dance 11.45-12.45pm,20-Jun-17,11:45:00,48,9
+NBL,Line Dance 11.45-12.45pm,27-Jun-17,11:45:00,48,24
+NBL,Line Dancing 11-12 Noon,07-Apr-17,11:00:00,48,12
+NBL,Line Dancing 11-12 Noon,14-Apr-17,11:00:00,48,11
+NBL,Line Dancing 11-12 Noon,21-Apr-17,11:00:00,48,8
+NBL,Line Dancing 11-12 Noon,28-Apr-17,11:00:00,48,14
+NBL,Line Dancing 11-12 Noon,05-May-17,11:00:00,48,15
+NBL,Line Dancing 11-12 Noon,12-May-17,11:00:00,48,15
+NBL,Line Dancing 11-12 Noon,19-May-17,11:00:00,48,18
+NBL,Line Dancing 11-12 Noon,26-May-17,11:00:00,48,10
+NBL,Line Dancing 11-12 Noon,02-Jun-17,11:00:00,48,11
+NBL,Line Dancing 11-12 Noon,09-Jun-17,11:00:00,48,8
+NBL,Line Dancing 11-12 Noon,16-Jun-17,11:00:00,48,14
+NBL,Line Dancing 11-12 Noon,23-Jun-17,11:00:00,48,14
+NBL,Line Dancing 11-12 Noon,30-Jun-17,11:00:00,48,13
+NBL,Nice & Easy 9.15-10.15am,05-Apr-17,09:15:00,60,18
+NBL,Nice & Easy 9.15-10.15am,12-Apr-17,09:15:00,60,19
+NBL,Nice & Easy 9.15-10.15am,19-Apr-17,09:15:00,60,14
+NBL,Nice & Easy 9.15-10.15am,26-Apr-17,09:15:00,60,19
+NBL,Nice & Easy 9.15-10.15am,03-May-17,09:15:00,60,16
+NBL,Nice & Easy 9.15-10.15am,10-May-17,09:15:00,60,23
+NBL,Nice & Easy 9.15-10.15am,17-May-17,09:15:00,60,23
+NBL,Nice & Easy 9.15-10.15am,24-May-17,09:15:00,60,24
+NBL,Nice & Easy 9.15-10.15am,31-May-17,09:15:00,60,12
+NBL,Nice & Easy 9.15-10.15am,07-Jun-17,09:15:00,60,18
+NBL,Nice & Easy 9.15-10.15am,14-Jun-17,09:15:00,60,20
+NBL,Nice & Easy 9.15-10.15am,21-Jun-17,09:15:00,60,15
+NBL,Nice & Easy 9.15-10.15am,28-Jun-17,09:15:00,60,11
+NBL,Nice & Easy 10.00-10.45am,04-Apr-17,10:00:00,40,27
+NBL,Nice & Easy 10.00-10.45am,11-Apr-17,10:00:00,40,22
+NBL,Nice & Easy 10.00-10.45am,18-Apr-17,10:00:00,40,15
+NBL,Nice & Easy 10.00-10.45am,25-Apr-17,10:00:00,40,16
+NBL,Nice & Easy 10.00-10.45am,02-May-17,10:00:00,40,18
+NBL,Nice & Easy 10.00-10.45am,09-May-17,10:00:00,40,14
+NBL,Nice & Easy 10.00-10.45am,16-May-17,10:00:00,40,21
+NBL,Nice & Easy 10.00-10.45am,23-May-17,10:00:00,40,21
+NBL,Nice & Easy 10.00-10.45am,30-May-17,10:00:00,40,26
+NBL,Nice & Easy 10.00-10.45am,06-Jun-17,10:00:00,40,20
+NBL,Nice & Easy 10.00-10.45am,13-Jun-17,10:00:00,40,21
+NBL,Nice & Easy 10.00-10.45am,20-Jun-17,10:00:00,40,16
+NBL,Nice & Easy 10.00-10.45am,27-Jun-17,10:00:00,40,19
+NBL,Nice & Easy 11.00-12.00pm,06-Apr-17,11:00:00,25,13
+NBL,Nice & Easy 11.00-12.00pm,20-Apr-17,11:00:00,25,12
+NBL,Nice & Easy 11.00-12.00pm,27-Apr-17,11:00:00,25,12
+NBL,Nice & Easy 11.00-12.00pm,04-May-17,11:00:00,25,14
+NBL,Nice & Easy 11.00-12.00pm,11-May-17,11:00:00,25,15
+NBL,Nice & Easy 11.00-12.00pm,18-May-17,11:00:00,25,19
+NBL,Nice & Easy 11.00-12.00pm,25-May-17,11:00:00,25,13
+NBL,Nice & Easy 11.00-12.00pm,01-Jun-17,11:00:00,25,10
+NBL,Nice & Easy 11.00-12.00pm,08-Jun-17,11:00:00,25,12
+NBL,Nice & Easy 11.00-12.00pm,15-Jun-17,11:00:00,25,9
+NBL,Nice & Easy 11.00-12.00pm,22-Jun-17,11:00:00,25,7
+NBL,Nice & Easy 11.00-12.00pm,29-Jun-17,11:00:00,25,11
+NBL,Pilates 1.45-2.45pm,04-Apr-17,13:45:00,60,32
+NBL,Pilates 1.45-2.45pm,11-Apr-17,13:45:00,60,30
+NBL,Pilates 1.45-2.45pm,18-Apr-17,13:45:00,60,23
+NBL,Pilates 1.45-2.45pm,25-Apr-17,13:45:00,60,25
+NBL,Pilates 1.45-2.45pm,02-May-17,13:45:00,60,31
+NBL,Pilates 1.45-2.45pm,09-May-17,13:45:00,60,24
+NBL,Pilates 1.45-2.45pm,16-May-17,13:45:00,60,22
+NBL,Pilates 1.45-2.45pm,23-May-17,13:45:00,60,23
+NBL,Pilates 1.45-2.45pm,30-May-17,13:45:00,60,24
+NBL,Pilates 1.45-2.45pm,06-Jun-17,13:45:00,60,32
+NBL,Pilates 1.45-2.45pm,13-Jun-17,13:45:00,60,26
+NBL,Pilates 1.45-2.45pm,20-Jun-17,13:45:00,60,27
+NBL,Pilates 1.45-2.45pm,27-Jun-17,13:45:00,60,32
+NBL,Pilates 5.00-5.50pm,05-Apr-17,17:00:00,60,21
+NBL,Pilates 5.00-5.50pm,12-Apr-17,17:00:00,60,26
+NBL,Pilates 5.00-5.50pm,19-Apr-17,17:00:00,60,25
+NBL,Pilates 5.00-5.50pm,26-Apr-17,17:00:00,60,23
+NBL,Pilates 5.00-5.50pm,03-May-17,17:00:00,60,26
+NBL,Pilates 5.00-5.50pm,10-May-17,17:00:00,60,31
+NBL,Pilates 5.00-5.50pm,17-May-17,17:00:00,60,25
+NBL,Pilates 5.00-5.50pm,31-May-17,17:00:00,60,22
+NBL,Pilates 5.00-5.50pm,07-Jun-17,17:00:00,60,28
+NBL,Pilates 5.00-5.50pm,14-Jun-17,17:00:00,60,20
+NBL,Pilates 5.00-5.50pm,21-Jun-17,17:00:00,60,16
+NBL,Pilates 5.00-5.50pm,28-Jun-17,17:00:00,60,26
+NBL,Pilates 6.45-7.45pm,06-Apr-17,18:45:00,60,16
+NBL,Pilates 6.45-7.45pm,13-Apr-17,18:45:00,60,13
+NBL,Pilates 6.45-7.45pm,20-Apr-17,18:45:00,60,12
+NBL,Pilates 6.45-7.45pm,27-Apr-17,18:45:00,60,14
+NBL,Pilates 6.45-7.45pm,04-May-17,18:45:00,60,18
+NBL,Pilates 6.45-7.45pm,11-May-17,18:45:00,60,10
+NBL,Pilates 6.45-7.45pm,18-May-17,18:45:00,60,10
+NBL,Pilates 6.45-7.45pm,25-May-17,18:45:00,60,12
+NBL,Pilates 6.45-7.45pm,01-Jun-17,18:45:00,60,17
+NBL,Pilates 6.45-7.45pm,15-Jun-17,18:45:00,60,20
+NBL,Pilates 6.45-7.45pm,22-Jun-17,18:45:00,60,24
+NBL,Pilates 6.45-7.45pm,29-Jun-17,18:45:00,60,25
+NBL,Pilates 10.00-11.00am,07-Apr-17,10:00:00,60,23
+NBL,Pilates 10.00-11.00am,14-Apr-17,10:00:00,60,18
+NBL,Pilates 10.00-11.00am,21-Apr-17,10:00:00,60,23
+NBL,Pilates 10.00-11.00am,28-Apr-17,10:00:00,60,15
+NBL,Pilates 10.00-11.00am,05-May-17,10:00:00,60,13
+NBL,Pilates 10.00-11.00am,12-May-17,10:00:00,60,15
+NBL,Pilates 10.00-11.00am,19-May-17,10:00:00,60,17
+NBL,Pilates 10.00-11.00am,26-May-17,10:00:00,60,12
+NBL,Pilates 10.00-11.00am,02-Jun-17,10:00:00,60,15
+NBL,Pilates 10.00-11.00am,09-Jun-17,10:00:00,60,15
+NBL,Pilates 10.00-11.00am,16-Jun-17,10:00:00,60,17
+NBL,Pilates 10.00-11.00am,23-Jun-17,10:00:00,60,20
+NBL,Pilates 10.00-11.00am,30-Jun-17,10:00:00,60,21
+NBL,Power Yoga 10.00-11.00am,03-Apr-17,10:00:00,70,28
+NBL,Power Yoga 10.00-11.00am,10-Apr-17,10:00:00,70,26
+NBL,Power Yoga 10.00-11.00am,24-Apr-17,10:00:00,70,22
+NBL,Power Yoga 10.00-11.00am,08-May-17,10:00:00,70,8
+NBL,Power Yoga 10.00-11.00am,15-May-17,10:00:00,70,28
+NBL,Power Yoga 10.00-11.00am,22-May-17,10:00:00,70,18
+NBL,Power Yoga 10.00-11.00am,05-Jun-17,10:00:00,70,17
+NBL,Power Yoga 10.00-11.00am,12-Jun-17,10:00:00,70,16
+NBL,Power Yoga 10.00-11.00am,19-Jun-17,10:00:00,70,20
+NBL,Power Yoga 10.00-11.00am,26-Jun-17,10:00:00,70,14
+NBL,Power Yoga 10.15-11.15am,05-Apr-17,10:15:00,60,23
+NBL,Power Yoga 10.15-11.15am,12-Apr-17,10:15:00,60,20
+NBL,Power Yoga 10.15-11.15am,19-Apr-17,10:15:00,60,25
+NBL,Power Yoga 10.15-11.15am,26-Apr-17,10:15:00,60,16
+NBL,Power Yoga 10.15-11.15am,03-May-17,10:15:00,60,10
+NBL,Power Yoga 10.15-11.15am,10-May-17,10:15:00,60,15
+NBL,Power Yoga 10.15-11.15am,17-May-17,10:15:00,60,21
+NBL,Power Yoga 10.15-11.15am,24-May-17,10:15:00,60,29
+NBL,Power Yoga 10.15-11.15am,31-May-17,10:15:00,60,9
+NBL,Power Yoga 10.15-11.15am,07-Jun-17,10:15:00,60,16
+NBL,Power Yoga 10.15-11.15am,14-Jun-17,10:15:00,60,24
+NBL,Power Yoga 10.15-11.15am,21-Jun-17,10:15:00,60,22
+NBL,Power Yoga 10.15-11.15am,28-Jun-17,10:15:00,60,26
+NBL,Pure Stretch 2.00-3.00pm,07-Apr-17,14:00:00,60,8
+NBL,Pure Stretch 2.00-3.00pm,21-Apr-17,14:00:00,60,9
+NBL,Pure Stretch 2.00-3.00pm,28-Apr-17,14:00:00,60,3
+NBL,Pure Stretch 2.00-3.00pm,05-May-17,14:00:00,60,8
+NBL,Pure Stretch 2.00-3.00pm,12-May-17,14:00:00,60,9
+NBL,Pure Stretch 2.00-3.00pm,19-May-17,14:00:00,60,12
+NBL,Pure Stretch 2.00-3.00pm,26-May-17,14:00:00,60,7
+NBL,Pure Stretch 2.00-3.00pm,02-Jun-17,14:00:00,60,1
+NBL,Pure Stretch 2.00-3.00pm,09-Jun-17,14:00:00,60,7
+NBL,Pure Stretch 2.00-3.00pm,16-Jun-17,14:00:00,60,11
+NBL,Pure Stretch 2.00-3.00pm,23-Jun-17,14:00:00,60,8
+NBL,Pure Stretch 2.00-3.00pm,30-Jun-17,14:00:00,60,9
+NBL,Step Aerobics 5.45-6.30pm,04-Apr-17,17:45:00,60,34
+NBL,Step Aerobics 5.45-6.30pm,11-Apr-17,17:45:00,60,29
+NBL,Step Aerobics 5.45-6.30pm,18-Apr-17,17:45:00,60,27
+NBL,Step Aerobics 5.45-6.30pm,25-Apr-17,17:45:00,60,32
+NBL,Step Aerobics 5.45-6.30pm,02-May-17,17:45:00,60,31
+NBL,Step Aerobics 5.45-6.30pm,09-May-17,17:45:00,60,30
+NBL,Step Aerobics 5.45-6.30pm,16-May-17,17:45:00,60,29
+NBL,Step Aerobics 5.45-6.30pm,23-May-17,17:45:00,60,30
+NBL,Step Aerobics 5.45-6.30pm,30-May-17,17:45:00,60,25
+NBL,Step Aerobics 5.45-6.30pm,06-Jun-17,17:45:00,60,24
+NBL,Step Aerobics 5.45-6.30pm,13-Jun-17,17:45:00,60,28
+NBL,Step Aerobics 5.45-6.30pm,20-Jun-17,17:45:00,60,31
+NBL,Step Aerobics 5.45-6.30pm,27-Jun-17,17:45:00,60,27
+NBL,Step Aerobics 10-11.00am,01-Apr-17,10:00:00,60,24
+NBL,Step Aerobics 10-11.00am,15-Apr-17,10:00:00,60,9
+NBL,Step Aerobics 10-11.00am,22-Apr-17,10:00:00,60,20
+NBL,Step Aerobics 10-11.00am,29-Apr-17,10:00:00,60,16
+NBL,Step Aerobics 10-11.00am,06-May-17,10:00:00,60,23
+NBL,Step Aerobics 10-11.00am,13-May-17,10:00:00,60,21
+NBL,Step Aerobics 10-11.00am,20-May-17,10:00:00,60,16
+NBL,Step Aerobics 10-11.00am,27-May-17,10:00:00,60,18
+NBL,Step Aerobics 10-11.00am,03-Jun-17,10:00:00,60,20
+NBL,Step Aerobics 10-11.00am,10-Jun-17,10:00:00,60,21
+NBL,Step Aerobics 10-11.00am,17-Jun-17,10:00:00,60,23
+NBL,Step Aerobics 10-11.00am,24-Jun-17,10:00:00,60,19
+NBL,Stretch & Tone 12.30-1.30,05-Apr-17,12:30:00,60,2
+NBL,Stretch & Tone 12.30-1.30,12-Apr-17,12:30:00,60,2
+NBL,Stretch & Tone 12.30-1.30,19-Apr-17,12:30:00,60,2
+NBL,Stretch & Tone 12.30-1.30,26-Apr-17,12:30:00,60,4
+NBL,Stretch & Tone 12.30-1.30,03-May-17,12:30:00,60,6
+NBL,Stretch & Tone 12.30-1.30,10-May-17,12:30:00,60,10
+NBL,Stretch & Tone 12.30-1.30,17-May-17,12:30:00,60,10
+NBL,Stretch & Tone 12.30-1.30,24-May-17,12:30:00,60,6
+NBL,Stretch & Tone 12.30-1.30,07-Jun-17,12:30:00,60,7
+NBL,Stretch & Tone 12.30-1.30,14-Jun-17,12:30:00,60,8
+NBL,Stretch & Tone 12.30-1.30,21-Jun-17,12:30:00,60,5
+NBL,Stretch & Tone 12.30-1.30,28-Jun-17,12:30:00,60,5
+NBL,Tai Chi 2.00-3.00pm,03-Apr-17,14:00:00,60,24
+NBL,Tai Chi 2.00-3.00pm,10-Apr-17,14:00:00,60,6
+NBL,Tai Chi 2.00-3.00pm,24-Apr-17,14:00:00,60,14
+NBL,Tai Chi 2.00-3.00pm,08-May-17,14:00:00,60,12
+NBL,Tai Chi 2.00-3.00pm,15-May-17,14:00:00,60,15
+NBL,Tai Chi 2.00-3.00pm,22-May-17,14:00:00,60,11
+NBL,Tai Chi 2.00-3.00pm,05-Jun-17,14:00:00,60,12
+NBL,Tai Chi 2.00-3.00pm,12-Jun-17,14:00:00,60,24
+NBL,Tai Chi 2.00-3.00pm,19-Jun-17,14:00:00,60,17
+NBL,Tai Chi 2.00-3.00pm,26-Jun-17,14:00:00,60,10
+NBL,Tap Beg 12.00-12.30pm,03-Apr-17,12:00:00,60,13
+NBL,Tap Beg 12.00-12.30pm,10-Apr-17,12:00:00,60,7
+NBL,Tap Beg 12.00-12.30pm,24-Apr-17,12:00:00,60,7
+NBL,Tap Beg 12.00-12.30pm,08-May-17,12:00:00,60,7
+NBL,Tap Beg 12.00-12.30pm,15-May-17,12:00:00,60,5
+NBL,Tap Beg 12.00-12.30pm,22-May-17,12:00:00,60,6
+NBL,Tap Beg 12.00-12.30pm,29-May-17,12:00:00,60,1
+NBL,Tap Beg 12.00-12.30pm,05-Jun-17,12:00:00,60,6
+NBL,Tap Beg 12.00-12.30pm,12-Jun-17,12:00:00,60,9
+NBL,Tap Beg 12.00-12.30pm,19-Jun-17,12:00:00,60,6
+NBL,Tap Beg 12.00-12.30pm,26-Jun-17,12:00:00,60,8
+NBL,Tap Dance 12.30-1.30pm,03-Apr-17,12:30:00,60,5
+NBL,Tap Dance 12.30-1.30pm,10-Apr-17,12:30:00,60,5
+NBL,Tap Dance 12.30-1.30pm,24-Apr-17,12:30:00,60,9
+NBL,Tap Dance 12.30-1.30pm,08-May-17,12:30:00,60,2
+NBL,Tap Dance 12.30-1.30pm,15-May-17,12:30:00,60,8
+NBL,Tap Dance 12.30-1.30pm,22-May-17,12:30:00,60,8
+NBL,Tap Dance 12.30-1.30pm,29-May-17,12:30:00,60,1
+NBL,Tap Dance 12.30-1.30pm,05-Jun-17,12:30:00,60,11
+NBL,Tap Dance 12.30-1.30pm,12-Jun-17,12:30:00,60,10
+NBL,Tap Dance 12.30-1.30pm,19-Jun-17,12:30:00,60,7
+NBL,Tap Dance 12.30-1.30pm,26-Jun-17,12:30:00,60,10
+NBL,Tap Dancing 11.15-12.15pm,05-Apr-17,11:15:00,60,11
+NBL,Tap Dancing 11.15-12.15pm,12-Apr-17,11:15:00,60,6
+NBL,Tap Dancing 11.15-12.15pm,19-Apr-17,11:15:00,60,13
+NBL,Tap Dancing 11.15-12.15pm,26-Apr-17,11:15:00,60,10
+NBL,Tap Dancing 11.15-12.15pm,03-May-17,11:15:00,60,3
+NBL,Tap Dancing 11.15-12.15pm,10-May-17,11:15:00,60,8
+NBL,Tap Dancing 11.15-12.15pm,17-May-17,11:15:00,60,9
+NBL,Tap Dancing 11.15-12.15pm,24-May-17,11:15:00,60,13
+NBL,Tap Dancing 11.15-12.15pm,31-May-17,11:15:00,60,9
+NBL,Tap Dancing 11.15-12.15pm,07-Jun-17,11:15:00,60,9
+NBL,Tap Dancing 11.15-12.15pm,14-Jun-17,11:15:00,60,11
+NBL,Tap Dancing 11.15-12.15pm,21-Jun-17,11:15:00,60,6
+NBL,Tap Dancing 11.15-12.15pm,28-Jun-17,11:15:00,60,10
+NBL,Yogalates 5.30-6.30pm,14-Apr-17,17:30:00,60,9
+NBL,Yogalates 5.30-6.30pm,21-Apr-17,17:30:00,60,17
+NBL,Yogalates 5.30-6.30pm,28-Apr-17,17:30:00,60,12
+NBL,Yogalates 5.30-6.30pm,05-May-17,17:30:00,60,14
+NBL,Yogalates 5.30-6.30pm,12-May-17,17:30:00,60,10
+NBL,Yogalates 5.30-6.30pm,19-May-17,17:30:00,60,13
+NBL,Yogalates 5.30-6.30pm,26-May-17,17:30:00,60,10
+NBL,Yogalates 5.30-6.30pm,02-Jun-17,17:30:00,60,12
+NBL,Yogalates 5.30-6.30pm,09-Jun-17,17:30:00,60,16
+NBL,Yogalates 5.30-6.30pm,16-Jun-17,17:30:00,60,17
+NBL,Yogalates 5.30-6.30pm,23-Jun-17,17:30:00,60,15
+NBL,Yogalates 5.30-6.30pm,30-Jun-17,17:30:00,60,20
+NBL,Zumba 9.30-10.30am,02-Apr-17,09:30:00,60,27
+NBL,Zumba 9.30-10.30am,09-Apr-17,09:30:00,60,41
+NBL,Zumba 9.30-10.30am,16-Apr-17,09:30:00,60,15
+NBL,Zumba 9.30-10.30am,23-Apr-17,09:30:00,60,26
+NBL,Zumba 9.30-10.30am,30-Apr-17,09:30:00,60,34
+NBL,Zumba 9.30-10.30am,07-May-17,09:30:00,60,33
+NBL,Zumba 9.30-10.30am,14-May-17,09:30:00,60,36
+NBL,Zumba 9.30-10.30am,21-May-17,09:30:00,60,15
+NBL,Zumba 9.30-10.30am,28-May-17,09:30:00,60,20
+NBL,Zumba 9.30-10.30am,04-Jun-17,09:30:00,60,35
+NBL,Zumba 9.30-10.30am,11-Jun-17,09:30:00,60,32
+NBL,Zumba 9.30-10.30am,18-Jun-17,09:30:00,60,17
+NBL,Zumba 9.30-10.30am,25-Jun-17,09:30:00,60,18
+NBL,Zumba Gold 1.45-2.45pm,06-Apr-17,13:45:00,60,13
+NBL,Zumba Gold 1.45-2.45pm,13-Apr-17,13:45:00,60,8
+NBL,Zumba Gold 1.45-2.45pm,20-Apr-17,13:45:00,60,15
+NBL,Zumba Gold 1.45-2.45pm,27-Apr-17,13:45:00,60,14
+NBL,Zumba Gold 1.45-2.45pm,04-May-17,13:45:00,60,9
+NBL,Zumba Gold 1.45-2.45pm,11-May-17,13:45:00,60,13
+NBL,Zumba Gold 1.45-2.45pm,18-May-17,13:45:00,60,12
+NBL,Zumba Gold 1.45-2.45pm,25-May-17,13:45:00,60,8
+NBL,Zumba Gold 1.45-2.45pm,01-Jun-17,13:45:00,60,17
+NBL,Zumba Gold 1.45-2.45pm,08-Jun-17,13:45:00,60,10
+NBL,Zumba Gold 1.45-2.45pm,15-Jun-17,13:45:00,60,13
+NBL,Zumba Gold 1.45-2.45pm,22-Jun-17,13:45:00,60,20
+NBL,Zumba Gold 1.45-2.45pm,29-Jun-17,13:45:00,60,18
+NBL,Zumba Gold 12.45-1.45pm,04-Apr-17,12:45:00,60,36
+NBL,Zumba Gold 12.45-1.45pm,11-Apr-17,12:45:00,60,38
+NBL,Zumba Gold 12.45-1.45pm,18-Apr-17,12:45:00,60,32
+NBL,Zumba Gold 12.45-1.45pm,25-Apr-17,12:45:00,60,33
+NBL,Zumba Gold 12.45-1.45pm,02-May-17,12:45:00,60,21
+NBL,Zumba Gold 12.45-1.45pm,09-May-17,12:45:00,60,22
+NBL,Zumba Gold 12.45-1.45pm,16-May-17,12:45:00,60,33
+NBL,Zumba Gold 12.45-1.45pm,23-May-17,12:45:00,60,31
+NBL,Zumba Gold 12.45-1.45pm,30-May-17,12:45:00,60,31
+NBL,Zumba Gold 12.45-1.45pm,06-Jun-17,12:45:00,60,37
+NBL,Zumba Gold 12.45-1.45pm,13-Jun-17,12:45:00,60,37
+NBL,Zumba Gold 12.45-1.45pm,20-Jun-17,12:45:00,60,19
+NBL,Zumba Gold 12.45-1.45pm,27-Jun-17,12:45:00,60,32
+SBP,20-20-20 9.30-10.30am,05-Apr-17,09:30:00,35,22
+SBP,20-20-20 9.30-10.30am,12-Apr-17,09:30:00,35,23
+SBP,20-20-20 9.30-10.30am,19-Apr-17,09:30:00,35,16
+SBP,20-20-20 9.30-10.30am,26-Apr-17,09:30:00,35,16
+SBP,20-20-20 9.30-10.30am,03-May-17,09:30:00,35,16
+SBP,20-20-20 9.30-10.30am,10-May-17,09:30:00,35,18
+SBP,20-20-20 9.30-10.30am,17-May-17,09:30:00,35,21
+SBP,20-20-20 9.30-10.30am,24-May-17,09:30:00,35,18
+SBP,20-20-20 9.30-10.30am,31-May-17,09:30:00,35,12
+SBP,20-20-20 9.30-10.30am,07-Jun-17,09:30:00,35,16
+SBP,20-20-20 9.30-10.30am,14-Jun-17,09:30:00,35,18
+SBP,20-20-20 9.30-10.30am,21-Jun-17,09:30:00,35,13
+SBP,20-20-20 9.30-10.30am,28-Jun-17,09:30:00,35,18
+SBP,20:20:20 7-8pm,05-Apr-17,19:00:00,35,23
+SBP,20:20:20 7-8pm,12-Apr-17,19:00:00,35,12
+SBP,20:20:20 7-8pm,19-Apr-17,19:00:00,35,15
+SBP,20:20:20 7-8pm,26-Apr-17,19:00:00,35,13
+SBP,20:20:20 7-8pm,03-May-17,19:00:00,35,19
+SBP,20:20:20 7-8pm,10-May-17,19:00:00,35,13
+SBP,20:20:20 7-8pm,17-May-17,19:00:00,35,13
+SBP,45min Madness 9.15 -10am,04-Apr-17,09:15:00,35,13
+SBP,45min Madness 9.15 -10am,11-Apr-17,09:15:00,35,13
+SBP,45min Madness 9.15 -10am,18-Apr-17,09:15:00,35,5
+SBP,45min Madness 9.15 -10am,25-Apr-17,09:15:00,35,15
+SBP,45min Madness 9.15 -10am,02-May-17,09:15:00,35,7
+SBP,45min Madness 9.15 -10am,09-May-17,09:15:00,35,11
+SBP,45min Madness 9.15 -10am,16-May-17,09:15:00,35,15
+SBP,45min Madness 9.15 -10am,23-May-17,09:15:00,35,12
+SBP,45min Madness 9.15 -10am,30-May-17,09:15:00,35,8
+SBP,45min Madness 9.15 -10am,06-Jun-17,09:15:00,35,11
+SBP,45min Madness 9.15 -10am,13-Jun-17,09:15:00,35,14
+SBP,45min Madness 9.15 -10am,20-Jun-17,09:15:00,35,14
+SBP,45min Madness 9.15 -10am,27-Jun-17,09:15:00,35,13
+SBP,Abs Blast 7.45-8.15am,04-Apr-17,07:45:00,35,1
+SBP,Abs Blast 7.45-8.15am,11-Apr-17,07:45:00,35,1
+SBP,Abs Blast 7.45-8.15am,02-May-17,07:45:00,35,1
+SBP,Aqua Babies 9.30 - 10.00m,07-Apr-17,09:30:00,10,4
+SBP,Aqua Babies 9.30 - 10.00m,21-Apr-17,09:30:00,10,2
+SBP,Aqua Babies 9.30 - 10.00m,28-Apr-17,09:30:00,10,9
+SBP,Aqua Babies 9.30 - 10.00m,05-May-17,09:30:00,10,10
+SBP,Aqua Babies 9.30 - 10.00m,12-May-17,09:30:00,10,9
+SBP,Aqua Babies 9.30 - 10.00m,19-May-17,09:30:00,10,10
+SBP,Aqua Babies 9.30 - 10.00m,26-May-17,09:30:00,10,7
+SBP,Aqua Babies 9.30 - 10.00m,02-Jun-17,09:30:00,10,8
+SBP,Aqua Babies 9.30 - 10.00m,09-Jun-17,09:30:00,10,6
+SBP,Aqua Babies 9.30 - 10.00m,16-Jun-17,09:30:00,10,8
+SBP,Aqua Babies 9.30 - 10.00m,23-Jun-17,09:30:00,10,10
+SBP,Aqua Babies 9.30 - 10.00m,30-Jun-17,09:30:00,10,9
+SBP,Aqua Babies 12 -12.30am,24-Apr-17,12:00:00,10,3
+SBP,Aqua Babies 12 -12.30am,08-May-17,12:00:00,10,6
+SBP,Aqua Babies 12 -12.30am,15-May-17,12:00:00,10,3
+SBP,Aqua Babies 12 -12.30am,22-May-17,12:00:00,10,7
+SBP,Aqua Babies 12 -12.30am,05-Jun-17,12:00:00,10,2
+SBP,Aqua Babies 12 -12.30am,12-Jun-17,12:00:00,10,7
+SBP,Aqua Babies 12 -12.30am,19-Jun-17,12:00:00,10,9
+SBP,Aqua Babies 12 -12.30am,26-Jun-17,12:00:00,10,8
+SBP,Aqua Fit 3.00-3.50pm,04-Apr-17,15:00:00,35,26
+SBP,Aqua Fit 3.00-3.50pm,11-Apr-17,15:00:00,35,21
+SBP,Aqua Fit 3.00-3.50pm,18-Apr-17,15:00:00,35,20
+SBP,Aqua Fit 3.00-3.50pm,25-Apr-17,15:00:00,35,28
+SBP,Aqua Fit 3.00-3.50pm,02-May-17,15:00:00,35,22
+SBP,Aqua Fit 3.00-3.50pm,09-May-17,15:00:00,35,17
+SBP,Aqua Fit 3.00-3.50pm,16-May-17,15:00:00,35,24
+SBP,Aqua Fit 3.00-3.50pm,23-May-17,15:00:00,35,20
+SBP,Aqua Fit 3.00-3.50pm,30-May-17,15:00:00,35,17
+SBP,Aqua Fit 3.00-3.50pm,06-Jun-17,15:00:00,35,20
+SBP,Aqua Fit 3.00-3.50pm,13-Jun-17,15:00:00,35,16
+SBP,Aqua Fit 3.00-3.50pm,20-Jun-17,15:00:00,35,19
+SBP,Aqua Fit 3.00-3.50pm,27-Jun-17,15:00:00,35,21
+SBP,Aqua Fit 11.15-12.00,03-Apr-17,11:15:00,35,36
+SBP,Aqua Fit 11.15-12.00,10-Apr-17,11:15:00,35,35
+SBP,Aqua Fit 11.15-12.00,24-Apr-17,11:15:00,35,32
+SBP,Aqua Fit 11.15-12.00,08-May-17,11:15:00,35,23
+SBP,Aqua Fit 11.15-12.00,15-May-17,11:15:00,35,35
+SBP,Aqua Fit 11.15-12.00,22-May-17,11:15:00,35,33
+SBP,Aqua Fit 11.15-12.00,05-Jun-17,11:15:00,35,34
+SBP,Aqua Fit 11.15-12.00,12-Jun-17,11:15:00,35,35
+SBP,Aqua Fit 11.15-12.00,19-Jun-17,11:15:00,35,31
+SBP,Aqua Fit 11.15-12.00,26-Jun-17,11:15:00,35,29
+SBP,Aqua Tots 9.00-9.30 Am,07-Apr-17,09:00:00,10,2
+SBP,Aqua Tots 9.00-9.30 Am,21-Apr-17,09:00:00,10,3
+SBP,Aqua Tots 9.00-9.30 Am,28-Apr-17,09:00:00,10,5
+SBP,Aqua Tots 9.00-9.30 Am,05-May-17,09:00:00,10,4
+SBP,Aqua Tots 9.00-9.30 Am,12-May-17,09:00:00,10,5
+SBP,Aqua Tots 9.00-9.30 Am,19-May-17,09:00:00,10,6
+SBP,Aqua Tots 9.00-9.30 Am,26-May-17,09:00:00,10,5
+SBP,Aqua Tots 9.00-9.30 Am,02-Jun-17,09:00:00,10,3
+SBP,Aqua Tots 9.00-9.30 Am,09-Jun-17,09:00:00,10,2
+SBP,Aqua Tots 9.00-9.30 Am,16-Jun-17,09:00:00,10,5
+SBP,Aqua Tots 9.00-9.30 Am,23-Jun-17,09:00:00,10,6
+SBP,Aqua Tots 9.00-9.30 Am,30-Jun-17,09:00:00,10,5
+SBP,Aqua Tots 10-10.30am,07-Apr-17,10:00:00,10,5
+SBP,Aqua Tots 10-10.30am,21-Apr-17,10:00:00,10,5
+SBP,Aqua Tots 10-10.30am,28-Apr-17,10:00:00,10,7
+SBP,Aqua Tots 10-10.30am,05-May-17,10:00:00,10,8
+SBP,Aqua Tots 10-10.30am,12-May-17,10:00:00,10,7
+SBP,Aqua Tots 10-10.30am,19-May-17,10:00:00,10,6
+SBP,Aqua Tots 10-10.30am,26-May-17,10:00:00,10,5
+SBP,Aqua Tots 10-10.30am,02-Jun-17,10:00:00,10,6
+SBP,Aqua Tots 10-10.30am,09-Jun-17,10:00:00,10,6
+SBP,Aqua Tots 10-10.30am,16-Jun-17,10:00:00,10,5
+SBP,Aqua Tots 10-10.30am,23-Jun-17,10:00:00,10,9
+SBP,Aqua Tots 10-10.30am,30-Jun-17,10:00:00,10,9
+SBP,Aqua Tots/babies 10.30-11,07-Apr-17,10:30:00,10,10
+SBP,Aqua Tots/babies 10.30-11,21-Apr-17,10:30:00,10,6
+SBP,Aqua Tots/babies 10.30-11,28-Apr-17,10:30:00,10,5
+SBP,Aqua Tots/babies 10.30-11,05-May-17,10:30:00,10,9
+SBP,Aqua Tots/babies 10.30-11,12-May-17,10:30:00,10,8
+SBP,Aqua Tots/babies 10.30-11,19-May-17,10:30:00,10,6
+SBP,Aqua Tots/babies 10.30-11,26-May-17,10:30:00,10,8
+SBP,Aqua Tots/babies 10.30-11,02-Jun-17,10:30:00,10,5
+SBP,Aqua Tots/babies 10.30-11,09-Jun-17,10:30:00,10,7
+SBP,Aqua Tots/babies 10.30-11,16-Jun-17,10:30:00,10,8
+SBP,Aqua Tots/babies 10.30-11,23-Jun-17,10:30:00,10,10
+SBP,Aqua Tots/babies 10.30-11,30-Jun-17,10:30:00,10,10
+SBP,Aquababies/tots 12-12.30,05-Apr-17,12:00:00,10,10
+SBP,Aquababies/tots 12-12.30,26-Apr-17,12:00:00,10,10
+SBP,Aquababies/tots 12-12.30,03-May-17,12:00:00,10,10
+SBP,Aquababies/tots 12-12.30,10-May-17,12:00:00,10,7
+SBP,Aquababies/tots 12-12.30,17-May-17,12:00:00,10,10
+SBP,Aquababies/tots 12-12.30,24-May-17,12:00:00,10,4
+SBP,Aquababies/tots 12-12.30,07-Jun-17,12:00:00,10,9
+SBP,Aquababies/tots 12-12.30,14-Jun-17,12:00:00,10,10
+SBP,Aquababies/tots 12-12.30,21-Jun-17,12:00:00,10,4
+SBP,Aquababies/tots 12-12.30,28-Jun-17,12:00:00,10,10
+SBP,Aquafit 6.00-7.00pm,05-Apr-17,18:00:00,35,33
+SBP,Aquafit 6.00-7.00pm,12-Apr-17,18:00:00,35,31
+SBP,Aquafit 6.00-7.00pm,19-Apr-17,18:00:00,35,30
+SBP,Aquafit 6.00-7.00pm,26-Apr-17,18:00:00,35,27
+SBP,Aquafit 6.00-7.00pm,03-May-17,18:00:00,35,31
+SBP,Aquafit 6.00-7.00pm,10-May-17,18:00:00,35,30
+SBP,Aquafit 6.00-7.00pm,17-May-17,18:00:00,35,33
+SBP,Aquafit 6.00-7.00pm,24-May-17,18:00:00,35,30
+SBP,Aquafit 6.00-7.00pm,31-May-17,18:00:00,35,33
+SBP,Aquafit 6.00-7.00pm,07-Jun-17,18:00:00,35,28
+SBP,Aquafit 6.00-7.00pm,14-Jun-17,18:00:00,35,30
+SBP,Aquafit 6.00-7.00pm,21-Jun-17,18:00:00,35,30
+SBP,Aquafit 6.00-7.00pm,28-Jun-17,18:00:00,35,35
+SBP,Aquafit  7.00-8.00pm,07-Apr-17,19:00:00,35,31
+SBP,Aquafit  7.00-8.00pm,21-Apr-17,19:00:00,35,27
+SBP,Aquafit  7.00-8.00pm,28-Apr-17,19:00:00,35,32
+SBP,Aquafit  7.00-8.00pm,05-May-17,19:00:00,35,30
+SBP,Aquafit  7.00-8.00pm,12-May-17,19:00:00,35,29
+SBP,Aquafit  7.00-8.00pm,19-May-17,19:00:00,35,27
+SBP,Aquafit  7.00-8.00pm,26-May-17,19:00:00,35,26
+SBP,Aquafit  7.00-8.00pm,02-Jun-17,19:00:00,35,30
+SBP,Aquafit  7.00-8.00pm,09-Jun-17,19:00:00,35,28
+SBP,Aquafit  7.00-8.00pm,16-Jun-17,19:00:00,35,26
+SBP,Aquafit  7.00-8.00pm,23-Jun-17,19:00:00,35,34
+SBP,Aquafit  7.00-8.00pm,30-Jun-17,19:00:00,35,33
+SBP,Aquafit 7.00-8.00pm,03-Apr-17,19:00:00,35,34
+SBP,Aquafit 7.00-8.00pm,10-Apr-17,19:00:00,35,33
+SBP,Aquafit 7.00-8.00pm,24-Apr-17,19:00:00,35,35
+SBP,Aquafit 7.00-8.00pm,08-May-17,19:00:00,35,33
+SBP,Aquafit 7.00-8.00pm,15-May-17,19:00:00,35,32
+SBP,Aquafit 7.00-8.00pm,22-May-17,19:00:00,35,32
+SBP,Aquafit 7.00-8.00pm,05-Jun-17,19:00:00,35,28
+SBP,Aquafit 7.00-8.00pm,12-Jun-17,19:00:00,35,34
+SBP,Aquafit 7.00-8.00pm,19-Jun-17,19:00:00,35,35
+SBP,Aquafit 7.00-8.00pm,26-Jun-17,19:00:00,35,30
+SBP,Aquatots 12.30- 13.00pm,03-Apr-17,12:30:00,10,1
+SBP,Aquatots 12.30- 13.00pm,24-Apr-17,12:30:00,10,2
+SBP,Aquatots 12.30- 13.00pm,08-May-17,12:30:00,10,1
+SBP,Aquatots 12.30- 13.00pm,15-May-17,12:30:00,10,3
+SBP,Aquatots 12.30- 13.00pm,22-May-17,12:30:00,10,3
+SBP,Aquatots 12.30- 13.00pm,05-Jun-17,12:30:00,10,2
+SBP,Aquatots 12.30- 13.00pm,12-Jun-17,12:30:00,10,1
+SBP,Aquatots 12.30- 13.00pm,19-Jun-17,12:30:00,10,2
+SBP,Aquatots 12.30- 13.00pm,26-Jun-17,12:30:00,10,1
+SBP,Ballroom Dance 2.30-3.30,07-Apr-17,14:30:00,35,7
+SBP,Ballroom Dance 2.30-3.30,21-Apr-17,14:30:00,35,10
+SBP,Ballroom Dance 2.30-3.30,28-Apr-17,14:30:00,35,9
+SBP,Ballroom Dance 2.30-3.30,05-May-17,14:30:00,35,6
+SBP,Ballroom Dance 2.30-3.30,12-May-17,14:30:00,35,8
+SBP,Ballroom Dance 2.30-3.30,19-May-17,14:30:00,35,9
+SBP,Ballroom Dance 2.30-3.30,09-Jun-17,14:30:00,35,4
+SBP,Ballroom Dance 2.30-3.30,16-Jun-17,14:30:00,35,9
+SBP,Ballroom Dance 2.30-3.30,23-Jun-17,14:30:00,35,6
+SBP,Ballroom Dance 2.30-3.30,30-Jun-17,14:30:00,35,9
+SBP,Better Living Team 2.00pm,03-Apr-17,14:00:00,25,12
+SBP,Better Living Team 2.00pm,10-Apr-17,14:00:00,25,11
+SBP,Better Living Team 2.00pm,24-Apr-17,14:00:00,25,6
+SBP,Better Living Team 2.00pm,08-May-17,14:00:00,25,10
+SBP,Better Living Team 2.00pm,15-May-17,14:00:00,25,13
+SBP,Better Living Team 2.00pm,22-May-17,14:00:00,25,12
+SBP,Better Living Team 2.00pm,05-Jun-17,14:00:00,25,9
+SBP,Better Living Team 2.00pm,12-Jun-17,14:00:00,25,12
+SBP,Better Living Team 2.00pm,19-Jun-17,14:00:00,25,12
+SBP,Better Living Team 2.00pm,26-Jun-17,14:00:00,25,10
+SBP,Body Balan 11.30-12.30pm,02-Apr-17,11:30:00,35,21
+SBP,Body Balan 11.30-12.30pm,09-Apr-17,11:30:00,35,19
+SBP,Body Balan 11.30-12.30pm,16-Apr-17,11:30:00,35,12
+SBP,Body Balan 11.30-12.30pm,23-Apr-17,11:30:00,35,16
+SBP,Body Balan 11.30-12.30pm,30-Apr-17,11:30:00,35,16
+SBP,Body Balan 11.30-12.30pm,07-May-17,11:30:00,35,23
+SBP,Body Balan 11.30-12.30pm,14-May-17,11:30:00,35,20
+SBP,Body Balan 11.30-12.30pm,21-May-17,11:30:00,35,15
+SBP,Body Balan 11.30-12.30pm,28-May-17,11:30:00,35,15
+SBP,Body Balan 11.30-12.30pm,04-Jun-17,11:30:00,35,15
+SBP,Body Balan 11.30-12.30pm,11-Jun-17,11:30:00,35,16
+SBP,Body Balan 11.30-12.30pm,18-Jun-17,11:30:00,35,11
+SBP,Body Balan 11.30-12.30pm,25-Jun-17,11:30:00,35,12
+SBP,Body Balance 7pm-8pm,24-May-17,19:00:00,35,32
+SBP,Body Balance 7pm-8pm,31-May-17,19:00:00,35,29
+SBP,Body Balance 7pm-8pm,07-Jun-17,19:00:00,35,33
+SBP,Body Balance 7pm-8pm,14-Jun-17,19:00:00,35,29
+SBP,Body Balance 7pm-8pm,21-Jun-17,19:00:00,35,16
+SBP,Body Balance 7pm-8pm,28-Jun-17,19:00:00,35,27
+SBP,Body Balance 11-12pm,04-Apr-17,11:00:00,35,13
+SBP,Body Balance 11-12pm,06-Apr-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,07-Apr-17,11:00:00,35,20
+SBP,Body Balance 11-12pm,11-Apr-17,11:00:00,35,16
+SBP,Body Balance 11-12pm,13-Apr-17,11:00:00,35,19
+SBP,Body Balance 11-12pm,14-Apr-17,11:00:00,35,16
+SBP,Body Balance 11-12pm,18-Apr-17,11:00:00,35,11
+SBP,Body Balance 11-12pm,20-Apr-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,21-Apr-17,11:00:00,35,11
+SBP,Body Balance 11-12pm,25-Apr-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,27-Apr-17,11:00:00,35,11
+SBP,Body Balance 11-12pm,28-Apr-17,11:00:00,35,9
+SBP,Body Balance 11-12pm,02-May-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,04-May-17,11:00:00,35,11
+SBP,Body Balance 11-12pm,05-May-17,11:00:00,35,7
+SBP,Body Balance 11-12pm,09-May-17,11:00:00,35,14
+SBP,Body Balance 11-12pm,11-May-17,11:00:00,35,11
+SBP,Body Balance 11-12pm,12-May-17,11:00:00,35,9
+SBP,Body Balance 11-12pm,16-May-17,11:00:00,35,15
+SBP,Body Balance 11-12pm,18-May-17,11:00:00,35,13
+SBP,Body Balance 11-12pm,19-May-17,11:00:00,35,11
+SBP,Body Balance 11-12pm,23-May-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,25-May-17,11:00:00,35,6
+SBP,Body Balance 11-12pm,26-May-17,11:00:00,35,6
+SBP,Body Balance 11-12pm,30-May-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,01-Jun-17,11:00:00,35,9
+SBP,Body Balance 11-12pm,02-Jun-17,11:00:00,35,5
+SBP,Body Balance 11-12pm,06-Jun-17,11:00:00,35,13
+SBP,Body Balance 11-12pm,08-Jun-17,11:00:00,35,10
+SBP,Body Balance 11-12pm,09-Jun-17,11:00:00,35,9
+SBP,Body Balance 11-12pm,13-Jun-17,11:00:00,35,8
+SBP,Body Balance 11-12pm,15-Jun-17,11:00:00,35,7
+SBP,Body Balance 11-12pm,16-Jun-17,11:00:00,35,5
+SBP,Body Balance 11-12pm,20-Jun-17,11:00:00,35,9
+SBP,Body Balance 11-12pm,22-Jun-17,11:00:00,35,8
+SBP,Body Balance 11-12pm,23-Jun-17,11:00:00,35,4
+SBP,Body Balance 11-12pm,27-Jun-17,11:00:00,35,12
+SBP,Body Balance 11-12pm,30-Jun-17,11:00:00,35,6
+SBP,Body Balance 11.30-12.30,01-Apr-17,11:30:00,30,26
+SBP,Body Balance 11.30-12.30,15-Apr-17,11:30:00,30,25
+SBP,Body Balance 11.30-12.30,22-Apr-17,11:30:00,30,25
+SBP,Body Balance 11.30-12.30,29-Apr-17,11:30:00,30,23
+SBP,Body Balance 11.30-12.30,06-May-17,11:30:00,30,22
+SBP,Body Balance 11.30-12.30,13-May-17,11:30:00,30,23
+SBP,Body Balance 11.30-12.30,20-May-17,11:30:00,30,22
+SBP,Body Balance 11.30-12.30,27-May-17,11:30:00,30,22
+SBP,Body Balance 11.30-12.30,03-Jun-17,11:30:00,30,16
+SBP,Body Balance 11.30-12.30,10-Jun-17,11:30:00,30,27
+SBP,Body Balance 11.30-12.30,17-Jun-17,11:30:00,30,16
+SBP,Body Balance 11.30-12.30,24-Jun-17,11:30:00,30,22
+SBP,Body Balance 12.30-1.30pm,03-Apr-17,12:30:00,35,10
+SBP,Body Balance 12.30-1.30pm,10-Apr-17,12:30:00,35,6
+SBP,Body Balance 12.30-1.30pm,17-Apr-17,12:30:00,35,18
+SBP,Body Balance 12.30-1.30pm,24-Apr-17,12:30:00,35,11
+SBP,Body Balance 12.30-1.30pm,01-May-17,12:30:00,35,14
+SBP,Body Balance 12.30-1.30pm,08-May-17,12:30:00,35,6
+SBP,Body Balance 12.30-1.30pm,15-May-17,12:30:00,35,5
+SBP,Body Balance 12.30-1.30pm,22-May-17,12:30:00,35,7
+SBP,Body Balance 12.30-1.30pm,29-May-17,12:30:00,35,12
+SBP,Body Balance 12.30-1.30pm,05-Jun-17,12:30:00,35,5
+SBP,Body Balance 12.30-1.30pm,12-Jun-17,12:30:00,35,6
+SBP,Body Balance 12.30-1.30pm,19-Jun-17,12:30:00,35,7
+SBP,Body Balance 12.30-1.30pm,26-Jun-17,12:30:00,35,5
+SBP,Body Combat 5.00-6.00pm,05-Apr-17,17:00:00,35,26
+SBP,Body Combat 5.00-6.00pm,12-Apr-17,17:00:00,35,28
+SBP,Body Combat 5.00-6.00pm,19-Apr-17,17:00:00,35,29
+SBP,Body Combat 5.00-6.00pm,26-Apr-17,17:00:00,35,23
+SBP,Body Combat 5.00-6.00pm,03-May-17,17:00:00,35,35
+SBP,Body Combat 5.00-6.00pm,10-May-17,17:00:00,35,27
+SBP,Body Combat 5.00-6.00pm,17-May-17,17:00:00,35,33
+SBP,Body Combat 5.00-6.00pm,24-May-17,17:00:00,35,22
+SBP,Body Combat 5.00-6.00pm,31-May-17,17:00:00,35,19
+SBP,Body Combat 5.00-6.00pm,07-Jun-17,17:00:00,35,31
+SBP,Body Combat 5.00-6.00pm,14-Jun-17,17:00:00,35,26
+SBP,Body Combat 5.00-6.00pm,21-Jun-17,17:00:00,35,23
+SBP,Body Combat 5.00-6.00pm,28-Jun-17,17:00:00,35,24
+SBP,Body Combat 7.00-8.00pm,03-Apr-17,19:00:00,40,28
+SBP,Body Combat 7.00-8.00pm,04-Apr-17,19:00:00,35,32
+SBP,Body Combat 7.00-8.00pm,10-Apr-17,19:00:00,40,36
+SBP,Body Combat 7.00-8.00pm,11-Apr-17,19:00:00,35,32
+SBP,Body Combat 7.00-8.00pm,18-Apr-17,19:00:00,35,29
+SBP,Body Combat 7.00-8.00pm,24-Apr-17,19:00:00,40,33
+SBP,Body Combat 7.00-8.00pm,25-Apr-17,19:00:00,35,29
+SBP,Body Combat 7.00-8.00pm,02-May-17,19:00:00,35,35
+SBP,Body Combat 7.00-8.00pm,08-May-17,19:00:00,40,30
+SBP,Body Combat 7.00-8.00pm,09-May-17,19:00:00,35,28
+SBP,Body Combat 7.00-8.00pm,15-May-17,19:00:00,40,34
+SBP,Body Combat 7.00-8.00pm,16-May-17,19:00:00,35,27
+SBP,Body Combat 7.00-8.00pm,22-May-17,19:00:00,40,34
+SBP,Body Combat 7.00-8.00pm,23-May-17,19:00:00,35,29
+SBP,Body Combat 7.00-8.00pm,30-May-17,19:00:00,35,29
+SBP,Body Combat 7.00-8.00pm,05-Jun-17,19:00:00,40,36
+SBP,Body Combat 7.00-8.00pm,06-Jun-17,19:00:00,35,27
+SBP,Body Combat 7.00-8.00pm,12-Jun-17,19:00:00,40,34
+SBP,Body Combat 7.00-8.00pm,13-Jun-17,19:00:00,35,33
+SBP,Body Combat 7.00-8.00pm,19-Jun-17,19:00:00,40,38
+SBP,Body Combat 7.00-8.00pm,20-Jun-17,19:00:00,35,33
+SBP,Body Combat 7.00-8.00pm,26-Jun-17,19:00:00,40,34
+SBP,Body Combat 7.00-8.00pm,27-Jun-17,19:00:00,35,24
+SBP,Body Combat 9.15-10.15am,02-Apr-17,09:15:00,35,32
+SBP,Body Combat 9.15-10.15am,09-Apr-17,09:15:00,35,35
+SBP,Body Combat 9.15-10.15am,16-Apr-17,09:15:00,35,28
+SBP,Body Combat 9.15-10.15am,23-Apr-17,09:15:00,35,35
+SBP,Body Combat 9.15-10.15am,30-Apr-17,09:15:00,35,29
+SBP,Body Combat 9.15-10.15am,07-May-17,09:15:00,35,34
+SBP,Body Combat 9.15-10.15am,14-May-17,09:15:00,35,29
+SBP,Body Combat 9.15-10.15am,21-May-17,09:15:00,35,33
+SBP,Body Combat 9.15-10.15am,28-May-17,09:15:00,35,31
+SBP,Body Combat 9.15-10.15am,04-Jun-17,09:15:00,35,31
+SBP,Body Combat 9.15-10.15am,11-Jun-17,09:15:00,35,29
+SBP,Body Combat 9.15-10.15am,18-Jun-17,09:15:00,35,30
+SBP,Body Combat 9.15-10.15am,25-Jun-17,09:15:00,35,35
+SBP,Body Combat 10.00-11.00am,06-Apr-17,10:00:00,40,37
+SBP,Body Combat 10.00-11.00am,13-Apr-17,10:00:00,40,24
+SBP,Body Combat 10.00-11.00am,20-Apr-17,10:00:00,40,14
+SBP,Body Combat 10.00-11.00am,27-Apr-17,10:00:00,40,24
+SBP,Body Combat 10.00-11.00am,04-May-17,10:00:00,40,21
+SBP,Body Combat 10.00-11.00am,11-May-17,10:00:00,40,28
+SBP,Body Combat 10.00-11.00am,18-May-17,10:00:00,40,25
+SBP,Body Combat 10.00-11.00am,25-May-17,10:00:00,40,18
+SBP,Body Combat 10.00-11.00am,01-Jun-17,10:00:00,40,19
+SBP,Body Combat 10.00-11.00am,08-Jun-17,10:00:00,40,23
+SBP,Body Combat 10.00-11.00am,15-Jun-17,10:00:00,40,22
+SBP,Body Combat 10.00-11.00am,22-Jun-17,10:00:00,40,16
+SBP,Body Combat 10.00-11.00am,29-Jun-17,10:00:00,40,23
+SBP,Body Combat 10.30-11.30,01-Apr-17,10:30:00,35,31
+SBP,Body Combat 10.30-11.30,15-Apr-17,10:30:00,35,30
+SBP,Body Combat 10.30-11.30,22-Apr-17,10:30:00,35,32
+SBP,Body Combat 10.30-11.30,29-Apr-17,10:30:00,35,33
+SBP,Body Combat 10.30-11.30,06-May-17,10:30:00,35,32
+SBP,Body Combat 10.30-11.30,13-May-17,10:30:00,35,34
+SBP,Body Combat 10.30-11.30,20-May-17,10:30:00,35,32
+SBP,Body Combat 10.30-11.30,27-May-17,10:30:00,35,28
+SBP,Body Combat 10.30-11.30,03-Jun-17,10:30:00,35,35
+SBP,Body Combat 10.30-11.30,10-Jun-17,10:30:00,35,28
+SBP,Body Combat 10.30-11.30,17-Jun-17,10:30:00,35,32
+SBP,Body Combat 10.30-11.30,24-Jun-17,10:30:00,35,33
+SBP,Body Combat 11.30-12.30pm,03-Apr-17,11:30:00,35,13
+SBP,Body Combat 11.30-12.30pm,10-Apr-17,11:30:00,35,5
+SBP,Body Combat 11.30-12.30pm,17-Apr-17,11:30:00,35,26
+SBP,Body Combat 11.30-12.30pm,24-Apr-17,11:30:00,35,13
+SBP,Body Combat 11.30-12.30pm,01-May-17,11:30:00,35,28
+SBP,Body Combat 11.30-12.30pm,08-May-17,11:30:00,35,6
+SBP,Body Combat 11.30-12.30pm,15-May-17,11:30:00,35,7
+SBP,Body Combat 11.30-12.30pm,22-May-17,11:30:00,35,7
+SBP,Body Combat 11.30-12.30pm,29-May-17,11:30:00,35,21
+SBP,Body Combat 11.30-12.30pm,05-Jun-17,11:30:00,35,17
+SBP,Body Combat 11.30-12.30pm,12-Jun-17,11:30:00,35,4
+SBP,Body Combat 11.30-12.30pm,19-Jun-17,11:30:00,35,7
+SBP,Body Combat 11.30-12.30pm,26-Jun-17,11:30:00,35,9
+SBP,Body Con 10.30-11.30am,02-Apr-17,10:30:00,40,29
+SBP,Body Con 10.30-11.30am,03-Apr-17,10:30:00,40,22
+SBP,Body Con 10.30-11.30am,09-Apr-17,10:30:00,40,29
+SBP,Body Con 10.30-11.30am,10-Apr-17,10:30:00,40,20
+SBP,Body Con 10.30-11.30am,16-Apr-17,10:30:00,40,31
+SBP,Body Con 10.30-11.30am,17-Apr-17,10:30:00,40,27
+SBP,Body Con 10.30-11.30am,23-Apr-17,10:30:00,40,29
+SBP,Body Con 10.30-11.30am,24-Apr-17,10:30:00,40,22
+SBP,Body Con 10.30-11.30am,30-Apr-17,10:30:00,40,21
+SBP,Body Con 10.30-11.30am,01-May-17,10:30:00,40,37
+SBP,Body Con 10.30-11.30am,07-May-17,10:30:00,40,37
+SBP,Body Con 10.30-11.30am,08-May-17,10:30:00,40,27
+SBP,Body Con 10.30-11.30am,14-May-17,10:30:00,40,24
+SBP,Body Con 10.30-11.30am,15-May-17,10:30:00,40,24
+SBP,Body Con 10.30-11.30am,21-May-17,10:30:00,40,27
+SBP,Body Con 10.30-11.30am,22-May-17,10:30:00,40,20
+SBP,Body Con 10.30-11.30am,28-May-17,10:30:00,40,21
+SBP,Body Con 10.30-11.30am,29-May-17,10:30:00,40,27
+SBP,Body Con 10.30-11.30am,04-Jun-17,10:30:00,40,29
+SBP,Body Con 10.30-11.30am,05-Jun-17,10:30:00,40,16
+SBP,Body Con 10.30-11.30am,11-Jun-17,10:30:00,40,25
+SBP,Body Con 10.30-11.30am,12-Jun-17,10:30:00,40,21
+SBP,Body Con 10.30-11.30am,18-Jun-17,10:30:00,40,19
+SBP,Body Con 10.30-11.30am,19-Jun-17,10:30:00,40,14
+SBP,Body Con 10.30-11.30am,25-Jun-17,10:30:00,40,30
+SBP,Body Con 10.30-11.30am,26-Jun-17,10:30:00,40,16
+SBP,Body Cond 5.00-6.00pm,04-Apr-17,17:00:00,40,13
+SBP,Body Cond 5.00-6.00pm,11-Apr-17,17:00:00,40,17
+SBP,Body Cond 5.00-6.00pm,18-Apr-17,17:00:00,40,17
+SBP,Body Cond 5.00-6.00pm,25-Apr-17,17:00:00,40,13
+SBP,Body Cond 5.00-6.00pm,02-May-17,17:00:00,40,24
+SBP,Body Cond 5.00-6.00pm,09-May-17,17:00:00,40,28
+SBP,Body Cond 5.00-6.00pm,16-May-17,17:00:00,40,23
+SBP,Body Cond 5.00-6.00pm,23-May-17,17:00:00,40,27
+SBP,Body Cond 5.00-6.00pm,30-May-17,17:00:00,40,15
+SBP,Body Cond 5.00-6.00pm,06-Jun-17,17:00:00,40,22
+SBP,Body Cond 5.00-6.00pm,13-Jun-17,17:00:00,40,28
+SBP,Body Cond 5.00-6.00pm,20-Jun-17,17:00:00,40,21
+SBP,Body Cond 5.00-6.00pm,27-Jun-17,17:00:00,40,15
+SBP,Body Cond 10-11am,07-Apr-17,10:00:00,35,23
+SBP,Body Cond 10-11am,14-Apr-17,10:00:00,35,35
+SBP,Body Cond 10-11am,21-Apr-17,10:00:00,35,19
+SBP,Body Cond 10-11am,28-Apr-17,10:00:00,35,28
+SBP,Body Cond 10-11am,05-May-17,10:00:00,35,28
+SBP,Body Cond 10-11am,12-May-17,10:00:00,35,23
+SBP,Body Cond 10-11am,19-May-17,10:00:00,35,23
+SBP,Body Cond 10-11am,26-May-17,10:00:00,35,21
+SBP,Body Cond 10-11am,02-Jun-17,10:00:00,35,21
+SBP,Body Cond 10-11am,09-Jun-17,10:00:00,35,22
+SBP,Body Cond 10-11am,16-Jun-17,10:00:00,35,28
+SBP,Body Cond 10-11am,23-Jun-17,10:00:00,35,21
+SBP,Body Cond 10-11am,30-Jun-17,10:00:00,35,26
+SBP,Body Cond 10.30-11.30am,05-Apr-17,10:30:00,35,23
+SBP,Body Cond 10.30-11.30am,12-Apr-17,10:30:00,35,30
+SBP,Body Cond 10.30-11.30am,19-Apr-17,10:30:00,35,17
+SBP,Body Cond 10.30-11.30am,26-Apr-17,10:30:00,35,27
+SBP,Body Cond 10.30-11.30am,03-May-17,10:30:00,35,17
+SBP,Body Cond 10.30-11.30am,10-May-17,10:30:00,35,19
+SBP,Body Cond 10.30-11.30am,17-May-17,10:30:00,35,24
+SBP,Body Cond 10.30-11.30am,24-May-17,10:30:00,35,18
+SBP,Body Cond 10.30-11.30am,31-May-17,10:30:00,35,19
+SBP,Body Cond 10.30-11.30am,07-Jun-17,10:30:00,35,27
+SBP,Body Cond 10.30-11.30am,14-Jun-17,10:30:00,35,18
+SBP,Body Cond 10.30-11.30am,21-Jun-17,10:30:00,35,20
+SBP,Body Cond 10.30-11.30am,28-Jun-17,10:30:00,35,20
+SBP,Body Conditioning 8-9pm,03-Apr-17,20:00:00,35,14
+SBP,Body Conditioning 8-9pm,10-Apr-17,20:00:00,35,13
+SBP,Body Conditioning 8-9pm,24-Apr-17,20:00:00,35,17
+SBP,Body Conditioning 8-9pm,08-May-17,20:00:00,35,11
+SBP,Body Conditioning 8-9pm,15-May-17,20:00:00,35,11
+SBP,Body Conditioning 8-9pm,22-May-17,20:00:00,35,11
+SBP,Body Conditioning 8-9pm,05-Jun-17,20:00:00,35,12
+SBP,Body Conditioning 8-9pm,12-Jun-17,20:00:00,35,15
+SBP,Body Conditioning 8-9pm,19-Jun-17,20:00:00,35,13
+SBP,Body Conditioning 8-9pm,26-Jun-17,20:00:00,35,8
+SBP,Circuits 7am - 7.45am,04-Apr-17,07:00:00,30,13
+SBP,Circuits 7am - 7.45am,11-Apr-17,07:00:00,30,17
+SBP,Circuits 7am - 7.45am,18-Apr-17,07:00:00,30,6
+SBP,Circuits 7am - 7.45am,25-Apr-17,07:00:00,30,11
+SBP,Circuits 7am - 7.45am,02-May-17,07:00:00,30,14
+SBP,Circuits 7am - 7.45am,09-May-17,07:00:00,30,18
+SBP,Circuits 7am - 7.45am,16-May-17,07:00:00,30,7
+SBP,Circuits 7am - 7.45am,23-May-17,07:00:00,30,11
+SBP,Circuits 7am - 7.45am,30-May-17,07:00:00,30,8
+SBP,Circuits 7am - 7.45am,06-Jun-17,07:00:00,30,11
+SBP,Circuits 7am - 7.45am,13-Jun-17,07:00:00,30,7
+SBP,Circuits 7am - 7.45am,20-Jun-17,07:00:00,30,13
+SBP,Circuits 7am - 7.45am,27-Jun-17,07:00:00,30,8
+SBP,Exercise Wght Man Blt,05-Apr-17,13:15:00,25,1
+SBP,Exercise Wght Man Blt,10-May-17,13:15:00,25,1
+SBP,Exercise Wght Man Blt,24-May-17,13:15:00,25,1
+SBP,Exercise Wght Man Blt,31-May-17,13:15:00,25,1
+SBP,Fusion   6.00-7.00pm,05-Apr-17,18:00:00,40,16
+SBP,Fusion   6.00-7.00pm,12-Apr-17,18:00:00,40,14
+SBP,Fusion   6.00-7.00pm,19-Apr-17,18:00:00,40,15
+SBP,Fusion   6.00-7.00pm,26-Apr-17,18:00:00,40,16
+SBP,Fusion   6.00-7.00pm,03-May-17,18:00:00,40,23
+SBP,Fusion   6.00-7.00pm,10-May-17,18:00:00,40,21
+SBP,Fusion   6.00-7.00pm,17-May-17,18:00:00,40,15
+SBP,Fusion   6.00-7.00pm,24-May-17,18:00:00,40,14
+SBP,Fusion   6.00-7.00pm,31-May-17,18:00:00,40,19
+SBP,Fusion   6.00-7.00pm,07-Jun-17,18:00:00,40,29
+SBP,Fusion   6.00-7.00pm,14-Jun-17,18:00:00,40,25
+SBP,Fusion   6.00-7.00pm,21-Jun-17,18:00:00,40,22
+SBP,Fusion   6.00-7.00pm,28-Jun-17,18:00:00,40,22
+SBP,H.I.I.T 5.00-6.00pm,03-Apr-17,17:00:00,35,10
+SBP,H.I.I.T 5.00-6.00pm,10-Apr-17,17:00:00,35,11
+SBP,H.I.I.T 5.00-6.00pm,24-Apr-17,17:00:00,35,11
+SBP,H.I.I.T 5.00-6.00pm,08-May-17,17:00:00,35,7
+SBP,H.I.I.T 5.00-6.00pm,15-May-17,17:00:00,35,5
+SBP,H.I.I.T 5.00-6.00pm,22-May-17,17:00:00,35,11
+SBP,H.I.I.T 5.00-6.00pm,05-Jun-17,17:00:00,35,8
+SBP,H.I.I.T 5.00-6.00pm,12-Jun-17,17:00:00,35,7
+SBP,H.I.I.T 5.00-6.00pm,19-Jun-17,17:00:00,35,9
+SBP,H.I.I.T 5.00-6.00pm,26-Jun-17,17:00:00,35,7
+SBP,H.I.I.T 9.30-10.30am,03-Apr-17,09:30:00,35,11
+SBP,H.I.I.T 9.30-10.30am,10-Apr-17,09:30:00,35,8
+SBP,H.I.I.T 9.30-10.30am,17-Apr-17,09:30:00,35,9
+SBP,H.I.I.T 9.30-10.30am,24-Apr-17,09:30:00,35,15
+SBP,H.I.I.T 9.30-10.30am,01-May-17,09:30:00,35,10
+SBP,H.I.I.T 9.30-10.30am,08-May-17,09:30:00,35,16
+SBP,H.I.I.T 9.30-10.30am,15-May-17,09:30:00,35,12
+SBP,H.I.I.T 9.30-10.30am,22-May-17,09:30:00,35,14
+SBP,H.I.I.T 9.30-10.30am,29-May-17,09:30:00,35,7
+SBP,H.I.I.T 9.30-10.30am,05-Jun-17,09:30:00,35,7
+SBP,H.I.I.T 9.30-10.30am,12-Jun-17,09:30:00,35,11
+SBP,H.I.I.T 9.30-10.30am,19-Jun-17,09:30:00,35,10
+SBP,H.I.I.T 9.30-10.30am,26-Jun-17,09:30:00,35,7
+SBP,H.I.I.T.  5.00-6.00pm,07-Apr-17,17:00:00,40,11
+SBP,H.I.I.T.  5.00-6.00pm,21-Apr-17,17:00:00,40,10
+SBP,H.I.I.T.  5.00-6.00pm,28-Apr-17,17:00:00,40,9
+SBP,H.I.I.T.  5.00-6.00pm,05-May-17,17:00:00,40,9
+SBP,H.I.I.T.  5.00-6.00pm,19-May-17,17:00:00,40,10
+SBP,H.I.I.T.  5.00-6.00pm,26-May-17,17:00:00,40,6
+SBP,H.I.I.T.  5.00-6.00pm,02-Jun-17,17:00:00,40,8
+SBP,H.I.I.T.  5.00-6.00pm,09-Jun-17,17:00:00,40,7
+SBP,H.I.I.T.  5.00-6.00pm,16-Jun-17,17:00:00,40,7
+SBP,H.I.I.T.  5.00-6.00pm,23-Jun-17,17:00:00,40,10
+SBP,H.I.I.T.  5.00-6.00pm,30-Jun-17,17:00:00,40,8
+SBP,Hatton A B C 6-7.00pm,04-Apr-17,18:00:00,30,19
+SBP,Hatton A B C 6-7.00pm,11-Apr-17,18:00:00,30,16
+SBP,Hatton A B C 6-7.00pm,18-Apr-17,18:00:00,30,14
+SBP,Hatton A B C 6-7.00pm,25-Apr-17,18:00:00,30,12
+SBP,Hatton A B C 6-7.00pm,02-May-17,18:00:00,30,13
+SBP,Hatton A B C 6-7.00pm,09-May-17,18:00:00,30,11
+SBP,Hatton A B C 6-7.00pm,16-May-17,18:00:00,30,20
+SBP,Hatton A B C 6-7.00pm,23-May-17,18:00:00,30,18
+SBP,Hatton A B C 6-7.00pm,30-May-17,18:00:00,30,9
+SBP,Hatton A B C 6-7.00pm,06-Jun-17,18:00:00,30,13
+SBP,Hatton A B C 6-7.00pm,13-Jun-17,18:00:00,30,12
+SBP,Hatton A B C 6-7.00pm,20-Jun-17,18:00:00,30,7
+SBP,Hatton A B C 6-7.00pm,27-Jun-17,18:00:00,30,9
+SBP,Hatton A B C   7-8am,06-Apr-17,07:00:00,20,9
+SBP,Hatton A B C   7-8am,13-Apr-17,07:00:00,20,4
+SBP,Hatton A B C   7-8am,20-Apr-17,07:00:00,20,5
+SBP,Hatton A B C   7-8am,27-Apr-17,07:00:00,20,6
+SBP,Hatton A B C   7-8am,04-May-17,07:00:00,20,9
+SBP,Hatton A B C   7-8am,11-May-17,07:00:00,20,7
+SBP,Hatton A B C   7-8am,18-May-17,07:00:00,20,7
+SBP,Hatton A B C   7-8am,25-May-17,07:00:00,20,8
+SBP,Hatton A B C   7-8am,01-Jun-17,07:00:00,20,8
+SBP,Hatton A B C   7-8am,08-Jun-17,07:00:00,20,10
+SBP,Hatton A B C   7-8am,15-Jun-17,07:00:00,20,5
+SBP,Hatton A B C   7-8am,22-Jun-17,07:00:00,20,8
+SBP,Hatton A B C   7-8am,29-Jun-17,07:00:00,20,7
+SBP,Hiit 9.30-10.30,01-Apr-17,09:30:00,30,7
+SBP,Hiit 9.30-10.30,08-Apr-17,09:30:00,30,5
+SBP,Hiit 9.30-10.30,15-Apr-17,09:30:00,30,12
+SBP,Hiit 9.30-10.30,22-Apr-17,09:30:00,30,6
+SBP,Hiit 9.30-10.30,29-Apr-17,09:30:00,30,11
+SBP,Hiit 9.30-10.30,06-May-17,09:30:00,30,9
+SBP,Hiit 9.30-10.30,13-May-17,09:30:00,30,7
+SBP,Hiit 9.30-10.30,20-May-17,09:30:00,30,10
+SBP,Hiit 9.30-10.30,27-May-17,09:30:00,30,11
+SBP,Hiit 9.30-10.30,03-Jun-17,09:30:00,30,5
+SBP,Hiit 9.30-10.30,10-Jun-17,09:30:00,30,17
+SBP,Hiit 9.30-10.30,17-Jun-17,09:30:00,30,9
+SBP,Hiit 9.30-10.30,24-Jun-17,09:30:00,30,7
+SBP,Insanity 5:00-6:00pm,06-Apr-17,17:00:00,40,6
+SBP,Insanity 5:00-6:00pm,13-Apr-17,17:00:00,40,3
+SBP,Insanity 5:00-6:00pm,20-Apr-17,17:00:00,40,1
+SBP,Insanity 5:00-6:00pm,27-Apr-17,17:00:00,40,4
+SBP,Insanity 5:00-6:00pm,04-May-17,17:00:00,40,6
+SBP,Insanity 5:00-6:00pm,11-May-17,17:00:00,40,8
+SBP,Insanity 5:00-6:00pm,18-May-17,17:00:00,40,10
+SBP,Insanity 5:00-6:00pm,25-May-17,17:00:00,40,6
+SBP,Insanity 5:00-6:00pm,01-Jun-17,17:00:00,40,8
+SBP,Insanity 5:00-6:00pm,08-Jun-17,17:00:00,40,12
+SBP,Insanity 5:00-6:00pm,15-Jun-17,17:00:00,40,8
+SBP,Insanity 5:00-6:00pm,22-Jun-17,17:00:00,40,8
+SBP,Insanity 5:00-6:00pm,29-Jun-17,17:00:00,40,10
+SBP,Jun Induction 12.30,08-Apr-17,12:30:00,4,2
+SBP,Jun Induction 12.30,15-Apr-17,12:30:00,4,1
+SBP,Jun Induction 12.30,29-Apr-17,12:30:00,4,2
+SBP,Jun Induction 12.30,06-May-17,12:30:00,4,1
+SBP,Jun Induction 12.30,20-May-17,12:30:00,4,3
+SBP,Jun Induction 12.30,27-May-17,12:30:00,4,4
+SBP,Jun Induction 12.30,03-Jun-17,12:30:00,4,3
+SBP,Jun Induction 12.30,10-Jun-17,12:30:00,4,1
+SBP,Jun Induction 12.30,17-Jun-17,12:30:00,4,1
+SBP,Junior Gym 1.00-2.00pm,01-Apr-17,13:00:00,12,1
+SBP,Junior Gym 1.00-2.00pm,08-Apr-17,13:00:00,12,1
+SBP,Junior Gym 1.00-2.00pm,22-Apr-17,13:00:00,12,1
+SBP,Junior Gym 1.00-2.00pm,13-May-17,13:00:00,12,1
+SBP,Junior Gym 1.00-2.00pm,10-Jun-17,13:00:00,12,1
+SBP,Junior Gym 3.30-5.00pm,20-Apr-17,15:30:00,10,1
+SBP,Junior Gym 3.30-5.00pm,21-Apr-17,15:30:00,10,2
+SBP,Junior Gym 3.30-5.00pm,27-Apr-17,15:30:00,10,1
+SBP,Junior Gym 3.30-5.00pm,18-May-17,15:30:00,10,1
+SBP,Junior Gym 3.30-5.00pm,19-May-17,15:30:00,10,10
+SBP,Junior Gym 3.30-5.00pm,09-Jun-17,15:30:00,10,7
+SBP,Junior Gym 3.30-5.00pm,15-Jun-17,15:30:00,10,3
+SBP,Legs Bums Tums 10-11am,04-Apr-17,10:00:00,35,30
+SBP,Legs Bums Tums 10-11am,11-Apr-17,10:00:00,35,34
+SBP,Legs Bums Tums 10-11am,18-Apr-17,10:00:00,35,22
+SBP,Legs Bums Tums 10-11am,25-Apr-17,10:00:00,35,33
+SBP,Legs Bums Tums 10-11am,02-May-17,10:00:00,35,25
+SBP,Legs Bums Tums 10-11am,09-May-17,10:00:00,35,35
+SBP,Legs Bums Tums 10-11am,16-May-17,10:00:00,35,35
+SBP,Legs Bums Tums 10-11am,23-May-17,10:00:00,35,27
+SBP,Legs Bums Tums 10-11am,30-May-17,10:00:00,35,26
+SBP,Legs Bums Tums 10-11am,06-Jun-17,10:00:00,35,35
+SBP,Legs Bums Tums 10-11am,13-Jun-17,10:00:00,35,25
+SBP,Legs Bums Tums 10-11am,20-Jun-17,10:00:00,35,24
+SBP,Legs Bums Tums 10-11am,27-Jun-17,10:00:00,35,20
+SBP,Line Dancing 1.30-2.30pm,07-Apr-17,13:30:00,35,12
+SBP,Line Dancing 1.30-2.30pm,21-Apr-17,13:30:00,35,8
+SBP,Line Dancing 1.30-2.30pm,28-Apr-17,13:30:00,35,8
+SBP,Line Dancing 1.30-2.30pm,05-May-17,13:30:00,35,8
+SBP,Line Dancing 1.30-2.30pm,12-May-17,13:30:00,35,12
+SBP,Line Dancing 1.30-2.30pm,19-May-17,13:30:00,35,15
+SBP,Line Dancing 1.30-2.30pm,26-May-17,13:30:00,35,8
+SBP,Line Dancing 1.30-2.30pm,02-Jun-17,13:30:00,35,8
+SBP,Line Dancing 1.30-2.30pm,09-Jun-17,13:30:00,35,8
+SBP,Line Dancing 1.30-2.30pm,16-Jun-17,13:30:00,35,12
+SBP,Line Dancing 1.30-2.30pm,23-Jun-17,13:30:00,35,9
+SBP,Line Dancing 1.30-2.30pm,30-Jun-17,13:30:00,35,12
+SBP,M M A Cond 8.30-9.30am,01-Apr-17,08:30:00,20,8
+SBP,M M A Cond 8.30-9.30am,08-Apr-17,08:30:00,20,7
+SBP,M M A Cond 8.30-9.30am,15-Apr-17,08:30:00,20,6
+SBP,M M A Cond 8.30-9.30am,22-Apr-17,08:30:00,20,5
+SBP,M M A Cond 8.30-9.30am,29-Apr-17,08:30:00,20,5
+SBP,M M A Cond 8.30-9.30am,06-May-17,08:30:00,20,5
+SBP,M M A Cond 8.30-9.30am,13-May-17,08:30:00,20,7
+SBP,M M A Cond 8.30-9.30am,20-May-17,08:30:00,20,8
+SBP,M M A Cond 8.30-9.30am,27-May-17,08:30:00,20,5
+SBP,M M A Cond 8.30-9.30am,03-Jun-17,08:30:00,20,7
+SBP,M M A Cond 8.30-9.30am,10-Jun-17,08:30:00,20,19
+SBP,M M A Cond 8.30-9.30am,17-Jun-17,08:30:00,20,6
+SBP,M M A Cond 8.30-9.30am,24-Jun-17,08:30:00,20,5
+SBP,Metafit 4.30-5.00pm,06-Apr-17,16:30:00,35,2
+SBP,Metafit 4.30-5.00pm,13-Apr-17,16:30:00,35,3
+SBP,Metafit 4.30-5.00pm,20-Apr-17,16:30:00,35,1
+SBP,Metafit 4.30-5.00pm,27-Apr-17,16:30:00,35,2
+SBP,Metafit 4.30-5.00pm,04-May-17,16:30:00,35,4
+SBP,Metafit 4.30-5.00pm,11-May-17,16:30:00,35,3
+SBP,Metafit 4.30-5.00pm,18-May-17,16:30:00,35,4
+SBP,Metafit 4.30-5.00pm,25-May-17,16:30:00,35,3
+SBP,Metafit 4.30-5.00pm,01-Jun-17,16:30:00,35,3
+SBP,Metafit 4.30-5.00pm,08-Jun-17,16:30:00,35,4
+SBP,Metafit 4.30-5.00pm,15-Jun-17,16:30:00,35,3
+SBP,Metafit 4.30-5.00pm,22-Jun-17,16:30:00,35,2
+SBP,Metafit 4.30-5.00pm,29-Jun-17,16:30:00,35,3
+SBP,Physical Yoga 11-12pm,29-Jun-17,11:00:00,35,14
+SBP,Pilates 8.00pm-9.00pm,04-Apr-17,20:00:00,35,31
+SBP,Pilates 8.00pm-9.00pm,11-Apr-17,20:00:00,35,35
+SBP,Pilates 8.00pm-9.00pm,18-Apr-17,20:00:00,35,29
+SBP,Pilates 8.00pm-9.00pm,25-Apr-17,20:00:00,35,35
+SBP,Pilates 8.00pm-9.00pm,02-May-17,20:00:00,35,35
+SBP,Pilates 8.00pm-9.00pm,09-May-17,20:00:00,35,33
+SBP,Pilates 8.00pm-9.00pm,16-May-17,20:00:00,35,35
+SBP,Pilates 8.00pm-9.00pm,23-May-17,20:00:00,35,31
+SBP,Pilates 8.00pm-9.00pm,30-May-17,20:00:00,35,33
+SBP,Pilates 8.00pm-9.00pm,06-Jun-17,20:00:00,35,32
+SBP,Pilates 8.00pm-9.00pm,13-Jun-17,20:00:00,35,34
+SBP,Pilates 8.00pm-9.00pm,20-Jun-17,20:00:00,35,35
+SBP,Pilates 8.00pm-9.00pm,27-Jun-17,20:00:00,35,34
+SBP,Pure Stretch 8-9pm,05-Apr-17,20:00:00,35,16
+SBP,Pure Stretch 8-9pm,12-Apr-17,20:00:00,35,10
+SBP,Pure Stretch 8-9pm,19-Apr-17,20:00:00,35,20
+SBP,Pure Stretch 8-9pm,26-Apr-17,20:00:00,35,13
+SBP,Pure Stretch 8-9pm,03-May-17,20:00:00,35,19
+SBP,Pure Stretch 8-9pm,10-May-17,20:00:00,35,14
+SBP,Pure Stretch 8-9pm,17-May-17,20:00:00,35,14
+SBP,Pure Stretch 8-9pm,24-May-17,20:00:00,35,25
+SBP,Pure Stretch 8-9pm,31-May-17,20:00:00,35,23
+SBP,Pure Stretch 8-9pm,07-Jun-17,20:00:00,35,19
+SBP,Pure Stretch 8-9pm,14-Jun-17,20:00:00,35,22
+SBP,Pure Stretch 8-9pm,21-Jun-17,20:00:00,35,15
+SBP,Pure Stretch 8-9pm,28-Jun-17,20:00:00,35,12
+SBP,Pure Stretch 12.00-1.00pm,06-Apr-17,12:00:00,35,18
+SBP,Pure Stretch 12.00-1.00pm,13-Apr-17,12:00:00,35,20
+SBP,Pure Stretch 12.00-1.00pm,20-Apr-17,12:00:00,35,13
+SBP,Pure Stretch 12.00-1.00pm,27-Apr-17,12:00:00,35,12
+SBP,Pure Stretch 12.00-1.00pm,04-May-17,12:00:00,35,13
+SBP,Pure Stretch 12.00-1.00pm,11-May-17,12:00:00,35,13
+SBP,Pure Stretch 12.00-1.00pm,18-May-17,12:00:00,35,14
+SBP,Pure Stretch 12.00-1.00pm,25-May-17,12:00:00,35,8
+SBP,Pure Stretch 12.00-1.00pm,01-Jun-17,12:00:00,35,10
+SBP,Pure Stretch 12.00-1.00pm,08-Jun-17,12:00:00,35,15
+SBP,Pure Stretch 12.00-1.00pm,15-Jun-17,12:00:00,35,15
+SBP,Pure Stretch 12.00-1.00pm,22-Jun-17,12:00:00,35,14
+SBP,Pure Stretch 12.00-1.00pm,29-Jun-17,12:00:00,35,18
+SBP,Step,08-Apr-17,10:30:00,30,13
+SBP,Step Zumba 6.00-7.00pm,06-Apr-17,18:00:00,30,19
+SBP,Step Zumba 6.00-7.00pm,13-Apr-17,18:00:00,30,15
+SBP,Step Zumba 6.00-7.00pm,27-Apr-17,18:00:00,30,24
+SBP,Step Zumba 6.00-7.00pm,04-May-17,18:00:00,30,25
+SBP,Step Zumba 6.00-7.00pm,11-May-17,18:00:00,30,28
+SBP,Step Zumba 6.00-7.00pm,18-May-17,18:00:00,30,19
+SBP,Step Zumba 6.00-7.00pm,25-May-17,18:00:00,30,16
+SBP,Step Zumba 6.00-7.00pm,01-Jun-17,18:00:00,30,27
+SBP,Step Zumba 6.00-7.00pm,08-Jun-17,18:00:00,30,16
+SBP,Step Zumba 6.00-7.00pm,15-Jun-17,18:00:00,30,17
+SBP,Step Zumba 6.00-7.00pm,22-Jun-17,18:00:00,30,11
+SBP,Stretch   11.30-12.30pm,05-Apr-17,11:30:00,35,22
+SBP,Stretch   11.30-12.30pm,12-Apr-17,11:30:00,35,18
+SBP,Stretch   11.30-12.30pm,19-Apr-17,11:30:00,35,9
+SBP,Stretch   11.30-12.30pm,26-Apr-17,11:30:00,35,15
+SBP,Stretch   11.30-12.30pm,03-May-17,11:30:00,35,15
+SBP,Stretch   11.30-12.30pm,10-May-17,11:30:00,35,10
+SBP,Stretch   11.30-12.30pm,17-May-17,11:30:00,35,18
+SBP,Stretch   11.30-12.30pm,24-May-17,11:30:00,35,15
+SBP,Stretch   11.30-12.30pm,31-May-17,11:30:00,35,9
+SBP,Stretch   11.30-12.30pm,07-Jun-17,11:30:00,35,14
+SBP,Stretch   11.30-12.30pm,14-Jun-17,11:30:00,35,17
+SBP,Stretch   11.30-12.30pm,21-Jun-17,11:30:00,35,16
+SBP,Stretch   11.30-12.30pm,28-Jun-17,11:30:00,35,20
+SBP,Swimfit  7am - 8am,01-Apr-17,07:30:00,29,26
+SBP,Swimfit  7am - 8am,08-Apr-17,07:30:00,29,26
+SBP,Swimfit  7am - 8am,15-Apr-17,07:30:00,29,29
+SBP,Swimfit  7am - 8am,22-Apr-17,07:30:00,29,29
+SBP,Swimfit  7am - 8am,29-Apr-17,07:30:00,29,23
+SBP,Swimfit  7am - 8am,06-May-17,07:30:00,29,27
+SBP,Swimfit  7am - 8am,13-May-17,07:30:00,29,27
+SBP,Swimfit  7am - 8am,20-May-17,07:30:00,29,29
+SBP,Swimfit  7am - 8am,27-May-17,07:30:00,29,24
+SBP,Swimfit  7am - 8am,03-Jun-17,07:30:00,29,19
+SBP,Swimfit  7am - 8am,10-Jun-17,07:30:00,29,20
+SBP,Swimfit  7am - 8am,17-Jun-17,07:30:00,29,18
+SBP,Swimfit  7am - 8am,24-Jun-17,07:30:00,29,14
+SBP,Yoga 6.00-7.00pm,03-Apr-17,18:00:00,35,8
+SBP,Yoga 6.00-7.00pm,10-Apr-17,18:00:00,35,9
+SBP,Yoga 6.00-7.00pm,24-Apr-17,18:00:00,35,14
+SBP,Yoga 6.00-7.00pm,08-May-17,18:00:00,35,20
+SBP,Yoga 6.00-7.00pm,15-May-17,18:00:00,35,19
+SBP,Yoga 6.00-7.00pm,22-May-17,18:00:00,35,25
+SBP,Yoga 6.00-7.00pm,05-Jun-17,18:00:00,35,20
+SBP,Yoga 6.00-7.00pm,12-Jun-17,18:00:00,35,20
+SBP,Yoga 6.00-7.00pm,19-Jun-17,18:00:00,35,16
+SBP,Yoga 6.00-7.00pm,26-Jun-17,18:00:00,35,17
+SBP,Zumba 6.00-7.00pm,07-Apr-17,18:00:00,35,8
+SBP,Zumba 6.00-7.00pm,21-Apr-17,18:00:00,35,9
+SBP,Zumba 6.00-7.00pm,28-Apr-17,18:00:00,35,12
+SBP,Zumba 6.00-7.00pm,05-May-17,18:00:00,35,11
+SBP,Zumba 6.00-7.00pm,12-May-17,18:00:00,35,10
+SBP,Zumba 6.00-7.00pm,19-May-17,18:00:00,35,16
+SBP,Zumba 6.00-7.00pm,26-May-17,18:00:00,35,13
+SBP,Zumba 6.00-7.00pm,02-Jun-17,18:00:00,35,5
+SBP,Zumba 6.00-7.00pm,09-Jun-17,18:00:00,35,6
+SBP,Zumba 6.00-7.00pm,16-Jun-17,18:00:00,35,9
+SBP,Zumba 6.00-7.00pm,30-Jun-17,18:00:00,35,13
+TSC,20-20-20 7.00-8.00pm,05-Apr-17,19:00:00,24,4
+TSC,20-20-20 7.00-8.00pm,12-Apr-17,19:00:00,24,2
+TSC,20-20-20 7.00-8.00pm,19-Apr-17,19:00:00,24,6
+TSC,20-20-20 7.00-8.00pm,26-Apr-17,19:00:00,24,9
+TSC,20-20-20 7.00-8.00pm,03-May-17,19:00:00,24,3
+TSC,20-20-20 7.00-8.00pm,10-May-17,19:00:00,24,8
+TSC,20-20-20 7.00-8.00pm,17-May-17,19:00:00,24,6
+TSC,20-20-20 7.00-8.00pm,24-May-17,19:00:00,24,1
+TSC,20-20-20 7.00-8.00pm,31-May-17,19:00:00,24,3
+TSC,20-20-20 7.00-8.00pm,07-Jun-17,19:00:00,24,6
+TSC,20-20-20 7.00-8.00pm,14-Jun-17,19:00:00,24,6
+TSC,20-20-20 7.00-8.00pm,21-Jun-17,19:00:00,24,10
+TSC,20-20-20 7.00-8.00pm,28-Jun-17,19:00:00,24,7
+TSC,20-20-20 10.00-11.00am,09-May-17,10:00:00,24,14
+TSC,Aqua Zumba  12.00-1.00pm,07-Apr-17,12:00:00,25,12
+TSC,Aqua Zumba  12.00-1.00pm,14-Apr-17,12:00:00,25,1
+TSC,Aqua Zumba  12.00-1.00pm,21-Apr-17,12:00:00,25,8
+TSC,Aqua Zumba  12.00-1.00pm,28-Apr-17,12:00:00,25,10
+TSC,Aqua Zumba  12.00-1.00pm,05-May-17,12:00:00,25,14
+TSC,Aqua Zumba  12.00-1.00pm,12-May-17,12:00:00,25,5
+TSC,Aqua Zumba  12.00-1.00pm,19-May-17,12:00:00,25,2
+TSC,Aqua Zumba  12.00-1.00pm,26-May-17,12:00:00,25,7
+TSC,Aqua Zumba  12.00-1.00pm,09-Jun-17,12:00:00,25,9
+TSC,Aqua Zumba  12.00-1.00pm,16-Jun-17,12:00:00,25,12
+TSC,Aqua Zumba  12.00-1.00pm,23-Jun-17,12:00:00,25,13
+TSC,Aqua Zumba  12.00-1.00pm,30-Jun-17,12:00:00,25,11
+TSC,Aquafit 3.00-3.45pm,04-Apr-17,15:00:00,25,11
+TSC,Aquafit 3.00-3.45pm,11-Apr-17,15:00:00,25,11
+TSC,Aquafit 3.00-3.45pm,18-Apr-17,15:00:00,25,9
+TSC,Aquafit 3.00-3.45pm,25-Apr-17,15:00:00,25,11
+TSC,Aquafit 3.00-3.45pm,02-May-17,15:00:00,25,8
+TSC,Aquafit 3.00-3.45pm,09-May-17,15:00:00,25,13
+TSC,Aquafit 3.00-3.45pm,16-May-17,15:00:00,25,9
+TSC,Aquafit 3.00-3.45pm,23-May-17,15:00:00,25,1
+TSC,Aquafit 3.00-3.45pm,06-Jun-17,15:00:00,25,12
+TSC,Aquafit 3.00-3.45pm,13-Jun-17,15:00:00,25,9
+TSC,Aquafit 3.00-3.45pm,20-Jun-17,15:00:00,25,15
+TSC,Aquafit 3.00-3.45pm,27-Jun-17,15:00:00,25,13
+TSC,Aquafit 7.15-8.15pm,04-Apr-17,19:15:00,25,8
+TSC,Aquafit 7.15-8.15pm,06-Apr-17,19:15:00,25,14
+TSC,Aquafit 7.15-8.15pm,11-Apr-17,19:15:00,25,10
+TSC,Aquafit 7.15-8.15pm,13-Apr-17,19:15:00,25,12
+TSC,Aquafit 7.15-8.15pm,18-Apr-17,19:15:00,25,11
+TSC,Aquafit 7.15-8.15pm,20-Apr-17,19:15:00,25,9
+TSC,Aquafit 7.15-8.15pm,25-Apr-17,19:15:00,25,14
+TSC,Aquafit 7.15-8.15pm,27-Apr-17,19:15:00,25,13
+TSC,Aquafit 7.15-8.15pm,02-May-17,19:15:00,25,8
+TSC,Aquafit 7.15-8.15pm,04-May-17,19:15:00,25,13
+TSC,Aquafit 7.15-8.15pm,09-May-17,19:15:00,25,12
+TSC,Aquafit 7.15-8.15pm,11-May-17,19:15:00,25,10
+TSC,Aquafit 7.15-8.15pm,16-May-17,19:15:00,25,10
+TSC,Aquafit 7.15-8.15pm,18-May-17,19:15:00,25,18
+TSC,Aquafit 7.15-8.15pm,23-May-17,19:15:00,25,22
+TSC,Aquafit 7.15-8.15pm,25-May-17,19:15:00,25,17
+TSC,Aquafit 7.15-8.15pm,06-Jun-17,19:15:00,25,17
+TSC,Aquafit 7.15-8.15pm,08-Jun-17,19:15:00,25,12
+TSC,Aquafit 7.15-8.15pm,13-Jun-17,19:15:00,25,12
+TSC,Aquafit 7.15-8.15pm,15-Jun-17,19:15:00,25,12
+TSC,Aquafit 7.15-8.15pm,20-Jun-17,19:15:00,25,13
+TSC,Aquafit 7.15-8.15pm,22-Jun-17,19:15:00,25,8
+TSC,Aquafit 7.15-8.15pm,27-Jun-17,19:15:00,25,15
+TSC,Aquafit 7.15-8.15pm,29-Jun-17,19:15:00,25,10
+TSC,Aquafit Beginners 10-11am,06-Apr-17,10:00:00,25,18
+TSC,Aquafit Beginners 10-11am,13-Apr-17,10:00:00,25,7
+TSC,Aquafit Beginners 10-11am,20-Apr-17,10:00:00,25,14
+TSC,Aquafit Beginners 10-11am,27-Apr-17,10:00:00,25,13
+TSC,Aquafit Beginners 10-11am,04-May-17,10:00:00,25,12
+TSC,Aquafit Beginners 10-11am,11-May-17,10:00:00,25,19
+TSC,Aquafit Beginners 10-11am,18-May-17,10:00:00,25,14
+TSC,Aquafit Beginners 10-11am,25-May-17,10:00:00,25,13
+TSC,Aquafit Beginners 10-11am,08-Jun-17,10:00:00,25,12
+TSC,Aquafit Beginners 10-11am,15-Jun-17,10:00:00,25,15
+TSC,Aquafit Beginners 10-11am,22-Jun-17,10:00:00,25,12
+TSC,Aquafit Beginners 10-11am,29-Jun-17,10:00:00,25,12
+TSC,Aquatots-11.00-11.45am,07-Apr-17,11:00:00,15,4
+TSC,Aquatots-11.00-11.45am,21-Apr-17,11:00:00,15,1
+TSC,Aquatots-11.00-11.45am,28-Apr-17,11:00:00,15,7
+TSC,Aquatots-11.00-11.45am,05-May-17,11:00:00,15,2
+TSC,Aquatots-11.00-11.45am,12-May-17,11:00:00,15,6
+TSC,Aquatots-11.00-11.45am,19-May-17,11:00:00,15,1
+TSC,Aquatots-11.00-11.45am,09-Jun-17,11:00:00,15,4
+TSC,Aquatots-11.00-11.45am,16-Jun-17,11:00:00,15,11
+TSC,Aquatots-11.00-11.45am,23-Jun-17,11:00:00,15,7
+TSC,Aquatots-11.00-11.45am,30-Jun-17,11:00:00,15,6
+TSC,"Bar Pilate11.30am-12,30pm",07-Apr-17,11:30:00,24,15
+TSC,"Bar Pilate11.30am-12,30pm",14-Apr-17,11:30:00,24,13
+TSC,"Bar Pilate11.30am-12,30pm",21-Apr-17,11:30:00,24,16
+TSC,"Bar Pilate11.30am-12,30pm",28-Apr-17,11:30:00,24,10
+TSC,"Bar Pilate11.30am-12,30pm",05-May-17,11:30:00,24,12
+TSC,"Bar Pilate11.30am-12,30pm",12-May-17,11:30:00,24,17
+TSC,"Bar Pilate11.30am-12,30pm",19-May-17,11:30:00,24,15
+TSC,"Bar Pilate11.30am-12,30pm",26-May-17,11:30:00,24,8
+TSC,"Bar Pilate11.30am-12,30pm",02-Jun-17,11:30:00,24,11
+TSC,"Bar Pilate11.30am-12,30pm",09-Jun-17,11:30:00,24,8
+TSC,"Bar Pilate11.30am-12,30pm",16-Jun-17,11:30:00,24,20
+TSC,"Bar Pilate11.30am-12,30pm",23-Jun-17,11:30:00,24,16
+TSC,"Bar Pilate11.30am-12,30pm",30-Jun-17,11:30:00,24,20
+TSC,Beginner Run 08.30-9.30am,01-Apr-17,08:30:00,24,6
+TSC,Beginner Run 08.30-9.30am,08-Apr-17,08:30:00,24,1
+TSC,Beginner Run 08.30-9.30am,22-Apr-17,08:30:00,24,1
+TSC,Beginner Run 08.30-9.30am,29-Apr-17,08:30:00,24,5
+TSC,Beginner Run 08.30-9.30am,06-May-17,08:30:00,24,11
+TSC,Beginner Run 08.30-9.30am,13-May-17,08:30:00,24,8
+TSC,Beginner Run 08.30-9.30am,27-May-17,08:30:00,24,1
+TSC,Beginner Run 08.30-9.30am,03-Jun-17,08:30:00,24,6
+TSC,Beginner Run 08.30-9.30am,10-Jun-17,08:30:00,24,4
+TSC,Beginner Run 08.30-9.30am,17-Jun-17,08:30:00,24,7
+TSC,Beginner Run 08.30-9.30am,24-Jun-17,08:30:00,24,9
+TSC,Body Con 1.45-2.30pm,07-Apr-17,13:45:00,24,8
+TSC,Body Con 1.45-2.30pm,14-Apr-17,13:30:00,24,7
+TSC,Body Con 1.45-2.30pm,21-Apr-17,13:45:00,24,9
+TSC,Body Con 1.45-2.30pm,28-Apr-17,13:45:00,24,7
+TSC,Body Con 1.45-2.30pm,05-May-17,13:45:00,24,7
+TSC,Body Con 1.45-2.30pm,12-May-17,13:45:00,24,13
+TSC,Body Con 1.45-2.30pm,19-May-17,13:45:00,24,11
+TSC,Body Con 1.45-2.30pm,26-May-17,13:45:00,24,7
+TSC,Body Con 1.45-2.30pm,02-Jun-17,13:45:00,24,8
+TSC,Body Con 1.45-2.30pm,09-Jun-17,13:45:00,24,7
+TSC,Body Con 1.45-2.30pm,16-Jun-17,13:45:00,24,12
+TSC,Body Con 1.45-2.30pm,23-Jun-17,13:45:00,24,9
+TSC,Body Con 1.45-2.30pm,30-Jun-17,13:45:00,24,6
+TSC,Body Con 5.30-6.30pm,04-Apr-17,17:30:00,24,15
+TSC,Body Con 5.30-6.30pm,11-Apr-17,17:30:00,24,12
+TSC,Body Con 5.30-6.30pm,18-Apr-17,17:30:00,24,9
+TSC,Body Con 5.30-6.30pm,25-Apr-17,17:30:00,24,13
+TSC,Body Con 5.30-6.30pm,02-May-17,17:30:00,24,13
+TSC,Body Con 5.30-6.30pm,09-May-17,17:30:00,24,13
+TSC,Body Con 5.30-6.30pm,16-May-17,17:30:00,24,15
+TSC,Body Con 5.30-6.30pm,23-May-17,17:30:00,24,1
+TSC,Body Con 5.30-6.30pm,30-May-17,17:30:00,24,10
+TSC,Body Con 5.30-6.30pm,06-Jun-17,17:30:00,24,10
+TSC,Body Con 5.30-6.30pm,13-Jun-17,17:30:00,24,12
+TSC,Body Con 5.30-6.30pm,20-Jun-17,17:30:00,24,7
+TSC,Body Con 5.30-6.30pm,27-Jun-17,17:30:00,24,14
+TSC,Body Con 09.30-10.30am,03-Apr-17,09:30:00,24,15
+TSC,Body Con 09.30-10.30am,10-Apr-17,09:30:00,24,15
+TSC,Body Con 09.30-10.30am,24-Apr-17,09:30:00,24,12
+TSC,Body Con 09.30-10.30am,01-May-17,09:30:00,24,22
+TSC,Body Con 09.30-10.30am,08-May-17,09:30:00,24,12
+TSC,Body Con 09.30-10.30am,15-May-17,09:30:00,24,11
+TSC,Body Con 09.30-10.30am,22-May-17,09:30:00,24,1
+TSC,Body Con 09.30-10.30am,29-May-17,09:30:00,24,20
+TSC,Body Con 09.30-10.30am,05-Jun-17,09:30:00,24,11
+TSC,Body Con 09.30-10.30am,12-Jun-17,09:30:00,24,1
+TSC,Body Con 09.30-10.30am,19-Jun-17,09:30:00,24,8
+TSC,Body Con 09.30-10.30am,26-Jun-17,09:30:00,24,12
+TSC,Body Con 11.30am-12.30pm,05-Apr-17,11:30:00,24,14
+TSC,Body Con 11.30am-12.30pm,12-Apr-17,11:30:00,24,8
+TSC,Body Con 11.30am-12.30pm,19-Apr-17,11:30:00,24,9
+TSC,Body Con 11.30am-12.30pm,26-Apr-17,11:30:00,24,13
+TSC,Body Con 11.30am-12.30pm,03-May-17,11:30:00,24,10
+TSC,Body Con 11.30am-12.30pm,10-May-17,11:30:00,24,9
+TSC,Body Con 11.30am-12.30pm,17-May-17,11:30:00,24,10
+TSC,Body Con 11.30am-12.30pm,24-May-17,11:30:00,24,9
+TSC,Body Con 11.30am-12.30pm,31-May-17,11:30:00,24,5
+TSC,Body Con 11.30am-12.30pm,07-Jun-17,11:30:00,24,9
+TSC,Body Con 11.30am-12.30pm,14-Jun-17,11:30:00,24,8
+TSC,Body Con 11.30am-12.30pm,21-Jun-17,11:30:00,24,12
+TSC,Body Con 11.30am-12.30pm,28-Jun-17,11:30:00,24,3
+TSC,Body Conditioning 10-11am,02-Apr-17,10:00:00,30,16
+TSC,Body Conditioning 10-11am,07-Apr-17,10:00:00,30,8
+TSC,Body Conditioning 10-11am,09-Apr-17,10:00:00,30,13
+TSC,Body Conditioning 10-11am,14-Apr-17,10:00:00,30,14
+TSC,Body Conditioning 10-11am,16-Apr-17,10:00:00,30,9
+TSC,Body Conditioning 10-11am,21-Apr-17,10:00:00,30,15
+TSC,Body Conditioning 10-11am,23-Apr-17,10:00:00,30,16
+TSC,Body Conditioning 10-11am,28-Apr-17,10:00:00,30,12
+TSC,Body Conditioning 10-11am,30-Apr-17,10:00:00,30,16
+TSC,Body Conditioning 10-11am,05-May-17,10:00:00,30,15
+TSC,Body Conditioning 10-11am,07-May-17,10:00:00,30,18
+TSC,Body Conditioning 10-11am,12-May-17,10:00:00,30,11
+TSC,Body Conditioning 10-11am,14-May-17,10:00:00,30,24
+TSC,Body Conditioning 10-11am,19-May-17,10:00:00,30,9
+TSC,Body Conditioning 10-11am,21-May-17,10:00:00,30,18
+TSC,Body Conditioning 10-11am,26-May-17,10:00:00,30,9
+TSC,Body Conditioning 10-11am,28-May-17,10:00:00,30,17
+TSC,Body Conditioning 10-11am,02-Jun-17,10:00:00,30,9
+TSC,Body Conditioning 10-11am,04-Jun-17,10:00:00,30,15
+TSC,Body Conditioning 10-11am,09-Jun-17,10:00:00,30,18
+TSC,Body Conditioning 10-11am,11-Jun-17,10:00:00,30,27
+TSC,Body Conditioning 10-11am,16-Jun-17,10:00:00,30,12
+TSC,Body Conditioning 10-11am,18-Jun-17,10:00:00,30,12
+TSC,Body Conditioning 10-11am,23-Jun-17,10:00:00,30,14
+TSC,Body Conditioning 10-11am,25-Jun-17,10:00:00,30,15
+TSC,Body Conditioning 10-11am,30-Jun-17,10:00:00,30,14
+TSC,Circuits 7.15-8.15pm,06-Apr-17,19:15:00,50,45
+TSC,Circuits 7.15-8.15pm,13-Apr-17,19:15:00,50,40
+TSC,Circuits 7.15-8.15pm,20-Apr-17,19:15:00,50,37
+TSC,Circuits 7.15-8.15pm,27-Apr-17,19:15:00,50,50
+TSC,Circuits 7.15-8.15pm,04-May-17,19:15:00,50,42
+TSC,Circuits 7.15-8.15pm,11-May-17,19:15:00,50,35
+TSC,Circuits 7.15-8.15pm,18-May-17,19:15:00,50,1
+TSC,Circuits 7.15-8.15pm,25-May-17,19:15:00,50,39
+TSC,Circuits 7.15-8.15pm,01-Jun-17,19:15:00,50,29
+TSC,Circuits 7.15-8.15pm,08-Jun-17,19:15:00,50,32
+TSC,Circuits 7.15-8.15pm,15-Jun-17,19:15:00,50,24
+TSC,Circuits 7.15-8.15pm,22-Jun-17,19:15:00,50,25
+TSC,Circuits 7.15-8.15pm,29-Jun-17,19:15:00,50,24
+TSC,Circuits 17.30-18.30pm,03-Apr-17,17:30:00,50,21
+TSC,Circuits 17.30-18.30pm,10-Apr-17,17:30:00,50,26
+TSC,Circuits 17.30-18.30pm,24-Apr-17,17:30:00,50,16
+TSC,Circuits 17.30-18.30pm,08-May-17,17:30:00,50,14
+TSC,Circuits 17.30-18.30pm,15-May-17,17:30:00,50,15
+TSC,Circuits 17.30-18.30pm,22-May-17,17:30:00,50,16
+TSC,Circuits 17.30-18.30pm,05-Jun-17,17:30:00,50,13
+TSC,Circuits 17.30-18.30pm,12-Jun-17,17:30:00,50,15
+TSC,Circuits 17.30-18.30pm,19-Jun-17,17:30:00,50,13
+TSC,Circuits 17.30-18.30pm,26-Jun-17,17:30:00,50,14
+TSC,Combat Aero 6.30-7.30pm,04-Apr-17,18:30:00,24,13
+TSC,Combat Aero 6.30-7.30pm,11-Apr-17,18:30:00,24,10
+TSC,Combat Aero 6.30-7.30pm,18-Apr-17,18:30:00,24,7
+TSC,Combat Aero 6.30-7.30pm,25-Apr-17,18:30:00,24,13
+TSC,Combat Aero 6.30-7.30pm,02-May-17,18:30:00,24,9
+TSC,Combat Aero 6.30-7.30pm,09-May-17,18:30:00,24,12
+TSC,Combat Aero 6.30-7.30pm,16-May-17,18:30:00,24,11
+TSC,Combat Aero 6.30-7.30pm,23-May-17,18:30:00,24,1
+TSC,Combat Aero 6.30-7.30pm,30-May-17,18:30:00,24,9
+TSC,Combat Aero 6.30-7.30pm,06-Jun-17,18:30:00,24,10
+TSC,Combat Aero 6.30-7.30pm,13-Jun-17,18:30:00,24,10
+TSC,Combat Aero 6.30-7.30pm,20-Jun-17,18:30:00,24,8
+TSC,Combat Aero 6.30-7.30pm,27-Jun-17,18:30:00,24,8
+TSC,Combat Aero 10.30-11.30am,01-Apr-17,10:30:00,24,8
+TSC,Combat Aero 10.30-11.30am,08-Apr-17,10:30:00,24,6
+TSC,Combat Aero 10.30-11.30am,15-Apr-17,10:30:00,24,5
+TSC,Combat Aero 10.30-11.30am,22-Apr-17,10:30:00,24,6
+TSC,Combat Aero 10.30-11.30am,29-Apr-17,10:30:00,24,8
+TSC,Combat Aero 10.30-11.30am,06-May-17,10:30:00,24,6
+TSC,Combat Aero 10.30-11.30am,13-May-17,10:30:00,24,5
+TSC,Combat Aero 10.30-11.30am,20-May-17,10:30:00,24,7
+TSC,Combat Aero 10.30-11.30am,27-May-17,10:30:00,24,3
+TSC,Combat Aero 10.30-11.30am,03-Jun-17,10:30:00,24,7
+TSC,Combat Aero 10.30-11.30am,10-Jun-17,10:30:00,24,12
+TSC,Combat Aero 10.30-11.30am,17-Jun-17,10:30:00,24,6
+TSC,Combat Aero 10.30-11.30am,24-Jun-17,10:30:00,24,8
+TSC,Fitnes Pilate-11.00-12.00,04-Apr-17,11:00:00,24,24
+TSC,Fitnes Pilate-11.00-12.00,11-Apr-17,11:00:00,24,16
+TSC,Fitnes Pilate-11.00-12.00,18-Apr-17,11:00:00,24,20
+TSC,Fitnes Pilate-11.00-12.00,25-Apr-17,11:00:00,24,23
+TSC,Fitnes Pilate-11.00-12.00,02-May-17,11:00:00,24,22
+TSC,Fitnes Pilate-11.00-12.00,09-May-17,11:00:00,24,24
+TSC,Fitnes Pilate-11.00-12.00,16-May-17,11:00:00,24,21
+TSC,Fitnes Pilate-11.00-12.00,23-May-17,11:00:00,24,18
+TSC,Fitnes Pilate-11.00-12.00,30-May-17,11:00:00,24,12
+TSC,Fitnes Pilate-11.00-12.00,06-Jun-17,11:00:00,24,24
+TSC,Fitnes Pilate-11.00-12.00,13-Jun-17,11:00:00,24,23
+TSC,Fitnes Pilate-11.00-12.00,20-Jun-17,11:00:00,24,21
+TSC,Fitnes Pilate-11.00-12.00,27-Jun-17,11:00:00,24,20
+TSC,Fitnes Pilates2.30-3.15pm,07-Apr-17,14:30:00,24,11
+TSC,Fitnes Pilates2.30-3.15pm,14-Apr-17,14:15:00,24,7
+TSC,Fitnes Pilates2.30-3.15pm,21-Apr-17,14:30:00,24,10
+TSC,Fitnes Pilates2.30-3.15pm,28-Apr-17,14:30:00,24,13
+TSC,Fitnes Pilates2.30-3.15pm,05-May-17,14:30:00,24,10
+TSC,Fitnes Pilates2.30-3.15pm,12-May-17,14:30:00,24,14
+TSC,Fitnes Pilates2.30-3.15pm,19-May-17,14:30:00,24,14
+TSC,Fitnes Pilates2.30-3.15pm,26-May-17,14:30:00,24,8
+TSC,Fitnes Pilates2.30-3.15pm,02-Jun-17,14:30:00,24,11
+TSC,Fitnes Pilates2.30-3.15pm,09-Jun-17,14:30:00,24,10
+TSC,Fitnes Pilates2.30-3.15pm,16-Jun-17,14:30:00,24,11
+TSC,Fitnes Pilates2.30-3.15pm,23-Jun-17,14:30:00,24,13
+TSC,Fitnes Pilates2.30-3.15pm,30-Jun-17,14:30:00,24,11
+TSC,Gentle Keep Fit 2 -3.00pm,04-Apr-17,14:00:00,30,12
+TSC,Gentle Keep Fit 2 -3.00pm,05-Apr-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,11-Apr-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,12-Apr-17,14:00:00,30,10
+TSC,Gentle Keep Fit 2 -3.00pm,18-Apr-17,14:00:00,30,5
+TSC,Gentle Keep Fit 2 -3.00pm,19-Apr-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,25-Apr-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,26-Apr-17,14:00:00,30,12
+TSC,Gentle Keep Fit 2 -3.00pm,02-May-17,14:00:00,30,13
+TSC,Gentle Keep Fit 2 -3.00pm,03-May-17,14:00:00,30,1
+TSC,Gentle Keep Fit 2 -3.00pm,09-May-17,14:00:00,30,11
+TSC,Gentle Keep Fit 2 -3.00pm,10-May-17,14:00:00,30,6
+TSC,Gentle Keep Fit 2 -3.00pm,16-May-17,14:00:00,30,10
+TSC,Gentle Keep Fit 2 -3.00pm,17-May-17,14:00:00,30,6
+TSC,Gentle Keep Fit 2 -3.00pm,06-Jun-17,14:00:00,30,5
+TSC,Gentle Keep Fit 2 -3.00pm,07-Jun-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,13-Jun-17,14:00:00,30,3
+TSC,Gentle Keep Fit 2 -3.00pm,14-Jun-17,14:00:00,30,7
+TSC,Gentle Keep Fit 2 -3.00pm,20-Jun-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,21-Jun-17,14:00:00,30,5
+TSC,Gentle Keep Fit 2 -3.00pm,27-Jun-17,14:00:00,30,9
+TSC,Gentle Keep Fit 2 -3.00pm,28-Jun-17,14:00:00,30,7
+TSC,Hatton A B C 6.30-7.30pm,03-Apr-17,18:30:00,20,7
+TSC,Hatton A B C 6.30-7.30pm,24-Apr-17,18:30:00,20,7
+TSC,Hatton A B C 6.30-7.30pm,08-May-17,18:30:00,20,10
+TSC,Hatton A B C 6.30-7.30pm,15-May-17,18:30:00,20,9
+TSC,Hatton A B C 6.30-7.30pm,22-May-17,18:30:00,20,7
+TSC,Hatton A B C 6.30-7.30pm,05-Jun-17,18:30:00,20,8
+TSC,Hatton A B C 6.30-7.30pm,12-Jun-17,18:30:00,20,10
+TSC,Hatton A B C 6.30-7.30pm,19-Jun-17,18:30:00,20,7
+TSC,Hatton A B C 6.30-7.30pm,26-Jun-17,18:30:00,20,8
+TSC,Intermed Run9.30-10.30am,01-Apr-17,09:30:00,24,3
+TSC,Intermed Run9.30-10.30am,08-Apr-17,09:30:00,24,3
+TSC,Intermed Run9.30-10.30am,22-Apr-17,09:30:00,24,5
+TSC,Intermed Run9.30-10.30am,29-Apr-17,09:30:00,24,6
+TSC,Intermed Run9.30-10.30am,06-May-17,09:30:00,24,3
+TSC,Intermed Run9.30-10.30am,13-May-17,09:30:00,24,7
+TSC,Intermed Run9.30-10.30am,20-May-17,09:30:00,24,4
+TSC,Intermed Run9.30-10.30am,27-May-17,09:30:00,24,1
+TSC,Intermed Run9.30-10.30am,03-Jun-17,09:30:00,24,4
+TSC,Intermed Run9.30-10.30am,10-Jun-17,09:30:00,24,3
+TSC,Intermed Run9.30-10.30am,17-Jun-17,09:30:00,24,4
+TSC,Intermed Run9.30-10.30am,24-Jun-17,09:30:00,24,6
+TSC,Junior Gym 3-4pm 8-13yrs,04-Apr-17,15:00:00,10,8
+TSC,Junior Gym 3-4pm 8-13yrs,02-May-17,15:00:00,10,1
+TSC,Junior Gym 4-5pm 8-13yrs,04-Apr-17,16:00:00,10,1
+TSC,Junior Gym 4-5pm 8-13yrs,11-Apr-17,16:00:00,10,3
+TSC,Junior Gym 4-5pm 8-13yrs,18-Apr-17,16:00:00,10,6
+TSC,Junior Gym 4-5pm 8-13yrs,02-May-17,16:00:00,10,3
+TSC,Junior Gym 4-5pm 8-13yrs,09-May-17,16:00:00,10,2
+TSC,Junior Gym 4-5pm 8-13yrs,13-Jun-17,16:00:00,10,1
+TSC,Junior Gym 4-5pm 8-13yrs,27-Jun-17,16:00:00,10,2
+TSC,Junior Gym10-11am 8-13yrs,29-Apr-17,10:00:00,10,3
+TSC,Junior Gym12-1.30pm8-13yr,01-Apr-17,12:00:00,10,1
+TSC,Junior Gym12-1.30pm8-13yr,06-May-17,12:00:00,10,2
+TSC,Junior Gym12-1.30pm8-13yr,10-Jun-17,12:00:00,10,1
+TSC,Legs Bums Tum 6.00-7.00pm,05-Apr-17,18:00:00,24,13
+TSC,Legs Bums Tum 6.00-7.00pm,12-Apr-17,18:00:00,24,13
+TSC,Legs Bums Tum 6.00-7.00pm,19-Apr-17,18:00:00,24,11
+TSC,Legs Bums Tum 6.00-7.00pm,26-Apr-17,18:00:00,24,15
+TSC,Legs Bums Tum 6.00-7.00pm,03-May-17,18:00:00,24,10
+TSC,Legs Bums Tum 6.00-7.00pm,10-May-17,18:00:00,24,15
+TSC,Legs Bums Tum 6.00-7.00pm,17-May-17,18:00:00,24,16
+TSC,Legs Bums Tum 6.00-7.00pm,24-May-17,18:00:00,24,11
+TSC,Legs Bums Tum 6.00-7.00pm,31-May-17,18:00:00,24,9
+TSC,Legs Bums Tum 6.00-7.00pm,07-Jun-17,18:00:00,24,13
+TSC,Legs Bums Tum 6.00-7.00pm,14-Jun-17,18:00:00,24,9
+TSC,Legs Bums Tum 6.00-7.00pm,21-Jun-17,18:00:00,24,14
+TSC,Legs Bums Tum 6.00-7.00pm,28-Jun-17,18:00:00,24,13
+TSC,Pilates 9.30-10.30am,05-Apr-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,07-Apr-17,09:30:00,24,19
+TSC,Pilates 9.30-10.30am,12-Apr-17,09:30:00,24,18
+TSC,Pilates 9.30-10.30am,14-Apr-17,09:30:00,24,21
+TSC,Pilates 9.30-10.30am,19-Apr-17,09:30:00,24,22
+TSC,Pilates 9.30-10.30am,21-Apr-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,26-Apr-17,09:30:00,24,23
+TSC,Pilates 9.30-10.30am,28-Apr-17,09:30:00,24,20
+TSC,Pilates 9.30-10.30am,03-May-17,09:30:00,24,22
+TSC,Pilates 9.30-10.30am,05-May-17,09:30:00,24,19
+TSC,Pilates 9.30-10.30am,10-May-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,12-May-17,09:30:00,24,21
+TSC,Pilates 9.30-10.30am,17-May-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,19-May-17,09:30:00,24,21
+TSC,Pilates 9.30-10.30am,24-May-17,09:30:00,24,23
+TSC,Pilates 9.30-10.30am,26-May-17,09:30:00,24,19
+TSC,Pilates 9.30-10.30am,31-May-17,09:30:00,24,11
+TSC,Pilates 9.30-10.30am,02-Jun-17,09:30:00,24,12
+TSC,Pilates 9.30-10.30am,07-Jun-17,09:30:00,24,23
+TSC,Pilates 9.30-10.30am,09-Jun-17,09:30:00,24,15
+TSC,Pilates 9.30-10.30am,14-Jun-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,16-Jun-17,09:30:00,24,20
+TSC,Pilates 9.30-10.30am,21-Jun-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,23-Jun-17,09:30:00,24,22
+TSC,Pilates 9.30-10.30am,28-Jun-17,09:30:00,24,24
+TSC,Pilates 9.30-10.30am,30-Jun-17,09:30:00,24,23
+TSC,Step 6-7pm,15-Jun-17,18:00:00,14,11
+TSC,Step 6-7pm,22-Jun-17,18:00:00,14,13
+TSC,Step 6-7pm,29-Jun-17,18:00:00,14,13
+TSC,Step 10.00-11.00am,16-May-17,10:00:00,10,10
+TSC,Step 10.00-11.00am,23-May-17,10:00:00,10,7
+TSC,Step 10.00-11.00am,30-May-17,10:00:00,10,9
+TSC,Step Aero 10.00-11.00am,04-Apr-17,10:00:00,10,10
+TSC,Step Aero 10.00-11.00am,11-Apr-17,10:00:00,10,10
+TSC,Step Aero 10.00-11.00am,18-Apr-17,10:00:00,10,10
+TSC,Step Aero 10.00-11.00am,25-Apr-17,10:00:00,10,10
+TSC,Step Aero 10.00-11.00am,02-May-17,10:00:00,10,9
+TSC,Step Aerobics 6-7pm,06-Apr-17,18:00:00,10,15
+TSC,Step Aerobics 6-7pm,13-Apr-17,18:00:00,10,10
+TSC,Step Aerobics 6-7pm,20-Apr-17,18:00:00,10,12
+TSC,Step Aerobics 6-7pm,27-Apr-17,18:00:00,10,11
+TSC,Step Aerobics 6-7pm,04-May-17,18:00:00,10,11
+TSC,Step Aerobics 6-7pm,11-May-17,18:00:00,10,13
+TSC,Step Aerobics 6-7pm,18-May-17,18:00:00,10,1
+TSC,Step Aerobics 6-7pm,25-May-17,18:00:00,10,11
+TSC,Step Aerobics 6-7pm,01-Jun-17,18:00:00,10,10
+TSC,Step Aerobics 6-7pm,08-Jun-17,18:00:00,10,11
+TSC,Step- 10.00-11.00am,06-Jun-17,10:00:00,20,11
+TSC,Step- 10.00-11.00am,13-Jun-17,10:00:00,20,14
+TSC,Step- 10.00-11.00am,20-Jun-17,10:00:00,20,10
+TSC,Step- 10.00-11.00am,27-Jun-17,10:00:00,20,10
+TSC,Stretch Ntone12.30-1.30pm,05-Apr-17,12:30:00,24,11
+TSC,Stretch Ntone12.30-1.30pm,12-Apr-17,12:30:00,24,8
+TSC,Stretch Ntone12.30-1.30pm,19-Apr-17,12:30:00,24,6
+TSC,Stretch Ntone12.30-1.30pm,26-Apr-17,12:30:00,24,12
+TSC,Stretch Ntone12.30-1.30pm,03-May-17,12:30:00,24,10
+TSC,Stretch Ntone12.30-1.30pm,10-May-17,12:30:00,24,9
+TSC,Stretch Ntone12.30-1.30pm,17-May-17,12:30:00,24,8
+TSC,Stretch Ntone12.30-1.30pm,24-May-17,12:30:00,24,13
+TSC,Stretch Ntone12.30-1.30pm,31-May-17,12:30:00,24,10
+TSC,Stretch Ntone12.30-1.30pm,07-Jun-17,12:30:00,24,8
+TSC,Stretch Ntone12.30-1.30pm,14-Jun-17,12:30:00,24,13
+TSC,Stretch Ntone12.30-1.30pm,21-Jun-17,12:30:00,24,11
+TSC,Stretch Ntone12.30-1.30pm,28-Jun-17,12:30:00,24,6
+TSC,Stroke Skill19.15-20.15pm,06-Apr-17,19:15:00,12,10
+TSC,Stroke Skill19.15-20.15pm,13-Apr-17,19:15:00,12,11
+TSC,Stroke Skill19.15-20.15pm,20-Apr-17,19:15:00,12,12
+TSC,Stroke Skill19.15-20.15pm,27-Apr-17,19:15:00,12,10
+TSC,Stroke Skill19.15-20.15pm,04-May-17,19:15:00,12,10
+TSC,Stroke Skill19.15-20.15pm,11-May-17,19:15:00,12,10
+TSC,Stroke Skill19.15-20.15pm,18-May-17,19:15:00,12,12
+TSC,Stroke Skill19.15-20.15pm,25-May-17,19:15:00,12,11
+TSC,Stroke Skill19.15-20.15pm,08-Jun-17,19:15:00,12,6
+TSC,Stroke Skill19.15-20.15pm,15-Jun-17,19:15:00,12,7
+TSC,Stroke Skill19.15-20.15pm,22-Jun-17,19:15:00,12,4
+TSC,Stroke Skill19.15-20.15pm,29-Jun-17,19:15:00,12,5
+TSC,Swim Fit-20.15-21.15pm,06-Apr-17,20:15:00,18,17
+TSC,Swim Fit-20.15-21.15pm,13-Apr-17,20:15:00,18,16
+TSC,Swim Fit-20.15-21.15pm,20-Apr-17,20:15:00,18,17
+TSC,Swim Fit-20.15-21.15pm,27-Apr-17,20:15:00,18,18
+TSC,Swim Fit-20.15-21.15pm,04-May-17,20:15:00,18,14
+TSC,Swim Fit-20.15-21.15pm,11-May-17,20:15:00,18,17
+TSC,Swim Fit-20.15-21.15pm,18-May-17,20:15:00,18,16
+TSC,Swim Fit-20.15-21.15pm,25-May-17,20:15:00,18,15
+TSC,Swim Fit-20.15-21.15pm,08-Jun-17,20:15:00,18,14
+TSC,Swim Fit-20.15-21.15pm,15-Jun-17,20:15:00,18,18
+TSC,Swim Fit-20.15-21.15pm,22-Jun-17,20:15:00,18,16
+TSC,Swim Fit-20.15-21.15pm,29-Jun-17,20:15:00,18,16
+TSC,T M W Tai Chi 5.30-6.30pm,03-Apr-17,17:30:00,24,2
+TSC,T M W Tai Chi 5.30-6.30pm,24-Apr-17,17:30:00,24,2
+TSC,T M W Tai Chi 5.30-6.30pm,08-May-17,17:30:00,24,7
+TSC,T M W Tai Chi 5.30-6.30pm,15-May-17,17:30:00,24,4
+TSC,T M W Tai Chi 5.30-6.30pm,22-May-17,17:30:00,24,3
+TSC,Yoga 1.45-2.45pm,03-Apr-17,13:45:00,24,11
+TSC,Yoga 1.45-2.45pm,10-Apr-17,13:45:00,24,5
+TSC,Yoga 1.45-2.45pm,17-Apr-17,13:45:00,24,2
+TSC,Yoga 1.45-2.45pm,24-Apr-17,13:45:00,24,6
+TSC,Yoga 1.45-2.45pm,01-May-17,13:45:00,24,3
+TSC,Yoga 1.45-2.45pm,08-May-17,13:45:00,24,7
+TSC,Yoga 1.45-2.45pm,15-May-17,13:45:00,24,12
+TSC,Yoga 1.45-2.45pm,22-May-17,13:45:00,24,10
+TSC,Yoga 1.45-2.45pm,29-May-17,13:45:00,24,5
+TSC,Yoga 1.45-2.45pm,05-Jun-17,13:45:00,24,12
+TSC,Yoga 1.45-2.45pm,12-Jun-17,13:45:00,24,9
+TSC,Yoga 1.45-2.45pm,19-Jun-17,13:45:00,24,6
+TSC,Yoga 1.45-2.45pm,26-Jun-17,13:45:00,24,7
+TSC,Yoga 10.30-11.30am,05-Apr-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,07-Apr-17,10:30:00,24,20
+TSC,Yoga 10.30-11.30am,12-Apr-17,10:30:00,24,15
+TSC,Yoga 10.30-11.30am,14-Apr-17,10:30:00,24,21
+TSC,Yoga 10.30-11.30am,19-Apr-17,10:30:00,24,17
+TSC,Yoga 10.30-11.30am,21-Apr-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,26-Apr-17,10:30:00,24,20
+TSC,Yoga 10.30-11.30am,28-Apr-17,10:30:00,24,20
+TSC,Yoga 10.30-11.30am,03-May-17,10:30:00,24,23
+TSC,Yoga 10.30-11.30am,05-May-17,10:30:00,24,23
+TSC,Yoga 10.30-11.30am,10-May-17,10:30:00,24,22
+TSC,Yoga 10.30-11.30am,12-May-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,17-May-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,19-May-17,10:30:00,24,22
+TSC,Yoga 10.30-11.30am,24-May-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,26-May-17,10:30:00,24,14
+TSC,Yoga 10.30-11.30am,31-May-17,10:30:00,24,11
+TSC,Yoga 10.30-11.30am,02-Jun-17,10:30:00,24,12
+TSC,Yoga 10.30-11.30am,07-Jun-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,09-Jun-17,10:30:00,24,18
+TSC,Yoga 10.30-11.30am,14-Jun-17,10:30:00,24,23
+TSC,Yoga 10.30-11.30am,16-Jun-17,10:30:00,24,19
+TSC,Yoga 10.30-11.30am,21-Jun-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,23-Jun-17,10:30:00,24,20
+TSC,Yoga 10.30-11.30am,28-Jun-17,10:30:00,24,24
+TSC,Yoga 10.30-11.30am,30-Jun-17,10:30:00,24,21
+TSC,Yoga 12.45-1.45pm,03-Apr-17,12:45:00,24,11
+TSC,Yoga 12.45-1.45pm,10-Apr-17,12:45:00,24,5
+TSC,Yoga 12.45-1.45pm,17-Apr-17,12:45:00,24,10
+TSC,Yoga 12.45-1.45pm,24-Apr-17,12:45:00,24,11
+TSC,Yoga 12.45-1.45pm,01-May-17,12:45:00,24,12
+TSC,Yoga 12.45-1.45pm,08-May-17,12:45:00,24,11
+TSC,Yoga 12.45-1.45pm,15-May-17,12:45:00,24,11
+TSC,Yoga 12.45-1.45pm,22-May-17,12:45:00,24,8
+TSC,Yoga 12.45-1.45pm,29-May-17,12:45:00,24,7
+TSC,Yoga 12.45-1.45pm,05-Jun-17,12:45:00,24,4
+TSC,Yoga 12.45-1.45pm,12-Jun-17,12:45:00,24,10
+TSC,Yoga 12.45-1.45pm,19-Jun-17,12:45:00,24,8
+TSC,Yoga 12.45-1.45pm,26-Jun-17,12:45:00,24,10
+TSC,Yogalates 7.30-8.30pm,04-Apr-17,19:30:00,24,20
+TSC,Yogalates 7.30-8.30pm,11-Apr-17,19:30:00,24,12
+TSC,Yogalates 7.30-8.30pm,18-Apr-17,19:30:00,24,13
+TSC,Yogalates 7.30-8.30pm,25-Apr-17,19:30:00,24,19
+TSC,Yogalates 7.30-8.30pm,02-May-17,19:30:00,24,19
+TSC,Yogalates 7.30-8.30pm,09-May-17,19:30:00,24,24
+TSC,Yogalates 7.30-8.30pm,16-May-17,19:30:00,24,23
+TSC,Yogalates 7.30-8.30pm,23-May-17,19:30:00,24,1
+TSC,Yogalates 7.30-8.30pm,06-Jun-17,19:30:00,24,23
+TSC,Yogalates 7.30-8.30pm,13-Jun-17,19:30:00,24,23
+TSC,Yogalates 7.30-8.30pm,20-Jun-17,19:30:00,24,23
+TSC,Yogalates 7.30-8.30pm,27-Jun-17,19:30:00,24,24
+TSC,Yogalates 10.00-11.00am,06-Apr-17,10:00:00,24,11
+TSC,Yogalates 10.00-11.00am,13-Apr-17,10:00:00,24,6
+TSC,Yogalates 10.00-11.00am,20-Apr-17,10:00:00,24,7
+TSC,Yogalates 10.00-11.00am,27-Apr-17,10:00:00,24,11
+TSC,Yogalates 10.00-11.00am,04-May-17,10:00:00,24,7
+TSC,Yogalates 10.00-11.00am,11-May-17,10:00:00,24,11
+TSC,Yogalates 10.00-11.00am,18-May-17,10:00:00,24,11
+TSC,Yogalates 10.00-11.00am,25-May-17,10:00:00,24,6
+TSC,Yogalates 10.00-11.00am,01-Jun-17,10:00:00,24,4
+TSC,Yogalates 10.00-11.00am,08-Jun-17,10:00:00,24,7
+TSC,Yogalates 10.00-11.00am,15-Jun-17,10:00:00,24,6
+TSC,Yogalates 10.00-11.00am,22-Jun-17,10:00:00,24,9
+TSC,Yogalates 10.00-11.00am,29-Jun-17,10:00:00,24,10
+TSC,Yogalates- 10.30-11.30am,03-Apr-17,10:30:00,24,14
+TSC,Yogalates- 10.30-11.30am,10-Apr-17,10:30:00,24,14
+TSC,Yogalates- 10.30-11.30am,24-Apr-17,10:30:00,24,14
+TSC,Yogalates- 10.30-11.30am,01-May-17,10:30:00,24,12
+TSC,Yogalates- 10.30-11.30am,08-May-17,10:30:00,24,15
+TSC,Yogalates- 10.30-11.30am,15-May-17,10:30:00,24,12
+TSC,Yogalates- 10.30-11.30am,22-May-17,10:30:00,24,1
+TSC,Yogalates- 10.30-11.30am,29-May-17,10:30:00,24,8
+TSC,Yogalates- 10.30-11.30am,05-Jun-17,10:30:00,24,9
+TSC,Yogalates- 10.30-11.30am,12-Jun-17,10:30:00,24,1
+TSC,Yogalates- 10.30-11.30am,19-Jun-17,10:30:00,24,9
+TSC,Yogalates- 10.30-11.30am,26-Jun-17,10:30:00,24,16
+TSC,Zumba 6.00 - 7.00pm,06-Apr-17,18:00:00,35,14
+TSC,Zumba 6.00 - 7.00pm,13-Apr-17,18:00:00,35,8
+TSC,Zumba 6.00 - 7.00pm,20-Apr-17,18:00:00,35,14
+TSC,Zumba 6.00 - 7.00pm,27-Apr-17,18:00:00,35,19
+TSC,Zumba 6.00 - 7.00pm,04-May-17,18:00:00,35,19
+TSC,Zumba 6.00 - 7.00pm,11-May-17,18:00:00,35,7
+TSC,Zumba 6.00 - 7.00pm,18-May-17,18:00:00,35,28
+TSC,Zumba 6.00 - 7.00pm,25-May-17,18:00:00,35,13
+TSC,Zumba 6.00 - 7.00pm,01-Jun-17,18:00:00,35,12
+TSC,Zumba 6.00 - 7.00pm,08-Jun-17,18:00:00,35,17
+TSC,Zumba 6.00 - 7.00pm,15-Jun-17,18:00:00,35,19
+TSC,Zumba 6.00 - 7.00pm,22-Jun-17,18:00:00,35,1
+TSC,Zumba 6.00 - 7.00pm,29-Jun-17,18:00:00,35,18

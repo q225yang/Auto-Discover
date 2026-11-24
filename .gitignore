@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+# Exceeds GitHub's 100 MiB file limit; retained only in the original local folder.
+main_query_tables/yadl/query_95.csv

@@ -1,0 +1,147 @@
+Unit,Reporting Senior Post,Grade,Payscale Minimum (Â£),Payscale Maximum (Â£),Generic Job Title,Number of Posts in FTE,Professional/Occupational Group
+CEO,585,A,67696,80074,Grade 6,1.0,Policy
+CEO,585,B,59366,70194,Grade 6/7,1.0,Policy
+CEO,585,E,33644,39515,Higher Executive Officer,1.0,Policy
+CEO,585,F,28648,33532,Executive Officer,1.0,Operational Delivery
+Communications,920,B,59366,70194,Grade 6/7,2.49,Communications
+Communications,920,C,53815,63606,Grade 7,0.68,Communications
+Communications,920,D,41831,49336,Senior Executive Officer,4.64,Communications
+Communications,920,DR,37894,45450,Senior Executive Officer,1.0,Communications
+Communications,920,F,28648,33532,Executive Officer,6.0,Communications
+Communications,920,G,22802,25909,Administrative Officer,2.0,Communications
+Corporate Operations,723,A,67696,80074,Grade 6,0.89,Finance
+Corporate Operations,723,A,67696,80074,Grade 6,1.0,Human Resources
+Corporate Operations,723,A,67696,80074,Grade 6,1.0,Information Technology
+Corporate Operations,723,AR,63696,76183,Grade 6,1.0,Human Resources
+Corporate Operations,723,B,59366,70194,Grade 6/7,1.0,Information Technology
+Corporate Operations,723,C,53815,63606,Grade 7,1.0,Finance
+Corporate Operations,723,C,53815,63606,Grade 7,2.59,Human Resources
+Corporate Operations,723,C,53815,63606,Grade 7,1.0,Information Technology
+Corporate Operations,723,C,53815,63606,Grade 7,1.0,Programme and Project Management (PPM)
+Corporate Operations,723,C,53815,63606,Grade 7,1.0,Procurement
+Corporate Operations,723,D,41831,49336,Senior Executive Officer,1.0,Finance
+Corporate Operations,723,D,41831,49336,Senior Executive Officer,0.68,Human Resources
+Corporate Operations,723,D,41831,49336,Senior Executive Officer,3.0,Information Technology
+Corporate Operations,723,D,41831,49336,Senior Executive Officer,1.0,Knowledge and Information Management (KIM)
+Corporate Operations,723,D,41831,49336,Senior Executive Officer,2.0,Property and asset management
+Corporate Operations,723,E,33644,39515,Higher Executive Officer,3.0,Finance
+Corporate Operations,723,E,33644,39515,Higher Executive Officer,2.0,Human Resources
+Corporate Operations,723,E,33644,39515,Higher Executive Officer,2.0,Programme and Project Management (PPM)
+Corporate Operations,723,E,33644,39515,Higher Executive Officer,1.0,Procurement
+Corporate Operations,723,F,28648,33532,Executive Officer,2.0,Finance
+Corporate Operations,723,F,28648,33532,Executive Officer,3.0,Human Resources
+Corporate Operations,723,F,28648,33532,Executive Officer,3.0,Information Technology
+Corporate Operations,723,G,22802,25909,Administrative Officer,1.0,Finance
+Corporate Operations,723,G,22802,25909,Administrative Officer,2.0,Operational Delivery
+Highways,1177,A,67696,80074,Grade 6,0.8,Policy
+Highways,1177,AR,63696,76183,Grade 6,1.0,Policy
+Highways,1177,B,59366,70194,Grade 6/7,1.0,Economics
+Highways,1177,B,59366,70194,Grade 6/7,1.0,Science and Engineering
+Highways,1177,C,53815,63606,Grade 7,0.8,Economics
+Highways,1177,C,53815,63606,Grade 7,2.0,Policy
+Highways,1177,C,53815,63606,Grade 7,2.0,Statisticians
+Highways,1177,DR,37894,45450,Senior Executive Officer,1.0,Statisticians
+Highways,1177,E,33644,39515,Higher Executive Officer,1.0,Policy
+Highways,1177,ER,29715,35657,Higher Executive Officer,1.0,Economics
+Highways,1177,ER,29715,35657,Higher Executive Officer,1.0,Statisticians
+Highways,1177,G,22802,25909,Administrative Officer,1.0,Policy
+Legal Services,1308,A,67696,80074,Grade 6,4.7,Law
+Legal Services,1308,C,53815,63606,Grade 7,5.0,Law
+Legal Services,1308,D,41831,49336,Senior Executive Officer,1.0,Law
+Legal Services,1308,G,22802,25909,Administrative Officer,1.0,Law
+Railway Markets & Economics,90,A,67696,80074,Grade 6,1.0,Economics
+Railway Markets & Economics,597,A,67696,80074,Grade 6,1.0,Economics
+Railway Markets & Economics,949,A,67696,80074,Grade 6,1.0,Policy
+Railway Markets & Economics,597,AR,63696,76183,Grade 6,1.89,Economics
+Railway Markets & Economics,90,AR,63696,76183,Grade 6,1.0,Policy
+Railway Markets & Economics,597,B,59366,70194,Grade 6/7,1.0,Economics
+Railway Markets & Economics,597,B,59366,70194,Grade 6/7,1.0,Policy
+Railway Markets & Economics,949,BR,55367,66302,Grade 6/7,1.0,Policy
+Railway Markets & Economics,597,C,53815,63606,Grade 7,2.0,Economics
+Railway Markets & Economics,90,C,53815,63606,Grade 7,5.0,Policy
+Railway Markets & Economics,949,C,53815,63606,Grade 7,3.58,Policy
+Railway Markets & Economics,597,CR,49814,59716,Grade 7,2.8,Economics
+Railway Markets & Economics,90,CR,49814,59716,Grade 7,3.0,Economics
+Railway Markets & Economics,597,CR,49814,59716,Grade 7,1.0,Policy
+Railway Markets & Economics,597,D,41831,49336,Senior Executive Officer,4.0,Economics
+Railway Markets & Economics,90,D,41831,49336,Senior Executive Officer,1.0,Economics
+Railway Markets & Economics,90,D,41831,49336,Senior Executive Officer,1.0,Operational Delivery
+Railway Markets & Economics,949,D,41831,49336,Senior Executive Officer,2.0,Policy
+Railway Markets & Economics,90,D,41831,49336,Senior Executive Officer,1.0,Policy
+Railway Markets & Economics,597,D,41831,49336,Senior Executive Officer,1.0,Policy
+Railway Markets & Economics,949,DR,37894,45450,Senior Executive Officer,1.0,Policy
+Railway Markets & Economics,90,DR,37894,45450,Senior Executive Officer,1.0,Policy
+Railway Markets & Economics,597,E,33644,39515,Higher Executive Officer,2.0,Economics
+Railway Markets & Economics,90,E,33644,39515,Higher Executive Officer,4.0,Policy
+Railway Markets & Economics,949,E,33644,39515,Higher Executive Officer,1.0,Policy
+Railway Markets & Economics,597,ER,29715,35657,Higher Executive Officer,1.0,Economics
+Railway Markets & Economics,90,ER,29715,35657,Higher Executive Officer,4.0,Policy
+Railway Markets & Economics,90,F,28648,33532,Executive Officer,0.8,Policy
+Railway Markets & Economics,949,F,28648,33532,Executive Officer,1.0,Policy
+Railway Markets & Economics,90,G,22802,25909,Administrative Officer,1.0,Economics
+Railway Markets & Economics,90,G,22802,25909,Administrative Officer,1.5,Policy
+Railway Planning & Performance,621,A,67696,80074,Grade 6,2.0,Science and Engineering
+Railway Planning & Performance,621,A,67696,80074,Grade 6,1.0,Operational Delivery
+Railway Planning & Performance,129,A,67696,80074,Grade 6,0.64,Policy
+Railway Planning & Performance,129,A,67696,80074,Grade 6,0.83,Statisticians
+Railway Planning & Performance,621,AR,63696,76183,Grade 6,1.0,Science and Engineering
+Railway Planning & Performance,621,AR,63696,76183,Grade 6,0.9,Policy
+Railway Planning & Performance,621,B,59366,70194,Grade 6/7,3.0,Science and Engineering
+Railway Planning & Performance,621,B,59366,70194,Grade 6/7,2.0,Operational Delivery
+Railway Planning & Performance,129,B,59366,70194,Grade 6/7,1.0,Operational Delivery
+Railway Planning & Performance,129,B,59366,70194,Grade 6/7,2.0,Policy
+Railway Planning & Performance,621,BR,55367,66302,Grade 6/7,5.0,Science and Engineering
+Railway Planning & Performance,621,BR,55367,66302,Grade 6/7,1.0,Operational Delivery
+Railway Planning & Performance,129,BR,55367,66302,Grade 6/7,2.0,Policy
+Railway Planning & Performance,129,BR,55367,66302,Grade 6/7,1.0,Statisticians
+Railway Planning & Performance,621,C,53815,63606,Grade 7,4.0,Science and Engineering
+Railway Planning & Performance,129,C,53815,63606,Grade 7,2.8,Operational Delivery
+Railway Planning & Performance,621,C,53815,63606,Grade 7,3.0,Operational Delivery
+Railway Planning & Performance,129,C,53815,63606,Grade 7,3.81,Statisticians
+Railway Planning & Performance,621,CR,49814,59716,Grade 7,2.61,Science and Engineering
+Railway Planning & Performance,129,CR,49814,59716,Grade 7,2.0,Operational Delivery
+Railway Planning & Performance,621,CR,49814,59716,Grade 7,1.8,Operational Delivery
+Railway Planning & Performance,621,D,41831,49336,Senior Executive Officer,1.0,Science and Engineering
+Railway Planning & Performance,129,D,41831,49336,Senior Executive Officer,1.0,Operational Delivery
+Railway Planning & Performance,621,D,41831,49336,Senior Executive Officer,1.0,Policy
+Railway Planning & Performance,129,D,41831,49336,Senior Executive Officer,5.0,Statisticians
+Railway Planning & Performance,129,DR,37894,45450,Senior Executive Officer,1.0,Policy
+Railway Planning & Performance,129,E,33644,39515,Higher Executive Officer,2.0,Operational Delivery
+Railway Planning & Performance,129,E,33644,39515,Higher Executive Officer,1.0,Policy
+Railway Planning & Performance,129,E,33644,39515,Higher Executive Officer,3.0,Statisticians
+Railway Planning & Performance,129,F,28648,33532,Executive Officer,1.6,Statisticians
+Railway Planning & Performance,129,G,22802,25909,Administrative Officer,2.0,Operational Delivery
+Railway Safety,1154,A,67696,80074,Grade 6,1.0,Operational Delivery
+Railway Safety,543,A,67696,80074,Grade 6,1.0,Operational Delivery
+Railway Safety,1154,A,67696,80074,Grade 6,1.0,Policy
+Railway Safety,543,AR,63696,76183,Grade 6,3.0,Operational Delivery
+Railway Safety,543,B,59366,70194,Grade 6/7,7.5,Operational Delivery
+Railway Safety,1154,B,59366,70194,Grade 6/7,1.0,Operational Delivery
+Railway Safety,543,BR,55367,66302,Grade 6/7,10.92,Operational Delivery
+Railway Safety,1154,BR,55367,66302,Grade 6/7,2.0,Operational Delivery
+Railway Safety,543,C,53815,63606,Grade 7,9.7,Operational Delivery
+Railway Safety,1154,C,53815,63606,Grade 7,3.65,Operational Delivery
+Railway Safety,543,CR,49814,59716,Grade 7,21.08,Operational Delivery
+Railway Safety,543,D,41831,49336,Senior Executive Officer,9.0,Operational Delivery
+Railway Safety,1154,D,41831,49336,Senior Executive Officer,0.67,Operational Delivery
+Railway Safety,1154,DR,37894,45450,Senior Executive Officer,2.0,Operational Delivery
+Railway Safety,543,DR,37894,45450,Senior Executive Officer,8.0,Operational Delivery
+Railway Safety,1154,DR,37894,45450,Senior Executive Officer,0.92,Policy
+Railway Safety,543,E,33644,39515,Higher Executive Officer,5.79,Operational Delivery
+Railway Safety,1154,E,33644,39515,Higher Executive Officer,1.86,Operational Delivery
+Railway Safety,1154,E,33644,39515,Higher Executive Officer,1.0,Policy
+Railway Safety,543,ER,29715,35657,Higher Executive Officer,6.0,Operational Delivery
+Railway Safety,1154,ER,29715,35657,Higher Executive Officer,1.0,Policy
+Railway Safety,1154,F,28648,33532,Executive Officer,1.0,Operational Delivery
+Railway Safety,543,F,28648,33532,Executive Officer,3.0,Operational Delivery
+Railway Safety,1154,FR,24753,29675,Executive Officer,2.0,Operational Delivery
+Railway Safety,543,FR,24753,29675,Executive Officer,1.0,Operational Delivery
+Railway Safety,1154,G,22802,25909,Administrative Officer,2.0,Operational Delivery
+Railway Safety,543,G,22802,25909,Administrative Officer,2.0,Operational Delivery
+Railway Safety,543,GR,19649,22514,Administrative Officer,4.0,Operational Delivery
+Strategy and Policy,585,A,67696,80074,Grade 6,1.0,Policy
+Strategy and Policy,585,B,59366,70194,Grade 6/7,1.0,Policy
+Strategy and Policy,585,C,53815,63606,Grade 7,1.0,Policy
+Strategy and Policy,585,D,41831,49336,Senior Executive Officer,2.0,Policy
+Strategy and Policy,585,DR,37894,45450,Senior Executive Officer,0.8,Policy
+Strategy and Policy,585,E,33644,39515,Higher Executive Officer,1.0,Policy

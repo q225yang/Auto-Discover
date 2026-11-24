@@ -1,0 +1,10 @@
+Post Unique Reference,Name,Grade (or equivalent),Job Title,Job/Team Function,Unit,Contact E-mail,Reports to Senior Post,Salary Cost of Reports (Â£),Actual Pay Floor (Â£),Actual Pay Ceiling (Â£),Professional/Occupational Group
+81000001,Gareth Llewellyn,SCS2,Chief Executive,Chief Executive,Chief Executive,gareth.llewellyn@dvsa.gov.uk,XX,874052,130000,134999,Other
+81002160,N/D,SCS1,Director of Corporate Affairs,Director of Corporate Affairs,Corporate Affairs,N/D,81000001,8009892,100000,104999,Other
+25270167,N/D,SCS1,Director of Corporate Services,Director of Corporate Services,Corporate Services,N/D,81000001,6701413,70000,74999,Property and asset management
+81002204,N/D,SCS1,Director of Enforcement,Director of Enforcement,Enforcement,N/D,81000001,27064723,70000,74999,Operational Delivery
+81001895,N/D,SCS1,Chief Financial Officer,Chief Financial Officer,Finance,N/D,81000001,4298730,95000,99999,Finance
+81002047,N/D,SCS1,Director of Operations North,Director of Operations North,Operations North,N/D,81000001,30889228,90000,94999,Operational Delivery
+81002389,N/D,SCS1,Director of Operations South,Director of Operations South,Operations South,N/D,81000001,33580078,90000,94999,Operational Delivery
+25266674,N/D,SCS1,Director of Human Resources,Director of Human Resources,People,N/D,81000001,4250740,75000,79999,Human Resources
+25260635,N/D,SCS1,"Director of Strat, Pol, Dig & Tech","Director of Strat, Pol, Dig & Tech","Strategy, Policy, Digital and Technology",N/D,81000001,10434505,75000,79999,Policy
